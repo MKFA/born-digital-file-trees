@@ -11,7 +11,7 @@ document.getElementById("passwordForm").addEventListener("submit", function(even
   // Check if the entered password matches the correct password
   if (password === correctPassword) {
     // Redirect to the protected content
-    window.location.href = "potential-muller-disks.html";
+    window.location.href = "d-0199filetree.html";
   } else {
     alert("Incorrect password. Please try again.");
   }

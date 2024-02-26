@@ -1,2 +1,2 @@
-# appraisal-reports
-HTML reports for AIP appraisal at MKFA
+# file trees
+HTML file trees for appraisal and description at MKFA

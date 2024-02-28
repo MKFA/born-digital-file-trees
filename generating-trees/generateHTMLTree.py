@@ -5,12 +5,14 @@ import sys
 
 # Use file tree util to get a json file tree from a given directory
 def getFileTreeJSON(dir_path):
-    tree = subprocess.run(["tree", "-JDh", dir_path], capture_output=True, text=True, timeout=500)
+    print(f"Getting file tree for {dir_path}")
+    tree = subprocess.run(["tree", "-JDh", dir_path], capture_output=True, text=True)
     return tree.stdout
 
 def generateHTML(dir_path, soup):
     tree_data = getFileTreeJSON(dir_path)
     tree_data = eval(tree_data)  # Convert JSON string to Python dict
+    print(f"Generating HTML for {dir_path} tree")
     body = soup.find('body')
     digital_media_id_search = re.search('D-[\dA-E]{4,5}', tree_data[0]['name'])
     digital_media_id = digital_media_id_search.group()
@@ -52,9 +54,10 @@ def fileTreetoHTML(dir_path, html_file_path):
 
 def main():
     files_path = sys.argv[1]
-    digital_media_id_search = re.search('D-[\dA-E]{4,5}', files_path)
-    digital_media_id = digital_media_id_search.group()
-    fileTreetoHTML(files_path, f'{digital_media_id}-tree.html')
+    digital_media_id_search = re.findall('D-[\dA-E]{4,5}', files_path)
+    digital_media_id = '_'.join(digital_media_id_search)
+    fileTreetoHTML(files_path, f'/Users/mkf26/Documents/code/file-trees/{digital_media_id}-tree.html')
+    print(f"HTML tree created for {digital_media_id}")
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Password Protected Page
+  </title>
+  <link href="https://fonts.googleapis.com" rel="preconnect"/>
+  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap" rel="stylesheet"/>
+  <style>
+   body {
+      font-family: "Roboto", sans-serif;
+      font-size: 18px;
+      line-height: 1.5;
+      color: #333333;
+      background-color: #F2F2F2;
+      padding: 20px;
+    }
+    p {
+      margin: 0;
+    }
+    /* Heading styles */
+    h1 {
+      font-size: 28px;
+      font-weight: bold;
+      color: #222222;
+      margin-bottom: 20px;
+    }
+    
+    h2 {
+      font-size: 24px;
+      font-weight: bold;
+      color: #3e56b3;
+    }
+    
+    h3 {
+      font-size: 20px;
+      font-weight: bold;
+      color: #393952;
+      margin-top: 25px;
+      margin-bottom: 10px;
+      margin-left: 10px;
+    }
+
+    /* Link styles */
+    a {
+      color: #0066CC;
+      text-decoration: none;
+    }
+    
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .dropdown-content {
+      display: none;
+    }
+    .dropdown-content.show {
+      display: block;
+    }
+
+    /* Modal styles */
+    .modal {
+      position: fixed;
+      z-index: 1;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgb(88 136 161);
+    }
+
+    .modal-content {
+      background-color: #fefefe;
+      margin: 15% auto;
+      padding: 20px;
+      border: 1px solid #888;
+      border-radius: 10px;
+      width: 80%;
+      max-width: 400px;
+      text-align: center;
+    }
+  </style>
+ </head>
+ <body>
+  <!-- Modal dialog -->
+  <div class="modal" id="myModal">
+   <div class="modal-content">
+    <h2>
+     Password Required
+    </h2>
+    <p>
+     Please enter the password to access this content:
+    </p>
+    <input id="password" type="password"/>
+    <button onclick="checkPassword()">
+     Submit
+    </button>
+   </div>
+  </div>
+  <script src="script.js">
+  </script>
+  <h1>
+   D-0065 File Tree
+  </h1>
+  <div class="directory" id="D_0065" style="margin-left:10px">
+   <a href="#D_0065" onclick="toggleDropdown(this)">
+    📁  D_0065
+   </a>
+   <div class="dropdown-content">
+    <p class="file" style="margin-left:10px">
+     📃 "MAXINE.EXE" - 242Kb - [Oct  3 10:52]
+    </p>
+    <div class="directory" id="NETREM" style="margin-left:15px">
+     <a href="#NETREM" onclick="toggleDropdown(this)">
+      📁  NETREM
+     </a>
+     <div class="dropdown-content">
+      <p class="file" style="margin-left:15px">
+       📃 "CIN.EXE" - 35Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "CONFIG.EXE" - 14Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "COUT.EXE" - 34Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "GETADDR.EXE" - 26Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "HOTCALL.COM" - 13Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "MENUKEY.EXE" - 7.4Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "NR.ZIP" - 169Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "NRCALL.PID" - 906b - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "READ.ME" - 15Kb - [Oct  3 10:52]
+      </p>
+     </div>
+    </div>
+    <p class="file" style="margin-left:10px">
+     📃 "SOLIT.000" - 13Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "SOLIT.COM" - 61Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "SRCCGA.CDS" - 43Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "SRCEGA.CDS" - 163Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "SRGAME.DAT" - 5.7Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "SRHELP1.DAT" - 1.7Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "SRHELP10.DAT" - 537b - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "SRHELP11.DAT" - 3.6Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "SRHELP12.DAT" - 1.9Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "SRHELP13.DAT" - 1.2Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "SRHELP2.DAT" - 1.4Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "SRHELP3.DAT" - 2.1Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "SRHELP4.DAT" - 1.9Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "SRHELP5.DAT" - 2.2Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "SRHELP6.DAT" - 1.5Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "SRHELP7.DAT" - 1.3Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "SRHELP8.DAT" - 2.4Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "SRHELP9.DAT" - 1.3Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "SRMENU.DAT" - 1.0Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "SRPILES.DAT" - 6.0Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "SRT.DAT" - 4.1Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "TLM8-26.SRG" - 2.4Kb - [Oct  3 10:52]
+    </p>
+    <div class="directory" id="TOOLS" style="margin-left:15px">
+     <a href="#TOOLS" onclick="toggleDropdown(this)">
+      📁  TOOLS
+     </a>
+     <div class="dropdown-content">
+      <p class="file" style="margin-left:15px">
+       📃 "BASK.EXE" - 7.8Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "CHKSETUP.EXE" - 7.7Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "GV.EXE" - 9.3Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "NRREG.CFG" - 58b - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "NXTDSK.EXE" - 8.5Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "PKUNZIP.EXE" - 23Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "PKZIP.EXE" - 33Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "PRODREG.EXE" - 23Kb - [Oct  3 10:52]
+      </p>
+     </div>
+    </div>
+    <p class="file" style="margin-left:10px">
+     📃 "TOURHI.DAT" - 38b - [Oct  3 10:52]
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

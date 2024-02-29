@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Password Protected Page
+  </title>
+  <link href="https://fonts.googleapis.com" rel="preconnect"/>
+  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap" rel="stylesheet"/>
+  <style>
+   body {
+      font-family: "Roboto", sans-serif;
+      font-size: 18px;
+      line-height: 1.5;
+      color: #333333;
+      background-color: #F2F2F2;
+      padding: 20px;
+    }
+    p {
+      margin: 0;
+    }
+    /* Heading styles */
+    h1 {
+      font-size: 28px;
+      font-weight: bold;
+      color: #222222;
+      margin-bottom: 20px;
+    }
+    
+    h2 {
+      font-size: 24px;
+      font-weight: bold;
+      color: #3e56b3;
+    }
+    
+    h3 {
+      font-size: 20px;
+      font-weight: bold;
+      color: #393952;
+      margin-top: 25px;
+      margin-bottom: 10px;
+      margin-left: 10px;
+    }
+
+    /* Link styles */
+    a {
+      color: #0066CC;
+      text-decoration: none;
+    }
+    
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .dropdown-content {
+      display: none;
+    }
+    .dropdown-content.show {
+      display: block;
+    }
+
+    /* Modal styles */
+    .modal {
+      position: fixed;
+      z-index: 1;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgb(88 136 161);
+    }
+
+    .modal-content {
+      background-color: #fefefe;
+      margin: 15% auto;
+      padding: 20px;
+      border: 1px solid #888;
+      border-radius: 10px;
+      width: 80%;
+      max-width: 400px;
+      text-align: center;
+    }
+  </style>
+ </head>
+ <body>
+  <!-- Modal dialog -->
+  <div class="modal" id="myModal">
+   <div class="modal-content">
+    <h2>
+     Password Required
+    </h2>
+    <p>
+     Please enter the password to access this content:
+    </p>
+    <input id="password" type="password"/>
+    <button onclick="checkPassword()">
+     Submit
+    </button>
+   </div>
+  </div>
+  <script src="script.js">
+  </script>
+  <h1>
+   D-0061 File Tree
+  </h1>
+  <div class="directory" id="D_0061" style="margin-left:10px">
+   <a href="#D_0061" onclick="toggleDropdown(this)">
+    📁  D_0061
+   </a>
+   <div class="dropdown-content">
+    <p class="file" style="margin-left:10px">
+     📃 "!ARTICLE.SAN" - 35Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "!ARTISTS.WRI" - 5.8Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "!BIOANDE.XHS" - 39Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "!EXHSBYM.K(R" - 2.2Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "!GPEXHCA.TS(" - 18Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "!ONE-ART.IST" - 4.8Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "!PERFORM.ANC" - 11Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "!VIREXSP.EED" - 412b - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "DESKTOP" - 0b - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "FILEID.DAT" - 1.4Kb - [Oct  3 10:52]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "FINDER.DAT" - 2.3Kb - [Oct  3 10:52]
+    </p>
+    <div class="directory" id="RESOURCE.FRK" style="margin-left:15px">
+     <a href="#RESOURCE.FRK" onclick="toggleDropdown(this)">
+      📁  RESOURCE.FRK
+     </a>
+     <div class="dropdown-content">
+      <p class="file" style="margin-left:15px">
+       📃 "!VIREXSP.EED" - 456b - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "DESKTOP" - 25Kb - [Oct  3 10:52]
+      </p>
+     </div>
+    </div>
+    <div class="directory" id="TRASH" style="margin-left:15px">
+     <a href="#TRASH" onclick="toggleDropdown(this)">
+      📁  TRASH
+     </a>
+     <div class="dropdown-content">
+      <p class="file" style="margin-left:15px">
+       📃 "!ARTICLE.S" - 27Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "!ARTICLE.S(R" - 126Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "!ARTISTS.'W0" - 9.6Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "!ARTISTS.'WR" - 5.5Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "!BIOANDE.XHS" - 36Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "!EXHSBYM.K" - 380b - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "!EXHSCUR.ATE" - 2.5Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "!GPCATS" - 12Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "!GPCATSC.OPY" - 12Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "!GPEXHCA.TS" - 15Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "!ONE-ACA.TS" - 2.4Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "!ONE-AEX.HC0" - 4.5Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "!ONE-AEX.HCA" - 4.5Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "!PERFORM.AN0" - 10Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "!PERFORM.ANC" - 7.8Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "!WORDTEM.P-5" - 38Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "!WORDTEM.P-6" - 9.0Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "BIBLIO~1.TXT" - 34Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "BIOS" - 34Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "ESSAYS~1.TXT" - 6.4Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "FINDER.DAT" - 2.2Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "GROUPC~1.TXT" - 12Kb - [Oct  3 10:52]
+      </p>
+      <div class="directory" id="RESOURCE.FRK" style="margin-left:20px">
+       <a href="#RESOURCE.FRK" onclick="toggleDropdown(this)">
+        📁  RESOURCE.FRK
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "!ARTICLE.S" - 286b - [Oct  3 10:52]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "!EXHSCUR.ATE" - 286b - [Oct  3 10:52]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "BIBLIO~1.TXT" - 286b - [Oct  3 10:52]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "BIOS" - 286b - [Oct  3 10:52]
+        </p>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "RESUME~1.TXT" - 31Kb - [Oct  3 10:52]
+      </p>
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>

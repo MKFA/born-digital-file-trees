@@ -1,37 +1,402 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <title>Appraisal Reports Landing Page</title>
-<style>
-    .container {
-  text-align: center;
-  margin-top: 200px;
-}
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   MKFA File Trees
+  </title>
+  <link href="https://fonts.googleapis.com" rel="preconnect"/>
+  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap" rel="stylesheet"/>
+  <style>
+   body {
+      font-family: "Roboto", sans-serif;
+      font-size: 18px;
+      line-height: 1.5;
+      color: #333333;
+      background-color: #F2F2F2;
+      padding: 20px;
+    }
+    p {
+      margin: 0;
+    }
+    /* Heading styles */
+    h1 {
+      font-size: 28px;
+      font-weight: bold;
+      color: #222222;
+      margin-bottom: 20px;
+    }
+    
+    h2 {
+      font-size: 24px;
+      font-weight: bold;
+      color: #3e56b3;
+    }
+    
+    h3 {
+      font-size: 20px;
+      font-weight: bold;
+      color: #393952;
+      margin-top: 25px;
+      margin-bottom: 10px;
+      margin-left: 10px;
+    }
 
-input[type="password"] {
-  padding: 10px;
-  font-size: 16px;
-}
+    /* Link styles */
+    a {
+      color: #0066CC;
+      text-decoration: none;
+      display: block;
+    }
+    
+    a:hover {
+      text-decoration: underline;
+    }
 
-button {
-  padding: 10px 20px;
-  font-size: 16px;
-  background-color: #4CAF50;
-  color: white;
-  border: none;
-  cursor: pointer;
-}
-</style>
-</head>
-<body>
-  <div class="container">
-    <h1>MKFA Digital Appraisal Reports</h1>
-    <form id="passwordForm">
-      <input type="password" id="passwordInput" placeholder="Enter Password">
-      <button type="submit">Submit</button>
-    </form>
+    .dropdown-content {
+      display: none;
+    }
+    .dropdown-content.show {
+      display: block;
+    }
+
+    /* Modal styles */
+    .modal {
+      position: fixed;
+      z-index: 1;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgb(88 136 161);
+    }
+
+    .modal-content {
+      background-color: #fefefe;
+      margin: 15% auto;
+      padding: 20px;
+      border: 1px solid #888;
+      border-radius: 10px;
+      width: 80%;
+      max-width: 400px;
+      text-align: center;
+    }
+  </style>
+ </head>
+ <body>
+  <!-- Modal dialog -->
+  <div class="modal" id="myModal">
+   <div class="modal-content">
+    <h2>
+     Password Required
+    </h2>
+    <p>
+     Please enter the password to access this content:
+    </p>
+    <input id="password" type="password"/>
+    <button onclick="checkPassword()">
+     Submit
+    </button>
+   </div>
   </div>
-
-  <script src="script.js"></script>
-</body>
+  <script src="script.js">
+  </script>
+  <h1>
+   MKFA Born-Digital File Trees
+  </h1>
+  <a href="D-0001_D-0002-tree.html" target="_blank">
+   D-0001_D-0002
+  </a>
+  <a href="D-0003-tree.html" target="_blank">
+   D-0003
+  </a>
+  <a href="D-0004_D-0157-tree.html" target="_blank">
+   D-0004_D-0157
+  </a>
+  <a href="D-0005_D-0006_D-0007_D-0008_D-0009-tree.html" target="_blank">
+   D-0005_D-0006_D-0007_D-0008_D-0009
+  </a>
+  <a href="D-0010-tree.html" target="_blank">
+   D-0010
+  </a>
+  <a href="D-0011-tree.html" target="_blank">
+   D-0011
+  </a>
+  <a href="D-0012-tree.html" target="_blank">
+   D-0012
+  </a>
+  <a href="D-0013-tree.html" target="_blank">
+   D-0013
+  </a>
+  <a href="D-0014-tree.html" target="_blank">
+   D-0014
+  </a>
+  <a href="D-0015-tree.html" target="_blank">
+   D-0015
+  </a>
+  <a href="D-0016-tree.html" target="_blank">
+   D-0016
+  </a>
+  <a href="D-0017-tree.html" target="_blank">
+   D-0017
+  </a>
+  <a href="D-0018-tree.html" target="_blank">
+   D-0018
+  </a>
+  <a href="D-0019-tree.html" target="_blank">
+   D-0019
+  </a>
+  <a href="D-0020-tree.html" target="_blank">
+   D-0020
+  </a>
+  <a href="D-0021-tree.html" target="_blank">
+   D-0021
+  </a>
+  <a href="D-0022-tree.html" target="_blank">
+   D-0022
+  </a>
+  <a href="D-0023-tree.html" target="_blank">
+   D-0023
+  </a>
+  <a href="D-0024-tree.html" target="_blank">
+   D-0024
+  </a>
+  <a href="D-0025-tree.html" target="_blank">
+   D-0025
+  </a>
+  <a href="D-0027-tree.html" target="_blank">
+   D-0027
+  </a>
+  <a href="D-0028-tree.html" target="_blank">
+   D-0028
+  </a>
+  <a href="D-0029-tree.html" target="_blank">
+   D-0029
+  </a>
+  <a href="D-0030-tree.html" target="_blank">
+   D-0030
+  </a>
+  <a href="D-0031-tree.html" target="_blank">
+   D-0031
+  </a>
+  <a href="D-0032-tree.html" target="_blank">
+   D-0032
+  </a>
+  <a href="D-0033-tree.html" target="_blank">
+   D-0033
+  </a>
+  <a href="D-0034-tree.html" target="_blank">
+   D-0034
+  </a>
+  <a href="D-0035_D-0036_D-0040_D-0041_D-0042_D-0043-tree.html" target="_blank">
+   D-0035_D-0036_D-0040_D-0041_D-0042_D-0043
+  </a>
+  <a href="D-0037_D-0050_D-0051_D-0052_D-0053_D-0054_D-0055_D-0056_D-0057_D-0058_D-0059-tree.html" target="_blank">
+   D-0037_D-0050_D-0051_D-0052_D-0053_D-0054_D-0055_D-0056_D-0057_D-0058_D-0059
+  </a>
+  <a href="D-0038-tree.html" target="_blank">
+   D-0038
+  </a>
+  <a href="D-0039-tree.html" target="_blank">
+   D-0039
+  </a>
+  <a href="D-0044-tree.html" target="_blank">
+   D-0044
+  </a>
+  <a href="D-0045-tree.html" target="_blank">
+   D-0045
+  </a>
+  <a href="D-0047-tree.html" target="_blank">
+   D-0047
+  </a>
+  <a href="D-0049-tree.html" target="_blank">
+   D-0049
+  </a>
+  <a href="D-0061-tree.html" target="_blank">
+   D-0061
+  </a>
+  <a href="D-0062-tree.html" target="_blank">
+   D-0062
+  </a>
+  <a href="D-0063-tree.html" target="_blank">
+   D-0063
+  </a>
+  <a href="D-0064-tree.html" target="_blank">
+   D-0064
+  </a>
+  <a href="D-0065-tree.html" target="_blank">
+   D-0065
+  </a>
+  <a href="D-0066-tree.html" target="_blank">
+   D-0066
+  </a>
+  <a href="D-0067-tree.html" target="_blank">
+   D-0067
+  </a>
+  <a href="D-0071-tree.html" target="_blank">
+   D-0071
+  </a>
+  <a href="D-0074-tree.html" target="_blank">
+   D-0074
+  </a>
+  <a href="D-0090-tree.html" target="_blank">
+   D-0090
+  </a>
+  <a href="D-0092-tree.html" target="_blank">
+   D-0092
+  </a>
+  <a href="D-0093-tree.html" target="_blank">
+   D-0093
+  </a>
+  <a href="D-0094-tree.html" target="_blank">
+   D-0094
+  </a>
+  <a href="D-0095-tree.html" target="_blank">
+   D-0095
+  </a>
+  <a href="D-0096-tree.html" target="_blank">
+   D-0096
+  </a>
+  <a href="D-0097-tree.html" target="_blank">
+   D-0097
+  </a>
+  <a href="D-0098-tree.html" target="_blank">
+   D-0098
+  </a>
+  <a href="D-0100-tree.html" target="_blank">
+   D-0100
+  </a>
+  <a href="D-0101-tree.html" target="_blank">
+   D-0101
+  </a>
+  <a href="D-0102-tree.html" target="_blank">
+   D-0102
+  </a>
+  <a href="D-0103-tree.html" target="_blank">
+   D-0103
+  </a>
+  <a href="D-0104-tree.html" target="_blank">
+   D-0104
+  </a>
+  <a href="D-0105-tree.html" target="_blank">
+   D-0105
+  </a>
+  <a href="D-0106-tree.html" target="_blank">
+   D-0106
+  </a>
+  <a href="D-0199-tree.html" target="_blank">
+   D-0199
+  </a>
+  <a href="D-0200-tree.html" target="_blank">
+   D-0200
+  </a>
+  <a href="D-0203-tree.html" target="_blank">
+   D-0203
+  </a>
+  <a href="D-0205-tree.html" target="_blank">
+   D-0205
+  </a>
+  <a href="D-0210-tree.html" target="_blank">
+   D-0210
+  </a>
+  <a href="D-0211-tree.html" target="_blank">
+   D-0211
+  </a>
+  <a href="D-0212-tree.html" target="_blank">
+   D-0212
+  </a>
+  <a href="D-0214-tree.html" target="_blank">
+   D-0214
+  </a>
+  <a href="D-0216-tree.html" target="_blank">
+   D-0216
+  </a>
+  <a href="D-0218-tree.html" target="_blank">
+   D-0218
+  </a>
+  <a href="D-0220-tree.html" target="_blank">
+   D-0220
+  </a>
+  <a href="D-0221-tree.html" target="_blank">
+   D-0221
+  </a>
+  <a href="D-0223-tree.html" target="_blank">
+   D-0223
+  </a>
+  <a href="D-0224-tree.html" target="_blank">
+   D-0224
+  </a>
+  <a href="D-0225-tree.html" target="_blank">
+   D-0225
+  </a>
+  <a href="D-0226-tree.html" target="_blank">
+   D-0226
+  </a>
+  <a href="D-0229-tree.html" target="_blank">
+   D-0229
+  </a>
+  <a href="D-0230-tree.html" target="_blank">
+   D-0230
+  </a>
+  <a href="D-0231-tree.html" target="_blank">
+   D-0231
+  </a>
+  <a href="D-0232A-tree.html" target="_blank">
+   D-0232A
+  </a>
+  <a href="D-0232B-tree.html" target="_blank">
+   D-0232B
+  </a>
+  <a href="D-0232D-tree.html" target="_blank">
+   D-0232D
+  </a>
+  <a href="D-0235-tree.html" target="_blank">
+   D-0235
+  </a>
+  <a href="D-0237-tree.html" target="_blank">
+   D-0237
+  </a>
+  <a href="D-0240-tree.html" target="_blank">
+   D-0240
+  </a>
+  <a href="D-0243-tree.html" target="_blank">
+   D-0243
+  </a>
+  <a href="D-0244-tree.html" target="_blank">
+   D-0244
+  </a>
+  <a href="D-0248-tree.html" target="_blank">
+   D-0248
+  </a>
+  <a href="D-0251A-tree.html" target="_blank">
+   D-0251A
+  </a>
+  <a href="D-0251B-tree.html" target="_blank">
+   D-0251B
+  </a>
+  <a href="D-0251C-tree.html" target="_blank">
+   D-0251C
+  </a>
+  <a href="D-0251D-tree.html" target="_blank">
+   D-0251D
+  </a>
+  <a href="D-0251E-tree.html" target="_blank">
+   D-0251E
+  </a>
+  <a href="D-0258A-tree.html" target="_blank">
+   D-0258A
+  </a>
+  <a href="D-0258B-tree.html" target="_blank">
+   D-0258B
+  </a>
+  <a href="D-0258C-tree.html" target="_blank">
+   D-0258C
+  </a>
+  <a href="D-0258D-tree.html" target="_blank">
+   D-0258D
+  </a>
+ </body>
 </html>

@@ -1,18 +1,23 @@
-// Define the correct password
-const correctPassword = "poltergeist";
+function toggleDropdown(button) {
+  var parentDiv = button.parentNode; // Get the parent div element
+  var dropdownContent = parentDiv.querySelector('.dropdown-content');
+  dropdownContent.classList.toggle('show');
+}
 
-// Handle form submission
-document.getElementById("passwordForm").addEventListener("submit", function(event) {
-  event.preventDefault(); // Prevent form submission
+// Function to show the password modal
+function showPasswordModal() {
+  var modal = document.getElementById("myModal");
+  modal.style.display = "block";
+}
 
-  // Get the entered password
-  const password = document.getElementById("passwordInput").value;
-
-  // Check if the entered password matches the correct password
-  if (password === correctPassword) {
-    // Redirect to the protected content
-    window.location.href = "d-0199filetree.html";
+// Function to check the password
+function checkPassword() {
+  var password = document.getElementById("password").value;
+  // Replace 'your_password' with the actual password
+  if (password === 'poltergeist') {
+    var modal = document.getElementById("myModal");
+    modal.style.display = "none";
   } else {
     alert("Incorrect password. Please try again.");
   }
-});
+}

@@ -1,3 +1,226 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7709ea13d56db01d8ad4458885f8070b842db3c59b248cc2623530c902c38487
-size 6499
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Password Protected Page
+  </title>
+  <link href="https://fonts.googleapis.com" rel="preconnect"/>
+  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap" rel="stylesheet"/>
+  <style>
+   body {
+      font-family: "Roboto", sans-serif;
+      font-size: 18px;
+      line-height: 1.5;
+      color: #333333;
+      background-color: #F2F2F2;
+      padding: 20px;
+    }
+    p {
+      margin: 0;
+    }
+    /* Heading styles */
+    h1 {
+      font-size: 28px;
+      font-weight: bold;
+      color: #222222;
+      margin-bottom: 20px;
+    }
+    
+    h2 {
+      font-size: 24px;
+      font-weight: bold;
+      color: #3e56b3;
+    }
+    
+    h3 {
+      font-size: 20px;
+      font-weight: bold;
+      color: #393952;
+      margin-top: 25px;
+      margin-bottom: 10px;
+      margin-left: 10px;
+    }
+
+    /* Link styles */
+    a {
+      color: #0066CC;
+      text-decoration: none;
+    }
+    
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .dropdown-content {
+      display: none;
+    }
+    .dropdown-content.show {
+      display: block;
+    }
+
+    /* Modal styles */
+    .modal {
+      position: fixed;
+      z-index: 1;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgb(88 136 161);
+    }
+
+    .modal-content {
+      background-color: #fefefe;
+      margin: 15% auto;
+      padding: 20px;
+      border: 1px solid #888;
+      border-radius: 10px;
+      width: 80%;
+      max-width: 400px;
+      text-align: center;
+    }
+  </style>
+ </head>
+ <body>
+  <!-- Modal dialog -->
+  <div class="modal" id="myModal">
+   <div class="modal-content">
+    <h2>
+     Password Required
+    </h2>
+    <p>
+     Please enter the password to access this content:
+    </p>
+    <input id="password" type="password"/>
+    <button onclick="checkPassword()">
+     Submit
+    </button>
+   </div>
+  </div>
+  <script src="script.js">
+  </script>
+  <h1>
+   D-0106 File Tree
+  </h1>
+  <div class="directory" id="D_0106" style="margin-left:10px">
+   <a href="#D_0106" onclick="toggleDropdown(this)">
+    📁  D_0106
+   </a>
+   <div class="dropdown-content">
+    <div class="directory" id="MCS-WK" style="margin-left:15px">
+     <a href="#MCS-WK" onclick="toggleDropdown(this)">
+      📁  MCS-WK
+     </a>
+     <div class="dropdown-content">
+      <p class="file" style="margin-left:15px">
+       📃 "AppleShare PDS" - 9.0Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Desktop" - 0b - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Desktop DB" - 30Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Desktop DF" - 229Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "DesktopPrinters DB" - 0b - [Oct  3 10:53]
+      </p>
+      <div class="directory" id="ORIG STUFF" style="margin-left:20px">
+       <a href="#ORIG STUFF" onclick="toggleDropdown(this)">
+        📁  ORIG STUFF
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "HAREMS_FP1.jpg" - 1.1Mb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "HAREMS_panels.jpg" - 917Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "HAREMS_side.jpg" - 738Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "panel_1.jpg" - 995Kb - [Oct  3 10:53]
+        </p>
+       </div>
+      </div>
+      <div class="directory" id="TO MUMOK" style="margin-left:20px">
+       <a href="#TO MUMOK" onclick="toggleDropdown(this)">
+        📁  TO MUMOK
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "HR_overview.jpg" - 269Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "HR_wall.jpg" - 330Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "HRpanel_pix2.jpg" - 374Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "HRpanelpix_1.jpg" - 386Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "HRprofile.jpg" - 249Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "harems room.doc" - 42Kb - [Oct  3 10:53]
+        </p>
+       </div>
+      </div>
+      <div class="directory" id="TheVolumeSettingsFolder" style="margin-left:20px">
+       <a href="#TheVolumeSettingsFolder" onclick="toggleDropdown(this)">
+        📁  TheVolumeSettingsFolder
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "DesktopPrinters DB" - 0b - [Oct  3 10:53]
+        </p>
+       </div>
+      </div>
+      <div class="directory" id="Trash" style="margin-left:20px">
+       <a href="#Trash" onclick="toggleDropdown(this)">
+        📁  Trash
+       </a>
+       <div class="dropdown-content">
+        <div class="directory" id="Dreamweaver" style="margin-left:25px">
+         <a href="#Dreamweaver" onclick="toggleDropdown(this)">
+          📁  Dreamweaver
+         </a>
+         <div class="dropdown-content">
+          <div class="directory" id="Headspace Beatnik" style="margin-left:30px">
+           <a href="#Headspace Beatnik" onclick="toggleDropdown(this)">
+            📁  Headspace Beatnik
+           </a>
+           <div class="dropdown-content">
+            <p class="file" style="margin-left:30px">
+             📃 "beatnik.gif" - 2.2Kb - [Oct  3 10:53]
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+        <p class="file" style="margin-left:20px">
+         📃 "HY_FemBag4.psd" - 44Mb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "HY_FemBag5.psd" - 42Mb - [Oct  3 10:53]
+        </p>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "Virex SpeedScan" - 88b - [Oct  3 10:53]
+      </p>
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>

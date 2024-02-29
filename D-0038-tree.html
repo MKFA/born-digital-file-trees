@@ -1,3 +1,541 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:009b71ecbaa984be40bae2e13fc1157bd909324af64ee3396faab7d452965dd3
-size 18166
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Password Protected Page
+  </title>
+  <link href="https://fonts.googleapis.com" rel="preconnect"/>
+  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap" rel="stylesheet"/>
+  <style>
+   body {
+      font-family: "Roboto", sans-serif;
+      font-size: 18px;
+      line-height: 1.5;
+      color: #333333;
+      background-color: #F2F2F2;
+      padding: 20px;
+    }
+    p {
+      margin: 0;
+    }
+    /* Heading styles */
+    h1 {
+      font-size: 28px;
+      font-weight: bold;
+      color: #222222;
+      margin-bottom: 20px;
+    }
+    
+    h2 {
+      font-size: 24px;
+      font-weight: bold;
+      color: #3e56b3;
+    }
+    
+    h3 {
+      font-size: 20px;
+      font-weight: bold;
+      color: #393952;
+      margin-top: 25px;
+      margin-bottom: 10px;
+      margin-left: 10px;
+    }
+
+    /* Link styles */
+    a {
+      color: #0066CC;
+      text-decoration: none;
+    }
+    
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .dropdown-content {
+      display: none;
+    }
+    .dropdown-content.show {
+      display: block;
+    }
+
+    /* Modal styles */
+    .modal {
+      position: fixed;
+      z-index: 1;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgb(88 136 161);
+    }
+
+    .modal-content {
+      background-color: #fefefe;
+      margin: 15% auto;
+      padding: 20px;
+      border: 1px solid #888;
+      border-radius: 10px;
+      width: 80%;
+      max-width: 400px;
+      text-align: center;
+    }
+  </style>
+ </head>
+ <body>
+  <!-- Modal dialog -->
+  <div class="modal" id="myModal">
+   <div class="modal-content">
+    <h2>
+     Password Required
+    </h2>
+    <p>
+     Please enter the password to access this content:
+    </p>
+    <input id="password" type="password"/>
+    <button onclick="checkPassword()">
+     Submit
+    </button>
+   </div>
+  </div>
+  <script src="script.js">
+  </script>
+  <h1>
+   D-0038 File Tree
+  </h1>
+  <div class="directory" id="D_0038" style="margin-left:10px">
+   <a href="#D_0038" onclick="toggleDropdown(this)">
+    📁  D_0038
+   </a>
+   <div class="dropdown-content">
+    <p class="file" style="margin-left:10px">
+     📃 "Desktop" - 0b - [Oct  3 10:52]
+    </p>
+    <div class="directory" id="Jablonka" style="margin-left:15px">
+     <a href="#Jablonka" onclick="toggleDropdown(this)">
+      📁  Jablonka
+     </a>
+     <div class="dropdown-content">
+      <p class="file" style="margin-left:15px">
+       📃 "Black Soul" - 5.1Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "E. Schipper Show" - 2.7Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "F0K64L~L" - 1.6Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "F0V10X~5" - 9.0Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "F8Z6SD~Z" - 3.1Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "FHMA10~G" - 1.9Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "FVP2XO~Y" - 2.5Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "I5SBDN~N" - 2.8Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "IJBBBV~A" - 1.9Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "JBCR0K~L" - 6.7Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "John Reed template instructions" - 7.5Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "KPF75J~O" - 17Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "KXIF1B~P" - 1.5Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "LVI3ZS~7" - 1.4Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "P00JJJ~2" - 2.8Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "P3HIBM~G" - 5.3Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "PBR7SV~3" - 2.5Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "R0JAFJ~0" - 1.8Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "R3JFSW~7" - 5.6Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "RJIWXR~N" - 7.2Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "RXGDRY~1" - 1.3Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Re. Keyhole Angel price" - 5.4Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "SBVRVU~0" - 2.9Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Schipper Show Shipment" - 7.0Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "jablonka consignment" - 14Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "jablonka proforma 6-25-93" - 5.0Kb - [Oct  3 10:52]
+      </p>
+     </div>
+    </div>
+    <div class="directory" id="Kelley Bio Notes" style="margin-left:15px">
+     <a href="#Kelley Bio Notes" onclick="toggleDropdown(this)">
+      📁  Kelley Bio Notes
+     </a>
+     <div class="dropdown-content">
+      <p class="file" style="margin-left:15px">
+       📃 "Bio to Art Ctr" - 7.3Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Hayward, London Bio 2nd Fax" - 5.8Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Hayward, London Bio Fax" - 5.2Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "MG9K7J~I" - 2.8Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Metro update" - 2.3Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "UZ1R41~V" - 4.2Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Working Bibliography" - 50Kb - [Oct  3 10:52]
+      </p>
+     </div>
+    </div>
+    <p class="file" style="margin-left:10px">
+     📃 "Kelley bio" - 107Kb - [Oct  3 10:52]
+    </p>
+    <div class="directory" id="Museums" style="margin-left:15px">
+     <a href="#Museums" onclick="toggleDropdown(this)">
+      📁  Museums
+     </a>
+     <div class="dropdown-content">
+      <p class="file" style="margin-left:15px">
+       📃 "BJG5TR~Z" - 1.7Kb - [Oct  3 10:52]
+      </p>
+      <div class="directory" id="BiNational" style="margin-left:20px">
+       <a href="#BiNational" onclick="toggleDropdown(this)">
+        📁  BiNational
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "BLXH59~6" - 1.9Kb - [Oct  3 10:52]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "BiNation. Fax" - 1.5Kb - [Oct  3 10:52]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "BiNational credits" - 1.7Kb - [Oct  3 10:52]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "INQW1I~B" - 6.7Kb - [Oct  3 10:52]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Loan letter, ICA Boston" - 1.7Kb - [Oct  3 10:52]
+        </p>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "CCAZDN~K" - 2.9Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "HRY7OW~X" - 2.1Kb - [Oct  3 10:52]
+      </p>
+      <div class="directory" id="Hirshhorn" style="margin-left:20px">
+       <a href="#Hirshhorn" onclick="toggleDropdown(this)">
+        📁  Hirshhorn
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "Cruz request brochures" - 5.6Kb - [Oct  3 10:52]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "H62TB9~A" - 3.7Kb - [Oct  3 10:52]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Hirshhorn B&amp;W's" - 5.4Kb - [Oct  3 10:52]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "hirshhorn bio 2" - 4.4Kb - [Oct  3 10:52]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "hirshhorn bio corrections" - 5.2Kb - [Oct  3 10:52]
+        </p>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "JEAKEP~6" - 5.9Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "JQXF83~Y" - 5.4Kb - [Oct  3 10:52]
+      </p>
+      <div class="directory" id="Kunsthalle Basel" style="margin-left:20px">
+       <a href="#Kunsthalle Basel" onclick="toggleDropdown(this)">
+        📁  Kunsthalle Basel
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "From My Instit Slides" - 4.5Kb - [Oct  3 10:52]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Garbage list" - 7.3Kb - [Oct  3 10:52]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Plato's Cave List" - 5.0Kb - [Oct  3 10:52]
+        </p>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "Kunsthalle Wien re. missing" - 6.0Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "LBTSUO~Q" - 3.2Kb - [Oct  3 10:52]
+      </p>
+      <div class="directory" id="MOCA" style="margin-left:20px">
+       <a href="#MOCA" onclick="toggleDropdown(this)">
+        📁  MOCA
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "MKRDFX~R" - 4.5Kb - [Oct  3 10:52]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "MOCA-Metropolis Loan" - 3.9Kb - [Oct  3 10:52]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "MYIHH9~X" - 4.0Kb - [Oct  3 10:52]
+        </p>
+       </div>
+      </div>
+      <div class="directory" id="Musee d'Art Moderne Paris" style="margin-left:20px">
+       <a href="#Musee d'Art Moderne Paris" onclick="toggleDropdown(this)">
+        📁  Musee d'Art Moderne Paris
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "CO2T66~V" - 3.4Kb - [Oct  3 10:52]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "LA PAC re. ship" - 4.3Kb - [Oct  3 10:52]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Musee d'Art Bio 2" - 4.1Kb - [Oct  3 10:52]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Paris Bio" - 18Kb - [Oct  3 10:52]
+        </p>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "Pro Forma Fund. Caja" - 6.0Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Proforma Bordeaux - notebook" - 6.5Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Seattle-Slides" - 2.8Kb - [Oct  3 10:52]
+      </p>
+      <div class="directory" id="Whitney" style="margin-left:20px">
+       <a href="#Whitney" onclick="toggleDropdown(this)">
+        📁  Whitney
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "MA8698~K" - 11Kb - [Oct  3 10:52]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Sussman Show Schedule" - 1.8Kb - [Oct  3 10:52]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Whitney Bio Docs" - 3.7Kb - [Oct  3 10:52]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Whitney re. Laugh Riot" - 3.8Kb - [Oct  3 10:52]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Whitney re. new owner Gar #46" - 9.6Kb - [Oct  3 10:52]
+        </p>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "fox materials" - 3.9Kb - [Oct  3 10:52]
+      </p>
+     </div>
+    </div>
+    <div class="directory" id="October 91 Exhibit" style="margin-left:15px">
+     <a href="#October 91 Exhibit" onclick="toggleDropdown(this)">
+      📁  October 91 Exhibit
+     </a>
+     <div class="dropdown-content">
+      <p class="file" style="margin-left:15px">
+       📃 "KNAWNV~M" - 12Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "KNI636~S" - 6.4Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "KS8PTL~L" - 9.9Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "KSB1KI~O" - 10Kb - [Oct  3 10:52]
+      </p>
+     </div>
+    </div>
+    <div class="directory" id="Other" style="margin-left:15px">
+     <a href="#Other" onclick="toggleDropdown(this)">
+      📁  Other
+     </a>
+     <div class="dropdown-content">
+      <p class="file" style="margin-left:15px">
+       📃 ""La Caixa" invoice" - 13Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "About The John Reed Club" - 5.7Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Craft Morphology Flow Cha (WN3)" - 8.7Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Craft Morphology Flow Chart" - 5.3Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "KDH5JB~T" - 6.2Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Kelley 1992 price list" - 11Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Kelley 1994 price list" - 9.0Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Kelley framing (Whitney)" - 11Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Mike Kelley Video Notes" - 171Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Mike Kelley framing" - 4.2Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Mike Kelley framing (WN3)" - 6.1Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Mike Kelley framing (photos) (W" - 6.7Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Mike's mailing list" - 9.4Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "S. Wayne Consignment" - 2.6Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "SQ435X~2" - 8.6Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "The Survoyuer Text" - 2.8Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "bernard payments" - 5.7Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "garbage list" - 6.3Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "kelley ad for art issues" - 5.6Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "kelley art forum" - 8.4Kb - [Oct  3 10:52]
+      </p>
+     </div>
+    </div>
+    <div class="directory" id="Pansy Metal" style="margin-left:15px">
+     <a href="#Pansy Metal" onclick="toggleDropdown(this)">
+      📁  Pansy Metal
+     </a>
+     <div class="dropdown-content">
+      <p class="file" style="margin-left:15px">
+       📃 "Pansy Met. annc" - 3.2Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Pansy Met. document" - 5.1Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Scarf invite" - 2.5Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "party list" - 5.3Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "scarf invite 2" - 3.3Kb - [Oct  3 10:52]
+      </p>
+     </div>
+    </div>
+    <div class="directory" id="Peter Pakesch" style="margin-left:15px">
+     <a href="#Peter Pakesch" onclick="toggleDropdown(this)">
+      📁  Peter Pakesch
+     </a>
+     <div class="dropdown-content">
+      <p class="file" style="margin-left:15px">
+       📃 "C6SILR~D" - 4.5Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "F9HOQQ~R" - 2.7Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "FC0C9L~P" - 1.5Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "FSPHZE~8" - 2.2Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Fax re. Kelley late ship" - 4.6Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "P4K8YW~1" - 2.5Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "P6V30T~S" - 5.7Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "PHSLOA~N" - 5.6Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "PNBZ8Z~Y" - 5.0Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "SQY1J5~U" - 2.6Kb - [Oct  3 10:52]
+      </p>
+     </div>
+    </div>
+    <p class="file" style="margin-left:10px">
+     📃 "SAM QuickScan File" - 38b - [Oct  3 10:52]
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

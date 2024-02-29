@@ -1,3 +1,185 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fbf8d49304521da4558f9450378179808b0875a79b553e2f4b497e17f5260405
-size 4556
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Password Protected Page
+  </title>
+  <link href="https://fonts.googleapis.com" rel="preconnect"/>
+  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap" rel="stylesheet"/>
+  <style>
+   body {
+      font-family: "Roboto", sans-serif;
+      font-size: 18px;
+      line-height: 1.5;
+      color: #333333;
+      background-color: #F2F2F2;
+      padding: 20px;
+    }
+    p {
+      margin: 0;
+    }
+    /* Heading styles */
+    h1 {
+      font-size: 28px;
+      font-weight: bold;
+      color: #222222;
+      margin-bottom: 20px;
+    }
+    
+    h2 {
+      font-size: 24px;
+      font-weight: bold;
+      color: #3e56b3;
+    }
+    
+    h3 {
+      font-size: 20px;
+      font-weight: bold;
+      color: #393952;
+      margin-top: 25px;
+      margin-bottom: 10px;
+      margin-left: 10px;
+    }
+
+    /* Link styles */
+    a {
+      color: #0066CC;
+      text-decoration: none;
+    }
+    
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .dropdown-content {
+      display: none;
+    }
+    .dropdown-content.show {
+      display: block;
+    }
+
+    /* Modal styles */
+    .modal {
+      position: fixed;
+      z-index: 1;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgb(88 136 161);
+    }
+
+    .modal-content {
+      background-color: #fefefe;
+      margin: 15% auto;
+      padding: 20px;
+      border: 1px solid #888;
+      border-radius: 10px;
+      width: 80%;
+      max-width: 400px;
+      text-align: center;
+    }
+  </style>
+ </head>
+ <body>
+  <!-- Modal dialog -->
+  <div class="modal" id="myModal">
+   <div class="modal-content">
+    <h2>
+     Password Required
+    </h2>
+    <p>
+     Please enter the password to access this content:
+    </p>
+    <input id="password" type="password"/>
+    <button onclick="checkPassword()">
+     Submit
+    </button>
+   </div>
+  </div>
+  <script src="script.js">
+  </script>
+  <h1>
+   D-0035 File Tree
+  </h1>
+  <div class="directory" id="D_0035" style="margin-left:10px">
+   <a href="#D_0035" onclick="toggleDropdown(this)">
+    📁  D_0035
+   </a>
+   <div class="dropdown-content">
+    <p class="file" style="margin-left:10px">
+     📃 "97k.p8" - 145Kb - [Oct  3 10:51]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "kelley97.qbb" - 82Kb - [Oct  3 10:51]
+    </p>
+   </div>
+  </div>
+  <div class="directory" id="D_0036" style="margin-left:10px">
+   <a href="#D_0036" onclick="toggleDropdown(this)">
+    📁  D_0036
+   </a>
+   <div class="dropdown-content">
+    <p class="file" style="margin-left:10px">
+     📃 "KELLEY97.QBB" - 56Kb - [Oct  3 10:51]
+    </p>
+   </div>
+  </div>
+  <div class="directory" id="D_0040" style="margin-left:10px">
+   <a href="#D_0040" onclick="toggleDropdown(this)">
+    📁  D_0040
+   </a>
+   <div class="dropdown-content">
+    <p class="file" style="margin-left:10px">
+     📃 "KSTUD96.QBB" - 252Kb - [Oct  3 10:51]
+    </p>
+   </div>
+  </div>
+  <div class="directory" id="D_0041" style="margin-left:10px">
+   <a href="#D_0041" onclick="toggleDropdown(this)">
+    📁  D_0041
+   </a>
+   <div class="dropdown-content">
+    <p class="file" style="margin-left:10px">
+     📃 "KELLEY97.QBB" - 49Kb - [Oct  3 10:51]
+    </p>
+   </div>
+  </div>
+  <div class="directory" id="D_0042" style="margin-left:10px">
+   <a href="#D_0042" onclick="toggleDropdown(this)">
+    📁  D_0042
+   </a>
+   <div class="dropdown-content">
+    <p class="file" style="margin-left:10px">
+     📃 "KELLEY97.QBB" - 80Kb - [Oct  3 10:51]
+    </p>
+   </div>
+  </div>
+  <div class="directory" id="D_0043" style="margin-left:10px">
+   <a href="#D_0043" onclick="toggleDropdown(this)">
+    📁  D_0043
+   </a>
+   <div class="dropdown-content">
+    <p class="file" style="margin-left:10px">
+     📃 "97k.11" - 181Kb - [Oct  3 10:51]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "97k.11d" - 189Kb - [Oct  3 10:51]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "97k.12" - 204Kb - [Oct  3 10:51]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "97k.p8" - 181Kb - [Oct  3 10:51]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "k1297.QBB" - 240Kb - [Oct  3 10:51]
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

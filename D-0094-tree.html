@@ -1,3 +1,179 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9e3b02f8d574c10b7a7ddf450c7eada08283524ad8c0efae8a80f63dce6cd339
-size 4797
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Password Protected Page
+  </title>
+  <link href="https://fonts.googleapis.com" rel="preconnect"/>
+  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap" rel="stylesheet"/>
+  <style>
+   body {
+      font-family: "Roboto", sans-serif;
+      font-size: 18px;
+      line-height: 1.5;
+      color: #333333;
+      background-color: #F2F2F2;
+      padding: 20px;
+    }
+    p {
+      margin: 0;
+    }
+    /* Heading styles */
+    h1 {
+      font-size: 28px;
+      font-weight: bold;
+      color: #222222;
+      margin-bottom: 20px;
+    }
+    
+    h2 {
+      font-size: 24px;
+      font-weight: bold;
+      color: #3e56b3;
+    }
+    
+    h3 {
+      font-size: 20px;
+      font-weight: bold;
+      color: #393952;
+      margin-top: 25px;
+      margin-bottom: 10px;
+      margin-left: 10px;
+    }
+
+    /* Link styles */
+    a {
+      color: #0066CC;
+      text-decoration: none;
+    }
+    
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .dropdown-content {
+      display: none;
+    }
+    .dropdown-content.show {
+      display: block;
+    }
+
+    /* Modal styles */
+    .modal {
+      position: fixed;
+      z-index: 1;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgb(88 136 161);
+    }
+
+    .modal-content {
+      background-color: #fefefe;
+      margin: 15% auto;
+      padding: 20px;
+      border: 1px solid #888;
+      border-radius: 10px;
+      width: 80%;
+      max-width: 400px;
+      text-align: center;
+    }
+  </style>
+ </head>
+ <body>
+  <!-- Modal dialog -->
+  <div class="modal" id="myModal">
+   <div class="modal-content">
+    <h2>
+     Password Required
+    </h2>
+    <p>
+     Please enter the password to access this content:
+    </p>
+    <input id="password" type="password"/>
+    <button onclick="checkPassword()">
+     Submit
+    </button>
+   </div>
+  </div>
+  <script src="script.js">
+  </script>
+  <h1>
+   D-0094 File Tree
+  </h1>
+  <div class="directory" id="D_0094" style="margin-left:10px">
+   <a href="#D_0094" onclick="toggleDropdown(this)">
+    📁  D_0094
+   </a>
+   <div class="dropdown-content">
+    <div class="directory" id="MK Writings" style="margin-left:15px">
+     <a href="#MK Writings" onclick="toggleDropdown(this)">
+      📁  MK Writings
+     </a>
+     <div class="dropdown-content">
+      <p class="file" style="margin-left:15px">
+       📃 "16 MEANING IS CONFUSED-MAGASIN Desktop.doc" - 104Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Groovin 2.doc" - 144Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "LIGHT AND COLOR MOSTLY (ed. MK JW June 18).doc" - 253Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "LIST OF WRITINGS.doc" - 23Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "LePoeticsSong list.doc" - 36Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "POLE DANCE.doc" - 19Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Picabia interview.rtf" - 12Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Rewrites from Mike.doc" - 58Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "TSHIRT TEXT.doc" - 19Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "ceauKelley_GR11.doc" - 123Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "poledance2.doc" - 20Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "welchman 9.pdf" - 123Kb - [Oct  3 10:52]
+      </p>
+     </div>
+    </div>
+    <div class="directory" id="a" style="margin-left:15px">
+     <a href="#a" onclick="toggleDropdown(this)">
+      📁  a
+     </a>
+     <div class="dropdown-content">
+      <p class="file" style="margin-left:15px">
+       📃 "AN ACADEMIC CUTUP.doc" - 114Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Uncanny Quotes.doc" - 76Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "fontanaessay_03.rtf" - 11Kb - [Oct  3 10:52]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "newuncannyintro.rtf" - 21Kb - [Oct  3 10:52]
+      </p>
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>

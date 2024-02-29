@@ -1,3 +1,970 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eaa0f50bd19b5e9e5bc0e73ffdf748c5749d60dc7b6e3dca8d1dc0a41fb1ab04
-size 36662
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Password Protected Page
+  </title>
+  <link href="https://fonts.googleapis.com" rel="preconnect"/>
+  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap" rel="stylesheet"/>
+  <style>
+   body {
+      font-family: "Roboto", sans-serif;
+      font-size: 18px;
+      line-height: 1.5;
+      color: #333333;
+      background-color: #F2F2F2;
+      padding: 20px;
+    }
+    p {
+      margin: 0;
+    }
+    /* Heading styles */
+    h1 {
+      font-size: 28px;
+      font-weight: bold;
+      color: #222222;
+      margin-bottom: 20px;
+    }
+    
+    h2 {
+      font-size: 24px;
+      font-weight: bold;
+      color: #3e56b3;
+    }
+    
+    h3 {
+      font-size: 20px;
+      font-weight: bold;
+      color: #393952;
+      margin-top: 25px;
+      margin-bottom: 10px;
+      margin-left: 10px;
+    }
+
+    /* Link styles */
+    a {
+      color: #0066CC;
+      text-decoration: none;
+    }
+    
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .dropdown-content {
+      display: none;
+    }
+    .dropdown-content.show {
+      display: block;
+    }
+
+    /* Modal styles */
+    .modal {
+      position: fixed;
+      z-index: 1;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgb(88 136 161);
+    }
+
+    .modal-content {
+      background-color: #fefefe;
+      margin: 15% auto;
+      padding: 20px;
+      border: 1px solid #888;
+      border-radius: 10px;
+      width: 80%;
+      max-width: 400px;
+      text-align: center;
+    }
+  </style>
+ </head>
+ <body>
+  <!-- Modal dialog -->
+  <div class="modal" id="myModal">
+   <div class="modal-content">
+    <h2>
+     Password Required
+    </h2>
+    <p>
+     Please enter the password to access this content:
+    </p>
+    <input id="password" type="password"/>
+    <button onclick="checkPassword()">
+     Submit
+    </button>
+   </div>
+  </div>
+  <script src="script.js">
+  </script>
+  <h1>
+   D-0098 File Tree
+  </h1>
+  <div class="directory" id="D_0098" style="margin-left:10px">
+   <a href="#D_0098" onclick="toggleDropdown(this)">
+    📁  D_0098
+   </a>
+   <div class="dropdown-content">
+    <div class="directory" id="INTERVIEWS &amp; PANEL DISCUSSIONS" style="margin-left:15px">
+     <a href="#INTERVIEWS &amp; PANEL DISCUSSIONS" onclick="toggleDropdown(this)">
+      📁  INTERVIEWS &amp; PANEL DISCUSSIONS
+     </a>
+     <div class="dropdown-content">
+      <div class="directory" id="100 days" style="margin-left:20px">
+       <a href="#100 days" onclick="toggleDropdown(this)">
+        📁  100 days
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "100 Days - Play List.doc" - 33Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "100 Days 1A (1).doc" - 43Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "100 Days 1B (1).doc" - 42Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "100 Days 1C.doc" - 34Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "100 Days 2A (1).doc" - 38Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "100 Days 2A.doc" - 38Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "100 Days 2B.doc" - 36Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "1OO DAYS TRANSCRIPTION.rtf" - 96Kb - [Oct  3 10:53]
+        </p>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "30 MISSING SPACETIME INTERVIEW WITH COLIN AND SKILES.doc" - 84Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "33 A Dialogue Between CHRIS WILDER and MIKE KELLEY.doc" - 226Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "A haute - raw.doc" - 54Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Angus French Interview.doc" - 28Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "CCAC Interview Raw" - 62Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "CCAC Interview.doc" - 30Kb - [Oct  3 10:53]
+      </p>
+      <div class="directory" id="CROSS GENDER INTERVIEWS" style="margin-left:20px">
+       <a href="#CROSS GENDER INTERVIEWS" onclick="toggleDropdown(this)">
+        📁  CROSS GENDER INTERVIEWS
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "A.A. Bronson.doc" - 88Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "E.Antin.doc" - 80Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "G.Malanga.doc" - 74Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "H.Woodlawn.1.doc" - 96Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "J.Appel.doc" - 71Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "M.Stole.doc" - 70Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Mary Woronov.doc" - 268Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Miss Pamela.doc" - 84Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Roger Nyren.doc" - 78Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "S.Farago.doc" - 104Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Sebastian.doc" - 88Kb - [Oct  3 10:53]
+        </p>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "DAM INTERVIEWS ITSELF 2.doc" - 44Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "DAM INTERVIEWS ITSELF.doc" - 22Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Desirable traumas-with corrections.rtf" - 15Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "FINALCooper_int.doc" - 42Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "FREAK CULTURE.doc" - 37Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "French.11.03texte Kelley.doc.rtf" - 12Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "General Idea.doc" - 82Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Guy de Conte.doc" - 71Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "H.N.Jocks.part1.doc" - 82Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "H.N.Jocks.part2.doc" - 126Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "I RIP YOU .rtf" - 39Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "INTVW2.doc" - 60Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Interview_Eikmeyer1.04.doc" - 46Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "KO Interview #1 (1).doc" - 124Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "KOTHENSCHULTE-BRAUNCSHFINAL.doc" - 54Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Kelley interview (1).doc" - 32Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "M.A.Greenstein (1).doc" - 158Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "MISSING SPACE INTERVIEW(ed. Feb 26,2002).doc" - 112Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Markus Muller.rtf" - 34Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Markus Muller_int97.doc" - 80Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "OURSLER.doc" - 1.1Mb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "POETICS JAP INTERVIEW.doc" - 188Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "PicabiaPowers Interview.rtf" - 11Kb - [Oct  3 10:53]
+      </p>
+      <div class="directory" id="SHAW" style="margin-left:20px">
+       <a href="#SHAW" onclick="toggleDropdown(this)">
+        📁  SHAW
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "kelley shaw addendum.doc" - 160Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "kelley,shaw final.doc" - 90Kb - [Oct  3 10:53]
+        </p>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "SODIEPANEL.doc" - 120Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "SinTituloInterview.rtf" - 55Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "THEA.doc" - 31Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "WILDER UFO.doc" - 46Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "de cointet interview.doc" - 145Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "higgs interview edit.doc" - 90Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "ko interview#2 (1).doc" - 41Kb - [Oct  3 10:53]
+      </p>
+     </div>
+    </div>
+    <p class="file" style="margin-left:10px">
+     📃 "KelleyStudioBackup101304" - 2.2Mb - [Oct  3 10:53]
+    </p>
+    <div class="directory" id="Lisa's Documents" style="margin-left:15px">
+     <a href="#Lisa's Documents" onclick="toggleDropdown(this)">
+      📁  Lisa's Documents
+     </a>
+     <div class="dropdown-content">
+      <p class="file" style="margin-left:15px">
+       📃 "2003 1099 letter.doc" - 40Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "2003 Income.doc" - 32Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Art Collection.doc" - 336Kb - [Oct  3 10:53]
+      </p>
+      <div class="directory" id="Banking -Letters" style="margin-left:20px">
+       <a href="#Banking -Letters" onclick="toggleDropdown(this)">
+        📁  Banking -Letters
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "Citizens 6.14.02.doc" - 40Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "First American 8.1.02.doc" - 23Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Granite 11.8.02.doc" - 40Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Union 11.8.02.doc" - 38Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "United 6.14.02.doc" - 24Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Washington 11.8.02.doc" - 39Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Western 6.14.02.doc" - 39Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Wiens Sales 2.7.03.doc" - 40Kb - [Oct  3 10:53]
+        </p>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "CD breakdown.doc" - 30Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Final Tax Totals 2003.doc" - 160Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "First Tax Meeting 2002.doc" - 98Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "First Tax Meeting 2003.doc" - 86Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Gugg_pay3.04.doc" - 40Kb - [Oct  3 10:53]
+      </p>
+      <div class="directory" id="IN BOX" style="margin-left:20px">
+       <a href="#IN BOX" onclick="toggleDropdown(this)">
+        📁  IN BOX
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "California Historical Society_pay4.04.doc" - 19Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Invoice 1_09_04.eml" - 1.2Kb - [Oct 18 15:10]
+        </p>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "Preliminary Totals by Project as of August 14.doc" - 35Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Production Costs for Destroy All Monster.doc" - 19Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Property Details.doc" - 22Kb - [Oct  3 10:53]
+      </p>
+      <div class="directory" id="TATE INVOICES" style="margin-left:20px">
+       <a href="#TATE INVOICES" onclick="toggleDropdown(this)">
+        📁  TATE INVOICES
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "Tate_INVOICE3.5.04.doc" - 32Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Tate_invoiceAbel.doc" - 36Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "UNCANNY PRODUCTION COST.doc" - 39Kb - [Oct  3 10:53]
+        </p>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "TKMason_lumber1.04.doc.rtf" - 17Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "UNCANNY PRODUCTION COST.doc" - 37Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Uncanny Hours - look Mary C.doc" - 28Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "add raph insurance.doc" - 24Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "fax cover.doc" - 24Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "form - tax cert.doc" - 24Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "form letter - med claims.doc" - 34Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "form6166.doc" - 24Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "heidi house.doc" - 24Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "kramer-trust2.doc" - 24Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "letter final taxes 2003.doc" - 24Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "state fund armstrong.doc" - 43Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "state fund loss.doc" - 23Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "topa -loss runs.doc" - 24Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "work comp.doc" - 23Kb - [Oct  3 10:53]
+      </p>
+     </div>
+    </div>
+    <div class="directory" id="M C" style="margin-left:15px">
+     <a href="#M C" onclick="toggleDropdown(this)">
+      📁  M C
+     </a>
+     <div class="dropdown-content">
+      <p class="file" style="margin-left:15px">
+       📃 "1012KimBridwellReport.xls" - 8.5Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "ADDRESSES TO PRINT.doc" - 399Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "EUROPE  CONTACTS.doc" - 39Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Hussenot.xls" - 8.0Kb - [Oct  3 10:53]
+      </p>
+      <div class="directory" id="KANDOR WKG" style="margin-left:20px">
+       <a href="#KANDOR WKG" onclick="toggleDropdown(this)">
+        📁  KANDOR WKG
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "11-189colornu10.jpg" - 152Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "12bottle.jpg" - 24Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "14bottle.jpg" - 28Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "16bottle.jpg" - 27Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "18bottle.jpg" - 29Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "1bottle.jpg" - 46Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "2bottle.jpg" - 26Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "4x5s MIA.doc" - 19Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Kandor Bottles-dimensions.doc" - 34Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Kandor Bottles.doc" - 20Kb - [Oct  3 10:53]
+        </p>
+        <div class="directory" id="Kandor jpegs 5-15-03" style="margin-left:25px">
+         <a href="#Kandor jpegs 5-15-03" onclick="toggleDropdown(this)">
+          📁  Kandor jpegs 5-15-03
+         </a>
+         <div class="dropdown-content">
+          <p class="file" style="margin-left:25px">
+           📃 "01-131colornu11.jpg" - 12Mb - [Oct  3 10:53]
+          </p>
+          <p class="file" style="margin-left:25px">
+           📃 "02-066colornu.jpg" - 7.4Mb - [Oct  3 10:53]
+          </p>
+          <p class="file" style="margin-left:25px">
+           📃 "03-057colornu10.jpg" - 24Mb - [Oct  3 10:53]
+          </p>
+         </div>
+        </div>
+        <p class="file" style="margin-left:20px">
+         📃 "bottle_shape_example.jpg" - 9.9Kb - [Oct  3 10:53]
+        </p>
+        <div class="directory" id="factories" style="margin-left:25px">
+         <a href="#factories" onclick="toggleDropdown(this)">
+          📁  factories
+         </a>
+         <div class="dropdown-content">
+          <p class="file" style="margin-left:25px">
+           📃 "Adjuntos_ 1.txt" - 52b - [Oct  3 10:53]
+          </p>
+         </div>
+        </div>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "Kelley-Hug-Declaration 9.23.03.doc" - 19Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "KelleyHiggsInterAnnot.doc" - 30Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "LYON CONTACT INFO.doc" - 61Kb - [Oct  3 10:53]
+      </p>
+      <div class="directory" id="MC_EXTRACURRICULAR" style="margin-left:20px">
+       <a href="#MC_EXTRACURRICULAR" onclick="toggleDropdown(this)">
+        📁  MC_EXTRACURRICULAR
+       </a>
+       <div class="dropdown-content">
+        <div class="directory" id="DAY IS DONE" style="margin-left:25px">
+         <a href="#DAY IS DONE" onclick="toggleDropdown(this)">
+          📁  DAY IS DONE
+         </a>
+         <div class="dropdown-content">
+          <p class="file" style="margin-left:25px">
+           📃 "COSTUME LIST.xls" - 19Kb - [Oct  3 10:53]
+          </p>
+          <p class="file" style="margin-left:25px">
+           📃 "KelleyStudio Direc-html.htm" - 2.4Kb - [Oct  3 10:53]
+          </p>
+          <p class="file" style="margin-left:25px">
+           📃 "KelleyStudio Direc-rtf.rtf" - 5.5Kb - [Oct  3 10:53]
+          </p>
+          <p class="file" style="margin-left:25px">
+           📃 "KelleyStudio Direc-word.doc" - 47Kb - [Oct  3 10:53]
+          </p>
+          <p class="file" style="margin-left:25px">
+           📃 "XC_prop_costume_list.doc" - 52Kb - [Oct  3 10:53]
+          </p>
+          <p class="file" style="margin-left:25px">
+           📃 "casting_call.doc" - 24Kb - [Oct  3 10:53]
+          </p>
+         </div>
+        </div>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "MK LECTURE SLIDES.doc" - 19Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "MUSIC_mailinglist.xls" - 18Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "MyInstitutionToYours.xls" - 8.5Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "OfficeJokes.xls" - 8.0Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "OfficeJokesFry's.xls" - 8.0Kb - [Oct  3 10:53]
+      </p>
+      <div class="directory" id="PRESS RELEASES" style="margin-left:20px">
+       <a href="#PRESS RELEASES" onclick="toggleDropdown(this)">
+        📁  PRESS RELEASES
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "compoundannexpressrelease2003.doc" - 36Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "kelley_pic.jpg" - 411Kb - [Oct  3 10:53]
+        </p>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "Painter Editions_notes8.03.doc" - 19Kb - [Oct  3 10:53]
+      </p>
+      <div class="directory" id="REF LISTS MK WORKS" style="margin-left:20px">
+       <a href="#REF LISTS MK WORKS" onclick="toggleDropdown(this)">
+        📁  REF LISTS MK WORKS
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "CARPET PTGS ref.doc" - 22Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "LTS-Modulator ref.doc" - 20Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "MEMORY WARE 8.03.doc" - 34Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "MEMORY WARE ref.doc" - 32Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Performance Related Objects.doc" - 20Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "WOODGRAIN PTGS ref.doc" - 29Kb - [Oct  3 10:53]
+        </p>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "Shortcut to My Connection.lnk" - 154b - [Oct  3 10:53]
+      </p>
+      <div class="directory" id="Uncanny files" style="margin-left:20px">
+       <a href="#Uncanny files" onclick="toggleDropdown(this)">
+        📁  Uncanny files
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "CATALOG FIXES.doc" - 24Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "UNCANNY LIST OF ILLUS.doc" - 96Kb - [Oct  3 10:53]
+        </p>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "VENDOR_LIST.xls" - 50Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "annex_press.doc" - 21Kb - [Oct  3 10:53]
+      </p>
+      <div class="directory" id="attachments" style="margin-left:20px">
+       <a href="#attachments" onclick="toggleDropdown(this)">
+        📁  attachments
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "Kelley at MP 03 [v6.0].cwk" - 29Kb - [Oct  3 10:53]
+        </p>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "fax credit card info.doc" - 44Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "fontanaessay.rtf" - 11Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "gulbran_inv1.doc" - 19Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "letterhead.doc" - 106Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "poltergeist_permission.doc" - 38Kb - [Oct  3 10:53]
+      </p>
+      <div class="directory" id="resumes" style="margin-left:20px">
+       <a href="#resumes" onclick="toggleDropdown(this)">
+        📁  resumes
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "Brigette Burns.eml" - 6.8Kb - [Oct 18 15:10]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Brigette Burns_res.doc" - 32Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Katie Kurtz RESUME.doc" - 26Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Ross_McLain.rtf" - 9.9Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "einhorn_resume.pdf" - 102Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "kula_resume (1).doc" - 28Kb - [Oct  3 10:53]
+        </p>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "return_SonnetTECH2.04.doc" - 42Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "rolodex.doc" - 117Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "setup.exe" - 208Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "stedjilk.doc" - 32Kb - [Oct  3 10:53]
+      </p>
+     </div>
+    </div>
+    <div class="directory" id="STATEMENTS &amp; LETTERS" style="margin-left:15px">
+     <a href="#STATEMENTS &amp; LETTERS" onclick="toggleDropdown(this)">
+      📁  STATEMENTS &amp; LETTERS
+     </a>
+     <div class="dropdown-content">
+      <p class="file" style="margin-left:15px">
+       📃 "01 Statement for Prospect 89 Catalogue.doc" - 30Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "02 AJAX ORIGINAL.doc" - 44Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "03 Three Projects by Mike Kelley.doc" - 62Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "04 SOME AESTHETIC HIGH POINTS.doc" - 33Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "06 ALMA PATER.doc" - 50Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "08 WORKS ON PAPER 1975-1976.doc" - 172Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "09 GOIN HOME GOIN HOME.doc" - 16Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "10 LAND-O-LAKES LAND-O-SNAKES.doc" - 24Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "11 PLATO'S CAVE-STATEMENT.doc" - 18Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "12 Statement for We Communicate and TimelessAuthorless.doc" - 12Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "13 SUBLEVEL DIM RECOLLECTIONS.doc" - 58Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "14 OUT OF ACTIONS CURATORIAL STATEMENT.doc" - 51Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "15 A MINOR HISTORY-STATEMENT.rtf" - 12Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "17 ARTS POP CARTIER .doc" - 66Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "18 MEMORY WARE STATEMENTS COMBINED.doc" - 90Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "19 BLACK OUT.doc" - 80Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "20 EYE INFECTION STATEMENT.doc" - 56Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "21 COMPLETE VIDEO NOTES.doc" - 112Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "22 Zoo TV (MTV) Proposal.doc" - 28Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "ART &amp; TEXT NOTES.doc" - 26Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "CATEGORICAL IMPERATIVE.doc" - 90Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "FRAMED&amp;FRAME(press release Metro 1999).doc" - 38Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "GRENOBLE.Press Release.doc" - 40Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "KANDOR PROPOSAL.doc" - 90Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "KANDOR PROPOSAL.rtf" - 17Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "MEMORY WARE-hussenot.doc" - 38Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "MEMORY WARE-jablonka.doc" - 57Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "NIAGARA.doc" - 32Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Out O' Actions VIDEO .doc" - 34Kb - [Oct  3 10:53]
+      </p>
+      <div class="directory" id="Poetics AND MUSIC RELATED" style="margin-left:20px">
+       <a href="#Poetics AND MUSIC RELATED" onclick="toggleDropdown(this)">
+        📁  Poetics AND MUSIC RELATED
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "BILL.doc" - 12Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Beyond the Pink--video scroll text.rtf" - 53Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Beyond the Pink.98(final).doc" - 89Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "DEXTER MICHIGAN.doc" - 101Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Kelley's poetics liner notes.doc" - 36Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "MEMBERS.doc" - 8.2Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "POET2(backup).doc" - 37Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "POETICS.press release Painter 1997.doc" - 52Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "POETICS1.doc" - 17Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "POETICS3.doc" - 8.1Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "POETQUES.doc" - 12Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "POLE DANCE.doc" - 30Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "PUNK.doc" - 8.3Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Poetics Press Release.doc" - 32Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "TO THE THRONE OF CHAOS-DAM CD.doc" - 143Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "VOICES.FLUTE DO IT.doc" - 22Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "WHAT DAM MEANS TO ME-LINER NOTES.doc" - 23Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "full poetics intro.doc" - 69Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "liner notesPOET97.doc" - 9.7Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "oursler's liner notes.doc" - 34Kb - [Oct  3 10:53]
+        </p>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "REVERSALS - METRO 2002.doc" - 26Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "SECESSION PRESS RELEASE.doc" - 39Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "SUPERMAN LETTER.doc" - 46Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Strange Frut-Detroit Statement.doc" - 129Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "TEST ROOM STATEMENT.doc" - 52Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "TEST ROOM-GRENOBLE-STATEMENT.doc" - 20Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "THREE VALLEYS.doc" - 48Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Test Room.doc" - 36Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "The Sublime - Edition.doc" - 36Kb - [Oct  3 10:53]
+      </p>
+      <div class="directory" id="VIDEO STATEMENTS" style="margin-left:20px">
+       <a href="#VIDEO STATEMENTS" onclick="toggleDropdown(this)">
+        📁  VIDEO STATEMENTS
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "A DOMESTIC SCENE-ARTIST STATEMENT.doc" - 69Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "BMAN.doc" - 26Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "FRESH ACCONCI STATEMENT .doc" - 30Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Futurist Ballet (1973).doc" - 20Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Futurist Ballet-Compound (1973).doc" - 36Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "HEIDI VID.doc" - 20Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "RUNWAY FOR INTERACTIVE DJ STATEMENT.doc" - 51Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "SOD &amp; SODIE STATEMENT.doc" - 33Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "SUPERMAN RECITES .doc" - 46Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "SUPERMAN RECITES .rtf" - 6.8Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "THE BANANA MAN-ARTIST STATEMENT.doc" - 10Kb - [Oct  3 10:53]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "VIDEO DESCRIPTIONS.doc" - 35Kb - [Oct  3 10:53]
+        </p>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "an academic cut-up final.rtf" - 66Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "see god statement.doc" - 24Kb - [Oct  3 10:53]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "~$VERSALS - METRO 2002.doc" - 54b - [Oct  3 10:53]
+      </p>
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>

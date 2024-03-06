@@ -14,12 +14,16 @@ def generateHTML(dir_path, soup):
     tree_data = eval(tree_data)  # Convert JSON string to Python dict
     print(f"Generating HTML for {dir_path} tree")
     body = soup.find('body')
-    digital_media_id_search = re.search('D-[\dA-E]{4,5}', tree_data[0]['name'])
-    digital_media_id = digital_media_id_search.group()
+    digital_media_id_search = re.findall('D-[\dA-E]{4,5}', dir_path)
+    digital_media_id = '_'.join(digital_media_id_search)
+    soup.find('title').string = f"{digital_media_id} File Tree"
     header = soup.new_tag('h1')
     header.string = digital_media_id + " File Tree"
     body.append(header)
-    def process_entry(entry, parent, margin):
+    collapse_button = soup.new_tag('button', attrs={"class": "button", "id": "collapseButton", "onclick":"toggleCollapse()"})
+    collapse_button.string = "Collapse All Directories"
+    body.append(collapse_button)
+    def process_entry(entry, parent, margin, file_count=[0]):
         if entry["type"] == "directory":
             # If the directory is not the top-level one, create HTML elements
             if entry.get("contents"):
@@ -35,9 +39,16 @@ def generateHTML(dir_path, soup):
                     for child_entry in entry["contents"]:
                         process_entry(child_entry, dropdown_div, margin)
         elif entry["type"] == "file":
-            file_span = soup.new_tag('p', attrs={"class": "file", "style":f"margin-left:{margin}px"})
-            file_span.string = "📃 " + f'"{entry["name"]}"' + f" - {entry['size']}b - [{entry['time']}]"
-            parent.append(file_span)
+            if file_count[0] < 100:
+                file_span = soup.new_tag('p', attrs={"class": "file", "style":f"margin-left:{margin}px"})
+                file_span.string = "📃 " + f'"{entry["name"]}"' + f" - {entry['size']}b - [{entry['time']}]"
+                parent.append(file_span)
+                file_count[0] += 1
+            elif file_count[0] == 100:
+                file_span = soup.new_tag('p', attrs={"class": "file", "style":f"margin-left:{margin}px"})
+                file_span.string = "etc..."
+                parent.append(file_span)
+                file_count[0] += 1
             #parent.append(soup.new_tag('br'))
     if tree_data[0].get('contents'):
         for entry in tree_data[0]['contents']:
@@ -54,9 +65,11 @@ def fileTreetoHTML(dir_path, html_file_path):
 
 def main():
     files_path = sys.argv[1]
+    # Check if a second argument was provided and is not an empty string
+    file_name_addition = f"-{sys.argv[2]}" if len(sys.argv) > 2 and sys.argv[2] else ''
     digital_media_id_search = re.findall('D-[\dA-E]{4,5}', files_path)
     digital_media_id = '_'.join(digital_media_id_search)
-    fileTreetoHTML(files_path, f'/Users/mkf26/Documents/code/file-trees/{digital_media_id}-tree.html')
+    fileTreetoHTML(files_path, f'/Users/mkf26/Documents/code/file-trees/{digital_media_id}-tree{file_name_addition}.html')
     print(f"HTML tree created for {digital_media_id}")
 
 if __name__ == "__main__":

@@ -1,0 +1,16 @@
+[
+  {"type":"directory","name":"D-0017/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0017","size":"16K","time":"May 31  2023","contents":[
+      {"type":"file","name":"BONHAM","size":"4.0K","time":"Sep 10  1992"},
+      {"type":"file","name":"BONHAM.doc","size":"33K","time":"Apr  7  1998"},
+      {"type":"file","name":"MITCHELL","size":"3.6K","time":"Sep 10  1992"},
+      {"type":"file","name":"MITCHELL.doc","size":"34K","time":"Apr  7  1998"},
+      {"type":"file","name":"MOON","size":"2.1K","time":"Sep 10  1992"},
+      {"type":"file","name":"MOON.doc","size":"29K","time":"Apr  7  1998"},
+      {"type":"file","name":"WHALEY","size":"3.5K","time":"Sep 10  1992"},
+      {"type":"file","name":"WHALEY.doc","size":"32K","time":"Apr  7  1998"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":8}
+]

@@ -1,0 +1,24 @@
+[
+  {"type":"directory","name":"D-0018/extracted_files","size":"16K","time":"Jun  5  2023","contents":[
+    {"type":"directory","name":"D_0018","size":"16K","time":"Jun  5  2023","contents":[
+      {"type":"file","name":"BIBLIOGR","size":"5.7K","time":"Mar 23  1994"},
+      {"type":"file","name":"CATALOGU","size":"4.7K","time":"Apr 19  1993"},
+      {"type":"file","name":"CATALOGU.doc","size":"28K","time":"Apr  7  1998"},
+      {"type":"file","name":"COMICS","size":"3.5K","time":"May 10  1993"},
+      {"type":"file","name":"COMICS.doc","size":"28K","time":"Apr  7  1998"},
+      {"type":"file","name":"CRATES","size":"7.1K","time":"Apr 28  1993"},
+      {"type":"file","name":"HAREMS","size":"1.2K","time":"May  3  1993"},
+      {"type":"file","name":"SBL","size":"26K","time":"May 10  1993"},
+      {"type":"file","name":"SBL.doc","size":"50K","time":"Apr  7  1998"},
+      {"type":"file","name":"SPRESSRE","size":"6.4K","time":"Mar 21  1993"},
+      {"type":"file","name":"SPRESSRE.doc","size":"34K","time":"Apr  7  1998"},
+      {"type":"file","name":"THEORY.doc","size":"36K","time":"Apr  7  1998"},
+      {"type":"file","name":"UNCANNY","size":"71K","time":"Jul 22  1996"},
+      {"type":"file","name":"UNCANNY.doc","size":"94K","time":"Apr  7  1998"},
+      {"type":"file","name":"WISHLIST","size":"8.5K","time":"Sep 24  1992"},
+      {"type":"file","name":"WISHLIST.doc","size":"42K","time":"Apr  7  1998"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":16}
+]

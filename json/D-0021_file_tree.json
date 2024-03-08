@@ -1,0 +1,17 @@
+[
+  {"type":"directory","name":"D-0021/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0021","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"!SAMQUIC.KSC","size":"38","time":"Jun 30  2006"},
+      {"type":"file","name":"DESKTOP","size":"0","time":"Jun 30  2006"},
+      {"type":"file","name":"FILEID.DAT","size":"128","time":"Jun 30  2006"},
+      {"type":"file","name":"FINDER.DAT","size":"880","time":"Jun 30  2006"},
+      {"type":"directory","name":"RESOURCE.FRK","size":"16K","time":"Jun 30  2006","contents":[
+        {"type":"file","name":"DESKTOP","size":"345","time":"Jun 30  2006"}
+      ]},
+      {"type":"file","name":"statements.doc","size":"27K","time":"Sep  5  1998"},
+      {"type":"file","name":"vog.doc","size":"34K","time":"Sep  5  1998"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":3,"files":7}
+]

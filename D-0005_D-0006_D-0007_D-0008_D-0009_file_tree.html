@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   D-0005_D-0006_D-0007_D-0008_D-0009 File Tree
+  </title>
+  <link href="https://fonts.googleapis.com" rel="preconnect"/>
+  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap" rel="stylesheet"/>
+  <style>
+   body {
+       font-family: "Roboto", sans-serif;
+       font-size: 18px;
+       line-height: 1.5;
+       color: #333333;
+       background-color: #F2F2F2;
+       padding: 20px;
+     }
+     p {
+       margin: 0;
+     }
+     /* Heading styles */
+     h1 {
+       font-size: 28px;
+       font-weight: bold;
+       color: #222222;
+       margin-bottom: 20px;
+       position: relative;
+     }
+     
+     h2 {
+       font-size: 24px;
+       font-weight: bold;
+       color: #3e56b3;
+     }
+     
+     h3 {
+       font-size: 20px;
+       font-weight: bold;
+       color: #393952;
+       margin-top: 25px;
+       margin-bottom: 10px;
+       margin-left: 10px;
+     }
+ 
+     /* Link styles */
+     a {
+       color: #0066CC;
+       text-decoration: none;
+     }
+ 
+     
+     
+     a:hover {
+       text-decoration: underline;
+     }
+ 
+     .dropdown-content {
+       display: block;
+     }
+     .dropdown-content.hide {
+       display: none;
+     }
+     .button {
+   display: inline-block;
+   padding: 10px 20px;
+   font-size: 16px;
+   font-weight: bold;
+   text-align: center;
+   text-decoration: none;
+   cursor: pointer;
+   border: none;
+   border-radius: 5px;
+   transition: background-color 0.3s ease;
+   position: fixed; /* Position the button absolutely */
+   top: 10%; /* Align vertically to the middle of the parent element */
+   right: 2%; /* Align to the right edge of the parent element */
+   transform: translateY(-50%); /* Adjust vertical position */
+ }
+ 
+ /* Styles for the default state */
+ .button {
+   color: #fff;
+   background-color: #3498db; /* Blue */
+ }
+ 
+ /* Hover styles */
+ .button:hover {
+   background-color: #2980b9; /* Darker blue */
+ }
+     /* Modal styles */
+     .modal {
+       position: fixed;
+       z-index: 1;
+       left: 0;
+       top: 0;
+       width: 100%;
+       height: 100%;
+       overflow: auto;
+       background-color: rgb(88 136 161);
+     }
+ 
+     .modal-content {
+       background-color: #fefefe;
+       margin: 15% auto;
+       padding: 20px;
+       border: 1px solid #888;
+       border-radius: 10px;
+       width: 80%;
+       max-width: 400px;
+       text-align: center;
+     }
+  </style>
+ </head>
+ <body>
+  <!-- Modal dialog -->
+  <div class="modal" id="myModal">
+   <div class="modal-content">
+    <h2>
+     Password Required
+    </h2>
+    <p>
+     Please enter the password to access this content:
+    </p>
+    <input id="password" type="password"/>
+    <button onclick="checkPassword()">
+     Submit
+    </button>
+   </div>
+  </div>
+  <script src="../script.js">
+  </script>
+  <h1>
+   D-0005_D-0006_D-0007_D-0008_D-0009 File Tree
+  </h1>
+  <button class="button" id="collapseButton" onclick="toggleCollapse()">
+   Collapse All Directories
+  </button>
+  <div class="directory" id="D_0005" style="margin-left:10px">
+   <a href="#D_0005" onclick="toggleDropdown(this)">
+    📁  D_0005
+   </a>
+   <div class="dropdown-content">
+    <div class="directory" id="INTERVIEWS &amp; PANEL DISCUSSIONS" style="margin-left:15px">
+     <a href="#INTERVIEWS &amp; PANEL DISCUSSIONS" onclick="toggleDropdown(this)">
+      📁  INTERVIEWS &amp; PANEL DISCUSSIONS
+     </a>
+     <div class="dropdown-content">
+      <p class="file" style="margin-left:15px">
+       📃 "CHRIS.doc" - 46Kb - [Feb  6  1998]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "KO Interview #1 (1).doc" - 124Kb - [Jun  1  1999]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Rotterdam.rtf" - 39Kb - [May  5  2001]
+      </p>
+      <div class="directory" id="SHAW" style="margin-left:20px">
+       <a href="#SHAW" onclick="toggleDropdown(this)">
+        📁  SHAW
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "kelley shaw addendum.doc" - 160Kb - [Jan  6  1999]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "kelley,shaw final.doc" - 90Kb - [Jan  8  1999]
+        </p>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "SODIEPANEL.doc" - 120Kb - [Oct 16  1998]
+      </p>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="directory" id="D_0006" style="margin-left:10px">
+   <a href="#D_0006" onclick="toggleDropdown(this)">
+    📁  D_0006
+   </a>
+   <div class="dropdown-content">
+    <div class="directory" id="INTERVIEWS &amp; PANEL DISCUSSIONS" style="margin-left:15px">
+     <a href="#INTERVIEWS &amp; PANEL DISCUSSIONS" onclick="toggleDropdown(this)">
+      📁  INTERVIEWS &amp; PANEL DISCUSSIONS
+     </a>
+     <div class="dropdown-content">
+      <div class="directory" id="CROSS GENDER INTERVIEWS" style="margin-left:20px">
+       <a href="#CROSS GENDER INTERVIEWS" onclick="toggleDropdown(this)">
+        📁  CROSS GENDER INTERVIEWS
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "G.Malanga.doc" - 74Kb - [Sep 21  2000]
+        </p>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "INTERVIE.doc" - 22Kb - [Sep 20  1997]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "INTVW2.doc" - 60Kb - [Jul 24  2000]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Markus Muller.rtf.rtf" - 34Kb - [May  9  2001]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "OURSLER.doc" - 1.1Mb - [Apr 29  1999]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "SinTituloInterview.rtf" - 55Kb - [Nov 30  1998]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "kelley shaw addendum.doc.pdf" - 87Kb - [Mar  7 12:03]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "kelley,shaw final.doc.pdf" - 212Kb - [Mar  7 12:03]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "ko interview#2 (1).doc" - 41Kb - [Jun  1  1999]
+      </p>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="directory" id="D_0007" style="margin-left:10px">
+   <a href="#D_0007" onclick="toggleDropdown(this)">
+    📁  D_0007
+   </a>
+   <div class="dropdown-content">
+    <div class="directory" id="MK Writings" style="margin-left:15px">
+     <a href="#MK Writings" onclick="toggleDropdown(this)">
+      📁  MK Writings
+     </a>
+     <div class="dropdown-content">
+      <div class="directory" id="CREATIVE WRITING" style="margin-left:20px">
+       <a href="#CREATIVE WRITING" onclick="toggleDropdown(this)">
+        📁  CREATIVE WRITING
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "A Haute Voix.rtf" - 29Kb - [Jan 26  2000]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "AMBIGUIT.doc" - 30Kb - [Apr  7  1998]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "BEE.doc" - 24Kb - [Apr  7  1998]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "BONHAM.doc" - 30Kb - [Apr  7  1998]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "CHILD.doc" - 68Kb - [Jul 26  1999]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "CUE CARDS.doc" - 42Kb - [Jan 31  2000]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "DAM.doc" - 60Kb - [Apr  7  1998]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "FRESH ACCONCI.doc" - 20Kb - [Jun 17  1999]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "GANG.doc" - 38Kb - [Dec  3  1998]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "GREASE.doc" - 42Kb - [Apr  7  1998]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "LYRICS.doc" - 19Kb - [Sep 20  1997]
+        </p>
+       </div>
+      </div>
+      <div class="directory" id="CRITICAL WRITING" style="margin-left:20px">
+       <a href="#CRITICAL WRITING" onclick="toggleDropdown(this)">
+        📁  CRITICAL WRITING
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "ASKEVOLD.doc" - 130Kb - [Nov 10  1997]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "BABY.doc" - 32Kb - [Apr  7  1998]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "CAL.doc" - 36Kb - [Apr  7  1998]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "CAL.rtf" - 19Kb - [Nov 11  1998]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "CAL.txt" - 14Kb - [Nov 11  1998]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "CLARK.doc" - 88Kb - [Apr  7  1998]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "CRAFT.doc" - 26Kb - [Apr  7  1998]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "CRAFT2.doc" - 28Kb - [Apr  7  1998]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "GO WEST.rtf" - 27Kb - [May 13  1999]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "HUEBLER.doc" - 86Kb - [Apr  7  1998]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "JAB2.doc" - 42Kb - [Apr  7  1998]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "MARCEL.doc" - 28Kb - [Apr  7  1998]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "O.doc" - 91Kb - [Apr  7  1998]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "THEK.doc" - 57Kb - [Apr  7  1998]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "UNCANNY.doc" - 93Kb - [Apr  7  1998]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "graz.doc.2.doc" - 120Kb - [Oct 26  1999]
+        </p>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "LIST OF WRITINGS.doc" - 23Kb - [Jul 21  2000]
+      </p>
+      <div class="directory" id="STATEMENTS &amp; LETTERS" style="margin-left:20px">
+       <a href="#STATEMENTS &amp; LETTERS" onclick="toggleDropdown(this)">
+        📁  STATEMENTS &amp; LETTERS
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "THIRTEEN SEASONS.doc" - 16Kb - [Sep 20  1997]
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <p class="file" style="margin-left:10px">
+     📃 "SCANUNDO.DAT" - 35Kb - [May 28  1999]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "captions.doc" - 14Kb - [Aug 29  1999]
+    </p>
+   </div>
+  </div>
+  <div class="directory" id="D_0008" style="margin-left:10px">
+   <a href="#D_0008" onclick="toggleDropdown(this)">
+    📁  D_0008
+   </a>
+   <div class="dropdown-content">
+    <div class="directory" id="INTERVIEWS &amp; PANEL DISCUSSIONS" style="margin-left:15px">
+     <a href="#INTERVIEWS &amp; PANEL DISCUSSIONS" onclick="toggleDropdown(this)">
+      📁  INTERVIEWS &amp; PANEL DISCUSSIONS
+     </a>
+     <div class="dropdown-content">
+      <p class="file" style="margin-left:15px">
+       📃 "A haute - raw.doc" - 54Kb - [Oct 18  1999]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "BRAUNCSHFINAL.doc" - 54Kb - [Aug  5  1999]
+      </p>
+      <div class="directory" id="CROSS GENDER INTERVIEWS" style="margin-left:20px">
+       <a href="#CROSS GENDER INTERVIEWS" onclick="toggleDropdown(this)">
+        📁  CROSS GENDER INTERVIEWS
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "A.A. Bronson.doc" - 88Kb - [Feb  9  2001]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "E.Antin.doc" - 80Kb - [Sep 22  2000]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "H.Woodlawn.1.doc" - 96Kb - [Sep 22  2000]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "J.Appel.doc" - 71Kb - [Oct  2  2000]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "M.Stole.doc" - 70Kb - [Oct  2  2000]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Mary Woronov.doc" - 268Kb - [Feb  9  2001]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Miss Pamela.doc" - 84Kb - [Feb  9  2001]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Roger Nyren.doc" - 78Kb - [Sep 22  2000]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "S.Farago.doc" - 104Kb - [Oct  2  2000]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Sebastian.doc" - 88Kb - [Feb  9  2001]
+        </p>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "FREAK CULTURE.doc" - 37Kb - [Oct 26  1999]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "POETICS JAP INTERVIEW.doc" - 188Kb - [Apr 30  2001]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "THEA.doc" - 31Kb - [Apr  7  1998]
+      </p>
+     </div>
+    </div>
+    <p class="file" style="margin-left:10px">
+     📃 "eai list.rtf" - 3.9Kb - [Apr  2  2001]
+    </p>
+    <p class="file" style="margin-left:10px">
+     📃 "eai list.wps" - 9.5Kb - [Mar 29  2001]
+    </p>
+   </div>
+  </div>
+  <div class="directory" id="D_0009" style="margin-left:10px">
+   <a href="#D_0009" onclick="toggleDropdown(this)">
+    📁  D_0009
+   </a>
+   <div class="dropdown-content">
+    <div class="directory" id="INTERVIEWS &amp; PANEL DISCUSSIONS" style="margin-left:15px">
+     <a href="#INTERVIEWS &amp; PANEL DISCUSSIONS" onclick="toggleDropdown(this)">
+      📁  INTERVIEWS &amp; PANEL DISCUSSIONS
+     </a>
+     <div class="dropdown-content">
+      <div class="directory" id="100 days" style="margin-left:20px">
+       <a href="#100 days" onclick="toggleDropdown(this)">
+        📁  100 days
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "100 Days - Play List.doc" - 33Kb - [Mar 22  2001]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "100 Days 1A (1).doc" - 43Kb - [Aug 29  2000]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "100 Days 1B (1).doc" - 42Kb - [Aug 29  2000]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "100 Days 1C.doc" - 34Kb - [Aug 29  2000]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "100 Days 2A (1).doc" - 38Kb - [Aug 29  2000]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "100 Days 2A.doc" - 38Kb - [Aug 29  2000]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "100 Days 2B.doc" - 36Kb - [Aug 29  2000]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "1OO DAYS TRANSCRIPTION.rtf" - 96Kb - [May 16  2001]
+        </p>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "H.N.Jocks.part1.doc" - 82Kb - [Feb 26  2001]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "H.N.Jocks.part2.doc" - 126Kb - [Feb 26  2001]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "INTERVIEW.1.doc" - 44Kb - [Apr  7  1998]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "M.A.Greenstein (1).doc" - 118Kb - [Mar 19  2001]
+      </p>
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>

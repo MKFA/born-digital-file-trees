@@ -1,0 +1,10 @@
+[
+  {"type":"directory","name":"D-0045/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0045","size":"16K","time":"Apr  8  1993","contents":[
+      {"type":"file","name":"Desktop","size":"0","time":"Apr  6  1993"},
+      {"type":"file","name":"Kelley Bio","size":"75K","time":"Mar 30  1993"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":2}
+]

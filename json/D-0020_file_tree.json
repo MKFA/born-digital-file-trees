@@ -1,0 +1,21 @@
+[
+  {"type":"directory","name":"D-0020/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0020","size":"16K","time":"Jun  7  2023","contents":[
+      {"type":"file","name":"CLARK","size":"31K","time":"Dec 17  1991"},
+      {"type":"file","name":"CLARK.doc","size":"58K","time":"Apr  7  1998"},
+      {"type":"file","name":"HUEBLER","size":"31K","time":"Aug 27  1996"},
+      {"type":"file","name":"HUEBLER.doc","size":"56K","time":"Apr  7  1998"},
+      {"type":"file","name":"MARCEL","size":"9.1K","time":"Apr 26  1995"},
+      {"type":"file","name":"MARCEL.doc","size":"24K","time":"Apr  7  1998"},
+      {"type":"file","name":"O","size":"41K","time":"Oct 15  1995"},
+      {"type":"file","name":"O.doc","size":"59K","time":"Apr  7  1998"},
+      {"type":"file","name":"PIG","size":"3.0K","time":"Nov  6  1996"},
+      {"type":"file","name":"PIG.BK!","size":"2.7K","time":"Jul 23  1993"},
+      {"type":"file","name":"PIG.doc","size":"25K","time":"Apr  7  1998"},
+      {"type":"file","name":"THEK","size":"17K","time":"Apr  8  1993"},
+      {"type":"file","name":"THEK.doc","size":"41K","time":"Apr  7  1998"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":13}
+]

@@ -1,0 +1,29 @@
+[
+  {"type":"directory","name":"D-0035_D-0036_D-0040_D-0041_D-0042_D-0043/extracted_files","size":"16K","time":"Jun  6  2023","contents":[
+    {"type":"directory","name":"D_0035","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"97k.p8","size":"145K","time":"Sep 23  1997"},
+      {"type":"file","name":"kelley97.qbb","size":"82K","time":"Sep 22  1997"}
+    ]},
+    {"type":"directory","name":"D_0036","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"KELLEY97.QBB","size":"56K","time":"Apr 23  1997"}
+    ]},
+    {"type":"directory","name":"D_0040","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"KSTUD96.QBB","size":"252K","time":"Mar 31  1996"}
+    ]},
+    {"type":"directory","name":"D_0041","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"KELLEY97.QBB","size":"49K","time":"Apr 14  1997"}
+    ]},
+    {"type":"directory","name":"D_0042","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"KELLEY97.QBB","size":"80K","time":"Jun 24  1997"}
+    ]},
+    {"type":"directory","name":"D_0043","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"97k.11","size":"181K","time":"Nov 25  1997"},
+      {"type":"file","name":"97k.11d","size":"189K","time":"Nov 25  1997"},
+      {"type":"file","name":"97k.12","size":"204K","time":"Dec  2  1997"},
+      {"type":"file","name":"97k.p8","size":"181K","time":"Nov 25  1997"},
+      {"type":"file","name":"k1297.QBB","size":"240K","time":"Jan 20  1998"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":7,"files":11}
+]

@@ -1,0 +1,25 @@
+[
+  {"type":"directory","name":"D-0024/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0024","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"!FINALED.ITR","size":"45K","time":"Mar  7  1998"},
+      {"type":"file","name":"!FINALED.ITW","size":"68K","time":"Mar  2  1998"},
+      {"type":"file","name":"!FORMEG","size":"97K","time":"Mar  8  1998"},
+      {"type":"file","name":"!LETTERT.OC0","size":"9.7K","time":"Mar  9  1998"},
+      {"type":"file","name":"!LETTERT.OCO","size":"6.6K","time":"Mar  8  1998"},
+      {"type":"file","name":"!WILDERK.0FI","size":"41K","time":"Mar  8  1998"},
+      {"type":"file","name":"BERLIN TEXT.doc","size":"20K","time":"Mar  9  1998"},
+      {"type":"file","name":"DESKTOP","size":"0","time":"Mar  8  1998"},
+      {"type":"file","name":"FILEID.DAT","size":"192","time":"Mar  8  1998"},
+      {"type":"file","name":"FINDER.DAT","size":"1.3K","time":"Mar  8  1998"},
+      {"type":"directory","name":"RESOURCE.FRK","size":"16K","time":"Mar  8  1998","contents":[
+        {"type":"file","name":"!FINALED.ITW","size":"286","time":"Mar  8  1998"},
+        {"type":"file","name":"!FORMEG","size":"683","time":"Mar  8  1998"},
+        {"type":"file","name":"!LETTERT.OCO","size":"687","time":"Mar  8  1998"},
+        {"type":"file","name":"DESKTOP","size":"28K","time":"Mar  8  1998"}
+      ]},
+      {"type":"file","name":"kelley wilder interview.doc","size":"96K","time":"Mar  9  1998"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":3,"files":15}
+]

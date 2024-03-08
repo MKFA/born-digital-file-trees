@@ -1,0 +1,28 @@
+[
+  {"type":"directory","name":"D-0019/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0019","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"BMAN","size":"3.2K","time":"Jun  8  1994"},
+      {"type":"file","name":"BMAN.doc","size":"26K","time":"Apr  7  1998"},
+      {"type":"file","name":"CD","size":"15K","time":"Jul 31  1994"},
+      {"type":"file","name":"CD.doc","size":"44K","time":"Apr  7  1998"},
+      {"type":"file","name":"CREDITSD","size":"6.8K","time":"Jul 31  1994"},
+      {"type":"file","name":"CREDITSD.doc","size":"38K","time":"Apr  7  1998"},
+      {"type":"file","name":"DAM","size":"39K","time":"May 29  1995"},
+      {"type":"file","name":"DAM.doc","size":"98K","time":"Apr  7  1998"},
+      {"type":"file","name":"DAMLIVE","size":"8.8K","time":"Mar  6  1996"},
+      {"type":"file","name":"DAMLIVE.doc","size":"29K","time":"Apr  7  1998"},
+      {"type":"file","name":"DAMLIVEC","size":"3.0K","time":"Apr  3  1996"},
+      {"type":"file","name":"DAMLIVEC.doc","size":"28K","time":"Apr  7  1998"},
+      {"type":"file","name":"INTERVIE","size":"15K","time":"May 29  1995"},
+      {"type":"file","name":"INTERVIE.doc","size":"58K","time":"Apr  7  1998"},
+      {"type":"file","name":"INTVW2","size":"22K","time":"Mar 21  1994"},
+      {"type":"file","name":"LINER","size":"17K","time":"May 29  1995"},
+      {"type":"file","name":"LINER.doc","size":"56K","time":"Apr  7  1998"},
+      {"type":"file","name":"LYRICS","size":"13K","time":"Jul 17  1995"},
+      {"type":"file","name":"LYRICS.doc","size":"68K","time":"Apr  7  1998"},
+      {"type":"file","name":"YY","size":"8.4K","time":"Jun  2  1994"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":20}
+]

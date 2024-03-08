@@ -1,0 +1,43 @@
+[
+  {"type":"directory","name":"D-0004_D-0157/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0004","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"directory","name":"MIT TEXT EDITS","size":"16K","time":"Jun  8  2001","contents":[
+        {"type":"file","name":"ASKEVOLD.doc","size":"130K","time":"Nov 10  1997"},
+        {"type":"file","name":"GO WEST.rtf","size":"27K","time":"May 13  1999"},
+        {"type":"file","name":"HUEBLER.doc","size":"86K","time":"Apr  7  1998"},
+        {"type":"file","name":"Miller intro.rtf","size":"16K","time":"Jan 12  2001"}
+      ]}
+    ]},
+    {"type":"directory","name":"D_0157","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"directory","name":"CRITICAL WRITING","size":"16K","time":"Jun  8  2001","contents":[
+        {"type":"file","name":"BABY.doc","size":"32K","time":"Apr  7  1998"},
+        {"type":"file","name":"CAL.rtf","size":"19K","time":"Nov 11  1998"},
+        {"type":"file","name":"CAL.txt","size":"14K","time":"Nov 11  1998"},
+        {"type":"file","name":"CLARK.doc","size":"88K","time":"Apr  7  1998"},
+        {"type":"file","name":"CRAFT.doc","size":"26K","time":"Apr  7  1998"},
+        {"type":"file","name":"CRAFT2.doc","size":"28K","time":"Apr  7  1998"},
+        {"type":"file","name":"JAB2.doc","size":"42K","time":"Apr  7  1998"},
+        {"type":"file","name":"Miller intro.rtf","size":"16K","time":"Jan 12  2001"},
+        {"type":"file","name":"UNCANNY-PRESS RELEASE.doc","size":"28K","time":"Apr  7  1998"},
+        {"type":"file","name":"UNCANNY.doc","size":"93K","time":"Apr  7  1998"}
+      ]},
+      {"type":"directory","name":"MIT TEXT EDITS","size":"16K","time":"Jun  8  2001","contents":[
+        {"type":"file","name":"CAL.doc","size":"36K","time":"Apr  7  1998"},
+        {"type":"file","name":"CROSS-GENDER.doc","size":"105K","time":"Jun  8  2001"},
+        {"type":"file","name":"FOUL PERFECTION.doc","size":"58K","time":"Apr  5  2001"},
+        {"type":"file","name":"Filmic regression - edited version from JCW.doc","size":"44K","time":"Apr  5  2001"},
+        {"type":"file","name":"IVAR.doc","size":"43K","time":"Apr 13  2001"},
+        {"type":"file","name":"MARCEL.doc","size":"28K","time":"Apr  7  1998"},
+        {"type":"file","name":"MCEVILLEY.doc","size":"50K","time":"Apr 13  2001"},
+        {"type":"file","name":"MYTH SCIENCE.doc","size":"91K","time":"Apr  7  1998"},
+        {"type":"file","name":"SRL TEXT.doc","size":"58K","time":"Apr 13  2001"},
+        {"type":"file","name":"THEK.doc","size":"57K","time":"Apr  7  1998"},
+        {"type":"file","name":"UNCANNY - edited version from JCW.doc","size":"182K","time":"Apr  5  2001"},
+        {"type":"file","name":"URBAN GOTHIC.doc","size":"195K","time":"Apr 13  2001"},
+        {"type":"file","name":"cody choi.doc","size":"24K","time":"Apr 24  2001"}
+      ]}
+    ]}
+  ]}
+,
+  {"type":"report","directories":6,"files":27}
+]

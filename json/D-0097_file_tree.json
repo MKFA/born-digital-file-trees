@@ -1,0 +1,18 @@
+[
+  {"type":"directory","name":"D-0097/extracted_files","size":"16K","time":"May 23  2023","contents":[
+    {"type":"directory","name":"D_0097","size":"16K","time":"May 23  2023","contents":[
+      {"type":"directory","name":"Kelley images 3","size":"16K","time":"May 22  2023","contents":[
+        {"type":"file","name":"AppleShare PDS","size":"9.0K","time":"Jun 14  2002"},
+        {"type":"file","name":"Desktop DB","size":"12K","time":"Nov 29  2001"},
+        {"type":"file","name":"Desktop DF","size":"59K","time":"Nov 29  2001"},
+        {"type":"directory","name":"TheVolumeSettingsFolder","size":"16K","time":"Aug  2  2000","contents":[
+          {"type":"file","name":"DesktopPrinters DB","size":"0","time":"Aug  2  2000"}
+        ]},
+        {"type":"file","name":"Virex SpeedScan","size":"118","time":"Jun 14  2002"},
+        {"type":"file","name":"fig. 30 [old 15.1]","size":"48M","time":"Jul 20  2001"}
+      ]}
+    ]}
+  ]}
+,
+  {"type":"report","directories":4,"files":6}
+]

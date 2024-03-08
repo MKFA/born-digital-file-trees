@@ -1,0 +1,16 @@
+[
+  {"type":"directory","name":"D-0028/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0028","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"BIBLIOGRAPHY.doc","size":"52K","time":"Oct  8  1997"},
+      {"type":"file","name":"ESSAYS AND INTERVIEWS BY THE ARTIST.doc","size":"24K","time":"Oct  8  1997"},
+      {"type":"file","name":"GROUP EXHIBITION CATALOGUES.doc","size":"35K","time":"Oct  8  1997"},
+      {"type":"file","name":"PERFORMANCES TO CATALOGUES.doc","size":"56K","time":"Oct  8  1997"},
+      {"type":"file","name":"PERFORMANCES TO VIDEO.doc","size":"30K","time":"Oct  8  1997"},
+      {"type":"file","name":"RESUME ONLY EXHIBITIONS.rtf","size":"78K","time":"Oct  8  1997"},
+      {"type":"file","name":"SOLO EXHIBITION CATALOGUES AND MONOGRAPHS.doc","size":"22K","time":"Oct  8  1997"},
+      {"type":"file","name":"metro letter.doc","size":"24K","time":"Oct  8  1997"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":8}
+]

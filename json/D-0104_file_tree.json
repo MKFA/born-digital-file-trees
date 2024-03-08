@@ -1,0 +1,56 @@
+[
+  {"type":"directory","name":"D-0104/extracted_files","size":"16K","time":"May 23  2023","contents":[
+    {"type":"directory","name":"D_0104","size":"16K","time":"May 23  2023","contents":[
+      {"type":"file","name":"101-0122_IMG.JPG","size":"933K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0123_IMG.JPG","size":"1004K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0124_IMG.JPG","size":"679K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0125_IMG.JPG","size":"950K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0126_IMG.JPG","size":"959K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0127_IMG.JPG","size":"781K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0128_IMG.JPG","size":"814K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0129_IMG.JPG","size":"667K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0130_IMG.JPG","size":"582K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0131_IMG.JPG","size":"904K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0132_IMG.JPG","size":"866K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0133_IMG.JPG","size":"751K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0134_IMG.JPG","size":"814K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0135_IMG.JPG","size":"557K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0136_IMG.JPG","size":"482K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0137_IMG.JPG","size":"725K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0138_IMG.JPG","size":"691K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0139_IMG.JPG","size":"679K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0140_IMG.JPG","size":"642K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0141_IMG.JPG","size":"639K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0142_IMG.JPG","size":"655K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0143_IMG.JPG","size":"653K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0144_IMG.JPG","size":"620K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0145_IMG.JPG","size":"472K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0146_IMG.JPG","size":"545K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0147_IMG.JPG","size":"685K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0148_IMG.JPG","size":"721K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0149_IMG.JPG","size":"643K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0150_IMG.JPG","size":"608K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0151_IMG.JPG","size":"620K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0152_IMG.JPG","size":"277K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0153_IMG.JPG","size":"281K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0154_IMG.JPG","size":"380K","time":"Nov 25  2002"},
+      {"type":"file","name":"101-0155_IMG.JPG","size":"361K","time":"Nov 25  2002"},
+      {"type":"file","name":"AppleShare PDS","size":"9.0K","time":"Nov 13  2001"},
+      {"type":"file","name":"Desktop DB","size":"42K","time":"Jan 15  2004"},
+      {"type":"file","name":"Desktop DF","size":"374K","time":"Sep  5  2007"},
+      {"type":"file","name":"G4 FW Update 4.2.8.smi","size":"1.0M","time":"Oct 18  2001"},
+      {"type":"file","name":"Norton FS Data","size":"21K","time":"Oct 10  2002"},
+      {"type":"file","name":"Norton FS Index","size":"100","time":"Jan 15  2004"},
+      {"type":"file","name":"Norton FS Volume","size":"290K","time":"Nov 14  2002"},
+      {"type":"file","name":"Norton FS Volume 2","size":"306K","time":"Nov 11  2002"},
+      {"type":"file","name":"Sonnet X Tune-Up 1.2.7","size":"1.1M","time":"Jul  8  2003"},
+      {"type":"file","name":"TSA silides11_11_02 alias","size":"0","time":"Nov 11  2002"},
+      {"type":"directory","name":"TheVolumeSettingsFolder","size":"16K","time":"Nov 13  2001","contents":[
+        {"type":"file","name":"DesktopPrinters DB","size":"0","time":"Nov 13  2001"}
+      ]},
+      {"type":"file","name":"sonnet_x_tune-up_1.2.7.sit","size":"1.4M","time":"Jan  9  2004"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":3,"files":46}
+]

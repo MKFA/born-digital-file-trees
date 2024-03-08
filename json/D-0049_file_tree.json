@@ -1,0 +1,11 @@
+[
+  {"type":"directory","name":"D-0049/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0049","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"ADDRESS","size":"2.2K","time":"May 28  1996"},
+      {"type":"file","name":"ADDRESSE","size":"34K","time":"Jun 19  1996"},
+      {"type":"file","name":"LIST.BK!","size":"31K","time":"May 21  1996"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":3}
+]

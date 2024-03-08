@@ -1,0 +1,18 @@
+[
+  {"type":"directory","name":"D-0022/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0022","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"AWARDS, dicsography.doc","size":"76K","time":"Mar  2  1998"},
+      {"type":"file","name":"BIBLIOGRAPHY .doc","size":"90K","time":"Mar  9  1998"},
+      {"type":"file","name":"ESSAYS , INTERVIEWS BY THE ARTIST.doc","size":"72K","time":"Mar  4  1998"},
+      {"type":"file","name":"GROUP CAT. Reference.doc","size":"118K","time":"Mar  9  1998"},
+      {"type":"file","name":"MUSIC BIBLIOGRAPHY.doc","size":"50K","time":"Feb 24  1998"},
+      {"type":"file","name":"PERFORMANCES AND VIDEO.doc","size":"80K","time":"Mar  4  1998"},
+      {"type":"file","name":"RESUME MAIN BODY .doc","size":"150K","time":"Mar 10  1998"},
+      {"type":"file","name":"RESUME MAIN BODY.rtf","size":"82K","time":"Mar  3  1998"},
+      {"type":"file","name":"SOLO CATALOGUES . MONOGRAPHS.doc","size":"50K","time":"Mar  4  1998"},
+      {"type":"file","name":"html mike kelley main.html","size":"59K","time":"Mar 10  1998"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":10}
+]

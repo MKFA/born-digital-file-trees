@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   D-0001_D-0002 File Tree
+  </title>
+  <link href="https://fonts.googleapis.com" rel="preconnect"/>
+  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap" rel="stylesheet"/>
+  <style>
+   body {
+       font-family: "Roboto", sans-serif;
+       font-size: 18px;
+       line-height: 1.5;
+       color: #333333;
+       background-color: #F2F2F2;
+       padding: 20px;
+     }
+     p {
+       margin: 0;
+     }
+     /* Heading styles */
+     h1 {
+       font-size: 28px;
+       font-weight: bold;
+       color: #222222;
+       margin-bottom: 20px;
+       position: relative;
+     }
+     
+     h2 {
+       font-size: 24px;
+       font-weight: bold;
+       color: #3e56b3;
+     }
+     
+     h3 {
+       font-size: 20px;
+       font-weight: bold;
+       color: #393952;
+       margin-top: 25px;
+       margin-bottom: 10px;
+       margin-left: 10px;
+     }
+ 
+     /* Link styles */
+     a {
+       color: #0066CC;
+       text-decoration: none;
+     }
+ 
+     
+     
+     a:hover {
+       text-decoration: underline;
+     }
+ 
+     .dropdown-content {
+       display: block;
+     }
+     .dropdown-content.hide {
+       display: none;
+     }
+     .button {
+   display: inline-block;
+   padding: 10px 20px;
+   font-size: 16px;
+   font-weight: bold;
+   text-align: center;
+   text-decoration: none;
+   cursor: pointer;
+   border: none;
+   border-radius: 5px;
+   transition: background-color 0.3s ease;
+   position: fixed; /* Position the button absolutely */
+   top: 10%; /* Align vertically to the middle of the parent element */
+   right: 2%; /* Align to the right edge of the parent element */
+   transform: translateY(-50%); /* Adjust vertical position */
+ }
+ 
+ /* Styles for the default state */
+ .button {
+   color: #fff;
+   background-color: #3498db; /* Blue */
+ }
+ 
+ /* Hover styles */
+ .button:hover {
+   background-color: #2980b9; /* Darker blue */
+ }
+     /* Modal styles */
+     .modal {
+       position: fixed;
+       z-index: 1;
+       left: 0;
+       top: 0;
+       width: 100%;
+       height: 100%;
+       overflow: auto;
+       background-color: rgb(88 136 161);
+     }
+ 
+     .modal-content {
+       background-color: #fefefe;
+       margin: 15% auto;
+       padding: 20px;
+       border: 1px solid #888;
+       border-radius: 10px;
+       width: 80%;
+       max-width: 400px;
+       text-align: center;
+     }
+  </style>
+ </head>
+ <body>
+  <!-- Modal dialog -->
+  <div class="modal" id="myModal">
+   <div class="modal-content">
+    <h2>
+     Password Required
+    </h2>
+    <p>
+     Please enter the password to access this content:
+    </p>
+    <input id="password" type="password"/>
+    <button onclick="checkPassword()">
+     Submit
+    </button>
+   </div>
+  </div>
+  <script src="../script.js">
+  </script>
+  <h1>
+   D-0001_D-0002 File Tree
+  </h1>
+  <button class="button" id="collapseButton" onclick="toggleCollapse()">
+   Collapse All Directories
+  </button>
+  <div class="directory" id="D_0001" style="margin-left:10px">
+   <a href="#D_0001" onclick="toggleDropdown(this)">
+    📁  D_0001
+   </a>
+   <div class="dropdown-content">
+    <div class="directory" id="STATEMENTS &amp; LETTERS" style="margin-left:15px">
+     <a href="#STATEMENTS &amp; LETTERS" onclick="toggleDropdown(this)">
+      📁  STATEMENTS &amp; LETTERS
+     </a>
+     <div class="dropdown-content">
+      <p class="file" style="margin-left:15px">
+       📃 "ALMA PATER.doc" - 42Kb - [Jan 27  2000]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "ARCH.doc" - 51Kb - [Apr  7  1998]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "B.doc" - 10Kb - [Sep 20  1997]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "BILL.doc" - 12Kb - [Sep 20  1997]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "BMAN.doc" - 26Kb - [Apr  7  1998]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "CD.doc" - 37Kb - [Apr  7  1998]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "FOUNTAIN.doc" - 27Kb - [Mar  4  1999]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "GRENOBLE.Press Release.doc" - 40Kb - [May 30  2001]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Harlow.doc" - 20Kb - [May 28  1999]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "LAND-O-L.doc" - 23Kb - [Sep 20  1997]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "LINER.doc" - 23Kb - [Sep 21  1997]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "LINER.rtf" - 24Kb - [Nov 11  1998]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "LINER.txt" - 16Kb - [Nov 11  1998]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "MAGASIN TEXT.doc" - 128Kb - [Aug 15  1999]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "MEMBERS.doc" - 8.2Kb - [Sep 20  1997]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "OUT OF ACTIONS.doc" - 51Kb - [Jun  5  2001]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "PAINTERE.doc" - 10Kb - [Sep 20  1997]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "PLATO.doc" - 17Kb - [Sep 20  1997]
+      </p>
+      <div class="directory" id="POETICS" style="margin-left:20px">
+       <a href="#POETICS" onclick="toggleDropdown(this)">
+        📁  POETICS
+       </a>
+       <div class="dropdown-content">
+        <p class="file" style="margin-left:20px">
+         📃 "P-LINER.doc" - 34Kb - [Sep 20  1997]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "POET2.BK!.doc" - 35Kb - [Sep 20  1997]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "POET2.doc" - 37Kb - [Oct 22  1997]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "POET97.doc" - 9.5Kb - [Sep 20  1997]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "POETICS.press release Painter 1997.doc" - 52Kb - [Dec  4  1997]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "POETICS1.doc" - 17Kb - [Sep 20  1997]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "POETICS3.doc" - 8.1Kb - [Sep 20  1997]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "POETQUES.doc" - 12Kb - [Sep 20  1997]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "Poetics Press Release.doc" - 32Kb - [May  2  1998]
+        </p>
+        <p class="file" style="margin-left:20px">
+         📃 "poetics intro.doc" - 41Kb - [May  1  2001]
+        </p>
+       </div>
+      </div>
+      <p class="file" style="margin-left:15px">
+       📃 "POLE DANCE.doc" - 30Kb - [Apr 27  2001]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "PUNK.doc" - 8.3Kb - [Sep 20  1997]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "SOUND TRACKS.doc" - 90Kb - [Feb 23  2000]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "SUBLEVEL.doc" - 58Kb - [Dec 20  1999]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "SUPERMAN LETTER.doc" - 46Kb - [Feb  4  1999]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Secession Press Release.doc" - 39Kb - [May 30  2001]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "THIRTEEN SEASONS.doc" - 16Kb - [Sep 20  1997]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "THREE VALLEYS.doc" - 48Kb - [Sep  1  1998]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "TONY.doc" - 19Kb - [Sep 20  1997]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "UOFM.doc" - 49Kb - [Apr  7  1998]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "VIDEO DESCRIPTIONS.doc" - 35Kb - [Apr  7  1998]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "VOG.doc" - 44Kb - [Jul 30  1998]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "VOICES.FLUTE.doc" - 22Kb - [Feb 17  1999]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "art&amp;text.doc" - 26Kb - [Nov  3  1999]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "emory.dot" - 26Kb - [May 17  1999]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "frac text.rtf" - 12Kb - [Mar 25  2000]
+      </p>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="directory" id="D_0002" style="margin-left:10px">
+   <a href="#D_0002" onclick="toggleDropdown(this)">
+    📁  D_0002
+   </a>
+   <div class="dropdown-content">
+    <p class="file" style="margin-left:10px">
+     📃 "A&amp;L_EDIT.EXE" - 787Kb - [May 16  1991]
+    </p>
+    <div class="directory" id="STATEMENTS &amp; LETTERS.2" style="margin-left:15px">
+     <a href="#STATEMENTS &amp; LETTERS.2" onclick="toggleDropdown(this)">
+      📁  STATEMENTS &amp; LETTERS.2
+     </a>
+     <div class="dropdown-content">
+      <p class="file" style="margin-left:15px">
+       📃 "ART.doc" - 33Kb - [Apr  7  1998]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "DAM.doc" - 143Kb - [Apr 29  2001]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "FRESH ACCONCI.doc" - 30Kb - [May 30  2001]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "HEIDI VID.doc" - 20Kb - [Apr 27  2001]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "KANDOR.doc" - 90Kb - [Nov  3  1999]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "MEMORY WARE-hussenot.doc" - 38Kb - [Sep 26  2000]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "MEMORY WARE-jablonka.doc" - 57Kb - [May 31  2001]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "NIAGARA.doc" - 32Kb - [Jun 19  1999]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "SOD &amp; SODIE - OUT O ACTIONS.doc" - 34Kb - [Apr 14  1999]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Shortcut (2) to A&amp;l_edit.lnk" - 237b - [Jun  8  2001]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Shortcut (3) to A&amp;l_edit.lnk" - 237b - [Jun  8  2001]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Shortcut (4) to A&amp;l_edit.lnk" - 237b - [Jun  8  2001]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Shortcut to A&amp;l_edit.lnk" - 237b - [Jun  8  2001]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "Test Room.doc" - 36Kb - [May 30  2001]
+      </p>
+      <p class="file" style="margin-left:15px">
+       📃 "VOICES.FLUTE.doc" - 22Kb - [Feb 17  1999]
+      </p>
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>

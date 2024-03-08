@@ -1,0 +1,15 @@
+[
+  {"type":"directory","name":"D-0066/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0066","size":"16K","time":"Jun  1  2023","contents":[
+      {"type":"file","name":"ABBY.BMP","size":"215K","time":"Jan  8  1991"},
+      {"type":"file","name":"AP2.BMP","size":"40K","time":"Jan  9  1991"},
+      {"type":"file","name":"APRES.DOC","size":"5.4K","time":"Dec  2  1992"},
+      {"type":"file","name":"BLAKE","size":"6.3K","time":"Jan 11  1991"},
+      {"type":"file","name":"BLAKE2","size":"1.7K","time":"Jan  9  1991"},
+      {"type":"file","name":"KINETIKO","size":"2.3K","time":"Jan 11  1991"},
+      {"type":"file","name":"LIPS.BMP","size":"125K","time":"Nov  2  1990"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":7}
+]

@@ -1,0 +1,42 @@
+[
+  {"type":"directory","name":"D-0251C/original_files","size":"16K","time":"Mar  5 09:23","contents":[
+    {"type":"directory","name":"Users","size":"16K","time":"Jan 31 09:18","contents":[
+      {"type":"directory","name":"shopg5","size":"16K","time":"Jan 31 09:18","contents":[
+        {"type":"directory","name":"Desktop","size":"16K","time":"Jan 31 09:18","contents":[
+          {"type":"directory","name":"A:V","size":"16K","time":"Jan 31 09:18","contents":[
+            {"type":"file","name":"Kandor3_guide 12.pdf","size":"1.6M","time":"Mar 12  2018"}
+          ]},
+          {"type":"file","name":"D LOT Inventory 2010(weight).xlsx","size":"49K","time":"Apr 13  2012"},
+          {"type":"file","name":"INV_MK.xlsx","size":"39K","time":"Jun 14  2013"}
+        ]},
+        {"type":"directory","name":"Library","size":"16K","time":"Jan 31 09:18","contents":[
+          {"type":"directory","name":"Caches","size":"16K","time":"Jan 31 09:18","contents":[
+            {"type":"directory","name":"com.apple.Safari","size":"16K","time":"Jan 31 09:18","contents":[
+              {"type":"directory","name":"Webpage Previews","size":"16K","time":"Jan 31 09:18","contents":[
+                {"type":"file","name":"2129E8B2F74AF6B45BFA49A3CA44A1D0.jpeg","size":"86K","time":"Jun 27  2014"},
+                {"type":"file","name":"25060AE06CD5B29D8BC0DF001BCEAAE1.jpeg","size":"197K","time":"Jun 27  2014"},
+                {"type":"file","name":"4AF571948E263E5ABA1122AE11868A46.jpeg","size":"19K","time":"Jun 27  2014"},
+                {"type":"file","name":"5EE0CB9143CE306905469B8BDB9ED80D.jpeg","size":"126K","time":"Mar 21  2018"},
+                {"type":"file","name":"6F2B8666F7D367E2C3683A0EF71086AC.jpeg","size":"11K","time":"Jun 27  2014"},
+                {"type":"file","name":"81F180401B2CCFAA6AE91C6CCB860338.jpeg","size":"239K","time":"Jun 27  2014"},
+                {"type":"file","name":"87468C07C02E370EF84D4B7E3A668589.jpeg","size":"41K","time":"Jun 27  2014"},
+                {"type":"file","name":"CD405F6D0B1C9EB4388B5EF82EA8DF58.jpeg","size":"144K","time":"Jun 27  2014"},
+                {"type":"file","name":"DA7EA03A0B770846016554E6159C07C3.jpeg","size":"134K","time":"Mar 21  2018"},
+                {"type":"file","name":"DACF0AF690EC303889CD0AF9BD337DB6.jpeg","size":"14K","time":"Aug 24  2016"}
+              ]}
+            ]}
+          ]}
+        ]},
+        {"type":"directory","name":"Pictures","size":"16K","time":"Jan 31 09:18","contents":[
+          {"type":"directory","name":"iPhoto Library","size":"16K","time":"Jan 31 09:18","contents":[
+            {"type":"file","name":"AlbumData.xml","size":"22M","time":"Feb 16  2018"},
+            {"type":"file","name":"AlbumData2.xml","size":"1.0M","time":"Feb 16  2018"},
+            {"type":"file","name":"iPhotoMain.db","size":"22M","time":"Feb 16  2018"}
+          ]}
+        ]}
+      ]}
+    ]}
+  ]}
+,
+  {"type":"report","directories":11,"files":16}
+]

@@ -1,0 +1,26 @@
+[
+  {"type":"directory","name":"D-0030/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0030","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"!CATALOG.UES","size":"29K","time":"Oct  6  1997"},
+      {"type":"file","name":"!GERMANL.ESS","size":"403","time":"Sep 15  1997"},
+      {"type":"file","name":"!KELLEY.2","size":"60K","time":"May  2  1997"},
+      {"type":"file","name":"!R97~1.MCW","size":"116K","time":"Sep 30  1997"},
+      {"type":"file","name":"!VIREXSP.EED","size":"228","time":"Oct  6  1997"},
+      {"type":"file","name":"DESKTOP","size":"0","time":"Sep 30  1997"},
+      {"type":"file","name":"FINDER.DAT","size":"1.4K","time":"Sep 30  1997"},
+      {"type":"file","name":"INTEGRATED resume 10.6.97.rtf","size":"180K","time":"Oct  6  1997"},
+      {"type":"file","name":"INTEGRATED resume rich text 10.6.97.rtf","size":"181K","time":"Oct  6  1997"},
+      {"type":"file","name":"INTEGRATED resume word 10.6.doc","size":"162K","time":"Oct  6  1997"},
+      {"type":"file","name":"INTEGRATED resume wordmac 10.6.97.mcw","size":"104K","time":"Oct  6  1997"},
+      {"type":"directory","name":"RESOURCE.FRK","size":"16K","time":"Sep 25  1997","contents":[
+        {"type":"file","name":"!R97~1.MCW","size":"320","time":"Sep 30  1997"},
+        {"type":"file","name":"DESKTOP","size":"56K","time":"Sep 30  1997"}
+      ]},
+      {"type":"file","name":"Resume 97.doc","size":"182K","time":"Oct  2  1997"},
+      {"type":"file","name":"new cat..doc","size":"20K","time":"Sep 30  1997"},
+      {"type":"file","name":"~WRL2293.tmp","size":"197K","time":"Sep 24  1997"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":3,"files":16}
+]

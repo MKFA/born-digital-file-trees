@@ -1,0 +1,40 @@
+[
+  {"type":"directory","name":"D-0100/extracted_files","size":"16K","time":"May 23  2023","contents":[
+    {"type":"directory","name":"D_0100","size":"16K","time":"May 23  2023","contents":[
+      {"type":"directory","name":"Mike Kelley","size":"16K","time":"May 22  2023","contents":[
+        {"type":"file","name":"AppleShare PDS","size":"9.0K","time":"Mar  3  2004"},
+        {"type":"file","name":"Desktop DB","size":"12K","time":"Oct 22  2001"},
+        {"type":"file","name":"Desktop DF","size":"48K","time":"Oct 22  2001"},
+        {"type":"directory","name":"TheVolumeSettingsFolder","size":"16K","time":"Aug  2  2000","contents":[
+          {"type":"file","name":"DesktopPrinters DB","size":"0","time":"Aug  2  2000"}
+        ]},
+        {"type":"directory","name":"Trash","size":"16K","time":"May 22  2023","contents":[
+          {"type":"file","name":"ASKEVOLD final.doc","size":"80K","time":"Sep 21  2001"},
+          {"type":"file","name":"BROODTHAERS final.doc","size":"28K","time":"Sep 21  2001"},
+          {"type":"file","name":"CARICATURE final.rtf","size":"49K","time":"Sep 21  2001"},
+          {"type":"file","name":"CHOI final.doc","size":"35K","time":"Sep 21  2001"},
+          {"type":"file","name":"CROSS GENDER final.doc","size":"71K","time":"Sep 21  2001"},
+          {"type":"file","name":"Click Here","size":"3.0M","time":"Jul 17  2000"},
+          {"type":"file","name":"FAHLSTROM final.doc","size":"69K","time":"Sep 21  2001"},
+          {"type":"file","name":"FILMIC REGRESSION final.rtf","size":"20K","time":"Sep 21  2001"},
+          {"type":"file","name":"HOLLYWOOD FILMIC LANGUAGE final","size":"54K","time":"Sep 21  2001"},
+          {"type":"file","name":"HUEBLER final.doc","size":"87K","time":"Sep 21  2001"},
+          {"type":"file","name":"INTRO (JCW) final.rtf","size":"40K","time":"Sep 21  2001"},
+          {"type":"file","name":"IVAR final.rtf","size":"19K","time":"Sep 21  2001"},
+          {"type":"file","name":"MILLER (Go West) final.rtf","size":"32K","time":"Sep 21  2001"},
+          {"type":"file","name":"MILLER (writings) final.rtf","size":"30K","time":"Sep 21  2001"},
+          {"type":"file","name":"MK&TE INTERVIEW final.doc","size":"28K","time":"Sep 21  2001"},
+          {"type":"file","name":"PREFACE (MK) final.doc","size":"21K","time":"Sep 21  2001"},
+          {"type":"file","name":"SRL final.doc","size":"87K","time":"Sep 21  2001"},
+          {"type":"file","name":"THEK final.doc","size":"48K","time":"Sep 21  2001"},
+          {"type":"file","name":"UNCANNY final.doc","size":"109K","time":"Sep 21  2001"},
+          {"type":"file","name":"URBAN GOTHIC final .rtf","size":"31K","time":"Sep 21  2001"},
+          {"type":"file","name":"list of contents (final).doc","size":"22K","time":"Sep 21  2001"}
+        ]},
+        {"type":"file","name":"Virex SpeedScan","size":"318","time":"Jun 12  2002"}
+      ]}
+    ]}
+  ]}
+,
+  {"type":"report","directories":5,"files":26}
+]

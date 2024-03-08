@@ -1,0 +1,29 @@
+[
+  {"type":"directory","name":"D-0031/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0031","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"ADDRESS","size":"12K","time":"May  5  1997"},
+      {"type":"file","name":"ARC.LOU","size":"5.5K","time":"Feb 19  1997"},
+      {"type":"file","name":"ARCHIVE","size":"2.4K","time":"Feb 15  1997"},
+      {"type":"file","name":"CDSHIP","size":"4.6K","time":"Apr 14  1997"},
+      {"type":"file","name":"DOC.BK!","size":"8.8K","time":"May  6  1997"},
+      {"type":"file","name":"DOC.LIS","size":"8.7K","time":"May  7  1997"},
+      {"type":"file","name":"DOCU15","size":"6.9K","time":"Apr  7  1997"},
+      {"type":"file","name":"ITINMALM.BK!","size":"1.5K","time":"Apr  2  1997"},
+      {"type":"file","name":"MALMO","size":"6.9K","time":"Feb 19  1997"},
+      {"type":"file","name":"MASTERPI","size":"4.8K","time":"Apr 27  1997"},
+      {"type":"file","name":"METRORES","size":"5.8K","time":"Apr 16  1997"},
+      {"type":"file","name":"METRORES.BK!","size":"5.9K","time":"Apr 15  1997"},
+      {"type":"file","name":"MUSIC","size":"2.9K","time":"Apr 15  1997"},
+      {"type":"file","name":"MUSIC.BK!","size":"2.7K","time":"Apr 13  1997"},
+      {"type":"file","name":"P-LINER","size":"27K","time":"Mar  6  1997"},
+      {"type":"file","name":"P.BK!","size":"8.5K","time":"May 14  1997"},
+      {"type":"file","name":"P.SLI","size":"8.5K","time":"May 14  1997"},
+      {"type":"file","name":"POETQUES","size":"4.3K","time":"Mar 31  1997"},
+      {"type":"file","name":"RADIO","size":"5.1K","time":"May 14  1997"},
+      {"type":"file","name":"STATE","size":"5.4K","time":"Jan 25  1997"},
+      {"type":"file","name":"SVM","size":"5.5K","time":"Feb 22  1997"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":21}
+]

@@ -1,0 +1,29 @@
+[
+  {"type":"directory","name":"D-0016/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0016","size":"16K","time":"May 23  2023","contents":[
+      {"type":"file","name":"ACCONCI","size":"3.0K","time":"Jun  6  1996"},
+      {"type":"file","name":"ACCONCI.doc","size":"30K","time":"Apr  7  1998"},
+      {"type":"file","name":"ART","size":"18K","time":"Apr  1  1998"},
+      {"type":"file","name":"ART.doc","size":"33K","time":"Apr  7  1998"},
+      {"type":"file","name":"BABY","size":"10K","time":"Aug  8  1995"},
+      {"type":"file","name":"BABY.doc","size":"42K","time":"Apr  7  1998"},
+      {"type":"file","name":"BAM","size":"7.3K","time":"Aug 10  1994"},
+      {"type":"file","name":"BAM.doc","size":"26K","time":"Apr  7  1998"},
+      {"type":"file","name":"CAL","size":"14K","time":"Aug  8  1995"},
+      {"type":"file","name":"CAL.doc","size":"50K","time":"Apr  7  1998"},
+      {"type":"file","name":"CRAFT","size":"3.6K","time":"Aug 30  1996"},
+      {"type":"file","name":"CRAFT.doc","size":"29K","time":"Apr  7  1998"},
+      {"type":"file","name":"CRAFT2","size":"5.9K","time":"Apr  9  1991"},
+      {"type":"file","name":"CRAFT2.doc","size":"28K","time":"Apr  7  1998"},
+      {"type":"file","name":"HILTY","size":"3.5K","time":"Oct 20  1991"},
+      {"type":"file","name":"HILTY.doc","size":"29K","time":"Apr  7  1998"},
+      {"type":"file","name":"THEA","size":"7.2K","time":"Dec 21  1991"},
+      {"type":"file","name":"THEA.doc","size":"37K","time":"Apr  7  1998"},
+      {"type":"file","name":"VIDEO","size":"12K","time":"Apr 14  1993"},
+      {"type":"file","name":"VIDEO.doc","size":"38K","time":"Apr  7  1998"},
+      {"type":"file","name":"~WRL0877.tmp","size":"46K","time":"Apr  1  1998"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":21}
+]

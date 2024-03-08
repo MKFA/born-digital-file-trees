@@ -1,0 +1,19 @@
+[
+  {"type":"directory","name":"D-0032/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0032","size":"16K","time":"Jun  1  2023","contents":[
+      {"type":"file","name":"1996","size":"6.4K","time":"Jan  5  1997"},
+      {"type":"file","name":"1996.BK!","size":"5.9K","time":"Jan  5  1997"},
+      {"type":"file","name":"ADDRESS","size":"11K","time":"Feb  9  1997"},
+      {"type":"file","name":"ARC.LOU","size":"5.5K","time":"Feb 19  1997"},
+      {"type":"file","name":"ARCHIVE","size":"2.4K","time":"Feb 15  1997"},
+      {"type":"file","name":"ESTIMATE","size":"891","time":"Jan 12  1997"},
+      {"type":"file","name":"MALMO","size":"6.9K","time":"Feb 19  1997"},
+      {"type":"file","name":"METROSHI","size":"5.3K","time":"Feb 22  1997"},
+      {"type":"file","name":"P-LINER","size":"27K","time":"Mar  6  1997"},
+      {"type":"file","name":"STATE","size":"5.4K","time":"Jan 25  1997"},
+      {"type":"file","name":"SVM","size":"5.5K","time":"Feb 22  1997"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":11}
+]

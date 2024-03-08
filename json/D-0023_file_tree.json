@@ -1,0 +1,10 @@
+[
+  {"type":"directory","name":"D-0023/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0023","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"BEAT.GED","size":"4.2K","time":"Mar 18  1992"},
+      {"type":"file","name":"HPPCL5A.DRV","size":"426K","time":"Apr  4  1991"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":2}
+]

@@ -1,0 +1,21 @@
+[
+  {"type":"directory","name":"D-0101/extracted_files","size":"16K","time":"May 23  2023","contents":[
+    {"type":"directory","name":"D_0101","size":"16K","time":"May 23  2023","contents":[
+      {"type":"directory","name":"Kelley Design Ideas","size":"16K","time":"May 22  2023","contents":[
+        {"type":"file","name":" MIKE KELLEY MIT 5caption.doc","size":"7.0M","time":"Jan 29  2002"},
+        {"type":"file","name":"AppleShare PDS","size":"9.0K","time":"Aug  7  2000"},
+        {"type":"file","name":"Desktop DB","size":"12K","time":"Feb  5  2002"},
+        {"type":"file","name":"Desktop DF","size":"48K","time":"Feb  4  2002"},
+        {"type":"file","name":"KELLEYMITcover7.psd","size":"11M","time":"Jan 25  2002"},
+        {"type":"file","name":"MIT CAPTIONS .doc","size":"36K","time":"Jan 29  2002"},
+        {"type":"file","name":"NAVMac800QSFile","size":"4.0K","time":"Sep  5  2007"},
+        {"type":"directory","name":"TheVolumeSettingsFolder","size":"16K","time":"Aug  2  2000","contents":[
+          {"type":"file","name":"DesktopPrinters DB","size":"0","time":"Aug  2  2000"}
+        ]},
+        {"type":"file","name":"Virex SpeedScan","size":"88","time":"Aug  2  2000"}
+      ]}
+    ]}
+  ]}
+,
+  {"type":"report","directories":4,"files":9}
+]

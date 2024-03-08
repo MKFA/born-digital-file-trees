@@ -1,0 +1,9 @@
+[
+  {"type":"directory","name":"D-0092/extracted_files","size":"16K","time":"May 23  2023","contents":[
+    {"type":"directory","name":"D_0092","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"NDDUNDO.DAT","size":"512","time":"Mar  4  2004"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":1}
+]

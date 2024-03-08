@@ -1,0 +1,53 @@
+[
+  {"type":"directory","name":"D-0065/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0065","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"MAXINE.EXE","size":"242K","time":"Mar 14  1988"},
+      {"type":"directory","name":"NETREM","size":"16K","time":"Jul 23  1991","contents":[
+        {"type":"file","name":"CIN.EXE","size":"35K","time":"Aug 21  1990"},
+        {"type":"file","name":"CONFIG.EXE","size":"14K","time":"Jun 13  1990"},
+        {"type":"file","name":"COUT.EXE","size":"34K","time":"Aug 21  1990"},
+        {"type":"file","name":"GETADDR.EXE","size":"26K","time":"Nov 19  1987"},
+        {"type":"file","name":"HOTCALL.COM","size":"13K","time":"Jul 13  1990"},
+        {"type":"file","name":"MENUKEY.EXE","size":"7.4K","time":"Sep  8  1988"},
+        {"type":"file","name":"NR.ZIP","size":"169K","time":"May  6  1991"},
+        {"type":"file","name":"NRCALL.PID","size":"906","time":"Jul 10  1990"},
+        {"type":"file","name":"READ.ME","size":"15K","time":"Mar  1  1991"}
+      ]},
+      {"type":"file","name":"SOLIT.000","size":"13K","time":"Nov 17  1987"},
+      {"type":"file","name":"SOLIT.COM","size":"61K","time":"Nov 17  1987"},
+      {"type":"file","name":"SRCCGA.CDS","size":"43K","time":"Dec 31  1979"},
+      {"type":"file","name":"SRCEGA.CDS","size":"163K","time":"Nov  3  1987"},
+      {"type":"file","name":"SRGAME.DAT","size":"5.7K","time":"Nov 17  1987"},
+      {"type":"file","name":"SRHELP1.DAT","size":"1.7K","time":"Nov 17  1987"},
+      {"type":"file","name":"SRHELP10.DAT","size":"537","time":"Nov 17  1987"},
+      {"type":"file","name":"SRHELP11.DAT","size":"3.6K","time":"Nov 17  1987"},
+      {"type":"file","name":"SRHELP12.DAT","size":"1.9K","time":"Nov 17  1987"},
+      {"type":"file","name":"SRHELP13.DAT","size":"1.2K","time":"Nov 17  1987"},
+      {"type":"file","name":"SRHELP2.DAT","size":"1.4K","time":"Nov 17  1987"},
+      {"type":"file","name":"SRHELP3.DAT","size":"2.1K","time":"Nov 17  1987"},
+      {"type":"file","name":"SRHELP4.DAT","size":"1.9K","time":"Nov 17  1987"},
+      {"type":"file","name":"SRHELP5.DAT","size":"2.2K","time":"Nov 17  1987"},
+      {"type":"file","name":"SRHELP6.DAT","size":"1.5K","time":"Nov 17  1987"},
+      {"type":"file","name":"SRHELP7.DAT","size":"1.3K","time":"Nov 17  1987"},
+      {"type":"file","name":"SRHELP8.DAT","size":"2.4K","time":"Nov 17  1987"},
+      {"type":"file","name":"SRHELP9.DAT","size":"1.3K","time":"Nov 17  1987"},
+      {"type":"file","name":"SRMENU.DAT","size":"1.0K","time":"Nov 17  1987"},
+      {"type":"file","name":"SRPILES.DAT","size":"6.0K","time":"Nov 17  1987"},
+      {"type":"file","name":"SRT.DAT","size":"4.1K","time":"Nov 17  1987"},
+      {"type":"file","name":"TLM8-26.SRG","size":"2.4K","time":"Aug 26  1989"},
+      {"type":"directory","name":"TOOLS","size":"16K","time":"Jul 23  1991","contents":[
+        {"type":"file","name":"BASK.EXE","size":"7.8K","time":"Apr 11  1990"},
+        {"type":"file","name":"CHKSETUP.EXE","size":"7.7K","time":"Jun 18  1990"},
+        {"type":"file","name":"GV.EXE","size":"9.3K","time":"Dec 19  1989"},
+        {"type":"file","name":"NRREG.CFG","size":"58","time":"Feb 11  1991"},
+        {"type":"file","name":"NXTDSK.EXE","size":"8.5K","time":"Jun 13  1990"},
+        {"type":"file","name":"PKUNZIP.EXE","size":"23K","time":"Mar 14  1990"},
+        {"type":"file","name":"PKZIP.EXE","size":"33K","time":"Mar 14  1990"},
+        {"type":"file","name":"PRODREG.EXE","size":"23K","time":"May 10  1990"}
+      ]},
+      {"type":"file","name":"TOURHI.DAT","size":"38","time":"Mar 22  1989"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":4,"files":41}
+]

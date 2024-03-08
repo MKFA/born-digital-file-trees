@@ -2,6 +2,7 @@ import subprocess
 from bs4 import BeautifulSoup
 import re
 import sys
+import os
 
 # Use file tree util to get a json file tree from a given directory
 def getFileTreeJSON(dir_path):
@@ -23,7 +24,7 @@ def generateHTML(dir_path, soup):
     collapse_button = soup.new_tag('button', attrs={"class": "button", "id": "collapseButton", "onclick":"toggleCollapse()"})
     collapse_button.string = "Collapse All Directories"
     body.append(collapse_button)
-    def process_entry(entry, parent, margin, file_count=[0]):
+    def process_entry(entry, parent, margin):
         if entry["type"] == "directory":
             # If the directory is not the top-level one, create HTML elements
             if entry.get("contents"):
@@ -39,23 +40,16 @@ def generateHTML(dir_path, soup):
                     for child_entry in entry["contents"]:
                         process_entry(child_entry, dropdown_div, margin)
         elif entry["type"] == "file":
-            if file_count[0] < 100:
-                file_span = soup.new_tag('p', attrs={"class": "file", "style":f"margin-left:{margin}px"})
-                file_span.string = "📃 " + f'"{entry["name"]}"' + f" - {entry['size']}b - [{entry['time']}]"
-                parent.append(file_span)
-                file_count[0] += 1
-            elif file_count[0] == 100:
-                file_span = soup.new_tag('p', attrs={"class": "file", "style":f"margin-left:{margin}px"})
-                file_span.string = "etc..."
-                parent.append(file_span)
-                file_count[0] += 1
-            #parent.append(soup.new_tag('br'))
+            file_span = soup.new_tag('p', attrs={"class": "file", "style":f"margin-left:{margin}px"})
+            file_span.string = "📃 " + f'"{entry["name"]}"' + f" - {entry['size']}b - [{entry['time']}]"
+            parent.append(file_span)
     if tree_data[0].get('contents'):
         for entry in tree_data[0]['contents']:
             process_entry(entry, body, 5)
 
 def fileTreetoHTML(dir_path, html_file_path):
-    with open('/Users/mkf26/Documents/code/file-trees/generating-trees/htmlTemplate.html', 'r') as html_file:
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    with open(os.path.join(script_dir, 'htmlTemplate.html'), 'r') as html_file:
         soup = BeautifulSoup(html_file, 'html.parser')
     generateHTML(dir_path, soup)
 

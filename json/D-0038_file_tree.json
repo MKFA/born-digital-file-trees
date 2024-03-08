@@ -1,0 +1,94 @@
+[
+  {"type":"directory","name":"D-0038/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0038","size":"16K","time":"Jul  1  2006","contents":[
+      {"type":"file","name":"Desktop","size":"0","time":"Oct 22  1997"},
+      {"type":"directory","name":"Jablonka","size":"16K","time":"Oct 22  1997","contents":[
+        {"type":"file","name":"Black Soul","size":"5.1K","time":"Dec  2  1992"},
+        {"type":"file","name":"E. Schipper Show","size":"2.7K","time":"Jul 10  1991"},
+        {"type":"file","name":"John Reed template instructions","size":"7.5K","time":"Dec 13  1993"},
+        {"type":"file","name":"Re. Keyhole Angel price","size":"5.4K","time":"Sep 13  1993"},
+        {"type":"file","name":"Schipper Show Shipment","size":"7.0K","time":"May 21  1991"},
+        {"type":"file","name":"jablonka consignment","size":"14K","time":"Feb  2  1994"},
+        {"type":"file","name":"jablonka proforma 6-25-93","size":"5.0K","time":"Jun 23  1993"}
+      ]},
+      {"type":"directory","name":"Kelley Bio Notes","size":"16K","time":"May 22  2023","contents":[
+        {"type":"file","name":"Bio to Art Ctr","size":"7.3K","time":"Oct  7  1991"},
+        {"type":"file","name":"Hayward, London Bio 2nd Fax","size":"5.8K","time":"Sep 29  1991"},
+        {"type":"file","name":"Hayward, London Bio Fax","size":"5.2K","time":"Sep 29  1991"},
+        {"type":"file","name":"Metro update","size":"2.3K","time":"Jun  6  1991"},
+        {"type":"file","name":"Working Bibliography","size":"50K","time":"Dec  3  1991"}
+      ]},
+      {"type":"file","name":"Kelley bio","size":"107K","time":"Apr  7  1997"},
+      {"type":"directory","name":"Museums","size":"16K","time":"Apr  9  1993","contents":[
+        {"type":"directory","name":"BiNational","size":"16K","time":"Aug 30  1990","contents":[
+          {"type":"file","name":"BiNation. Fax","size":"1.5K","time":"May 22  1989"},
+          {"type":"file","name":"BiNational credits","size":"1.7K","time":"Mar 20  1990"},
+          {"type":"file","name":"Loan letter, ICA Boston","size":"1.7K","time":"Aug  2  1990"}
+        ]},
+        {"type":"directory","name":"Hirshhorn","size":"16K","time":"Jul 16  1991","contents":[
+          {"type":"file","name":"Cruz request brochures","size":"5.6K","time":"Jul 14  1991"},
+          {"type":"file","name":"Hirshhorn B&W's","size":"5.4K","time":"Nov  4  1990"},
+          {"type":"file","name":"hirshhorn bio 2","size":"4.4K","time":"Nov 15  1990"},
+          {"type":"file","name":"hirshhorn bio corrections","size":"5.2K","time":"Nov 14  1990"}
+        ]},
+        {"type":"directory","name":"Kunsthalle Basel","size":"16K","time":"Jan 15  1992","contents":[
+          {"type":"file","name":"From My Instit Slides","size":"4.5K","time":"Nov 14  1991"},
+          {"type":"file","name":"Garbage list","size":"7.3K","time":"Jan 13  1992"},
+          {"type":"file","name":"Plato's Cave List","size":"5.0K","time":"Oct 28  1991"}
+        ]},
+        {"type":"file","name":"Kunsthalle Wien re. missing","size":"6.0K","time":"Apr  7  1993"},
+        {"type":"directory","name":"MOCA","size":"16K","time":"Oct 25  1991","contents":[
+          {"type":"file","name":"MOCA-Metropolis Loan","size":"3.9K","time":"Jul 29  1991"}
+        ]},
+        {"type":"directory","name":"Musee d'Art Moderne Paris","size":"16K","time":"Oct 30  1991","contents":[
+          {"type":"file","name":"LA PAC re. ship","size":"4.3K","time":"Sep  2  1991"},
+          {"type":"file","name":"Musee d'Art Bio 2","size":"4.1K","time":"Oct 23  1991"},
+          {"type":"file","name":"Paris Bio","size":"18K","time":"Jul  7  1991"}
+        ]},
+        {"type":"file","name":"Pro Forma Fund. Caja","size":"6.0K","time":"Jun 13  1991"},
+        {"type":"file","name":"Proforma Bordeaux - notebook","size":"6.5K","time":"Aug 23  1992"},
+        {"type":"file","name":"Seattle-Slides","size":"2.8K","time":"Oct  2  1991"},
+        {"type":"directory","name":"Whitney","size":"16K","time":"Jan  4  1994","contents":[
+          {"type":"file","name":"Sussman Show Schedule","size":"1.8K","time":"Sep 10  1991"},
+          {"type":"file","name":"Whitney Bio Docs","size":"3.7K","time":"Oct 23  1991"},
+          {"type":"file","name":"Whitney re. Laugh Riot","size":"3.8K","time":"Oct 23  1991"},
+          {"type":"file","name":"Whitney re. new owner Gar #46","size":"9.6K","time":"Jan  2  1994"}
+        ]},
+        {"type":"file","name":"fox materials","size":"3.9K","time":"Oct 23  1991"}
+      ]},
+      {"type":"directory","name":"October 91 Exhibit","size":"16K","time":"Oct 22  1997"},
+      {"type":"directory","name":"Other","size":"16K","time":"Oct 22  1997","contents":[
+        {"type":"file","name":"About The John Reed Club","size":"5.7K","time":"Jun 16  1992"},
+        {"type":"file","name":"Craft Morphology Flow Cha (WN3)","size":"8.7K","time":"Dec 16  1992"},
+        {"type":"file","name":"Craft Morphology Flow Chart","size":"5.3K","time":"Jan 20  1992"},
+        {"type":"file","name":"Kelley 1992 price list","size":"11K","time":"Jun 29  1992"},
+        {"type":"file","name":"Kelley 1994 price list","size":"9.0K","time":"Sep  8  1994"},
+        {"type":"file","name":"Kelley framing (Whitney)","size":"11K","time":"Aug  3  1993"},
+        {"type":"file","name":"Mike Kelley Video Notes","size":"171K","time":"Apr 20  1993"},
+        {"type":"file","name":"Mike Kelley framing","size":"4.2K","time":"Nov 10  1991"},
+        {"type":"file","name":"Mike Kelley framing (WN3)","size":"6.1K","time":"May 11  1993"},
+        {"type":"file","name":"Mike Kelley framing (photos) (W","size":"6.7K","time":"Jul  5  1992"},
+        {"type":"file","name":"Mike's mailing list","size":"9.4K","time":"May 22  1994"},
+        {"type":"file","name":"S. Wayne Consignment","size":"2.6K","time":"Jun 19  1991"},
+        {"type":"file","name":"The Survoyuer Text","size":"2.8K","time":"Dec 10  1991"},
+        {"type":"file","name":"bernard payments","size":"5.7K","time":"Aug 18  1993"},
+        {"type":"file","name":"garbage list","size":"6.3K","time":"Jul  6  1994"},
+        {"type":"file","name":"kelley ad for art issues","size":"5.6K","time":"Aug  1  1994"},
+        {"type":"file","name":"kelley art forum","size":"8.4K","time":"Aug  1  1994"}
+      ]},
+      {"type":"directory","name":"Pansy Metal","size":"16K","time":"Dec  9  1994","contents":[
+        {"type":"file","name":"Pansy Met. annc","size":"3.2K","time":"Nov 14  1990"},
+        {"type":"file","name":"Pansy Met. document","size":"5.1K","time":"Oct 23  1991"},
+        {"type":"file","name":"Scarf invite","size":"2.5K","time":"Oct 23  1991"},
+        {"type":"file","name":"party list","size":"5.3K","time":"Oct 23  1991"},
+        {"type":"file","name":"scarf invite 2","size":"3.3K","time":"Oct 23  1991"}
+      ]},
+      {"type":"directory","name":"Peter Pakesch","size":"16K","time":"Oct 22  1997","contents":[
+        {"type":"file","name":"Fax re. Kelley late ship","size":"4.6K","time":"Oct 27  1991"}
+      ]},
+      {"type":"file","name":"SAM QuickScan File","size":"38","time":"Jul  5  2006"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":15,"files":61}
+]

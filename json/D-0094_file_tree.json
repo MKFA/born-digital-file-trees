@@ -1,0 +1,28 @@
+[
+  {"type":"directory","name":"D-0094/extracted_files","size":"16K","time":"May 23  2023","contents":[
+    {"type":"directory","name":"D_0094","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"directory","name":"MK Writings","size":"16K","time":"May 14  2003","contents":[
+        {"type":"file","name":"16 MEANING IS CONFUSED-MAGASIN Desktop.doc","size":"104K","time":"Sep  6  2002"},
+        {"type":"file","name":"Groovin 2.doc","size":"144K","time":"Jun 29  2003"},
+        {"type":"file","name":"LIGHT AND COLOR MOSTLY (ed. MK JW June 18).doc","size":"253K","time":"Oct 20  2003"},
+        {"type":"file","name":"LIST OF WRITINGS.doc","size":"23K","time":"Apr 30  2002"},
+        {"type":"file","name":"LePoeticsSong list.doc","size":"36K","time":"Oct 31  2003"},
+        {"type":"file","name":"POLE DANCE.doc","size":"19K","time":"Feb 10  2003"},
+        {"type":"file","name":"Picabia interview.rtf","size":"12K","time":"Sep 15  2002"},
+        {"type":"file","name":"Rewrites from Mike.doc","size":"58K","time":"Jun 12  2002"},
+        {"type":"file","name":"TSHIRT TEXT.doc","size":"19K","time":"Oct 12  2003"},
+        {"type":"file","name":"ceauKelley_GR11.doc","size":"123K","time":"Feb  5  2003"},
+        {"type":"file","name":"poledance2.doc","size":"20K","time":"Mar 24  2003"},
+        {"type":"file","name":"welchman 9.pdf","size":"123K","time":"Mar 11  2004"}
+      ]},
+      {"type":"directory","name":"a","size":"16K","time":"Apr 14  2004","contents":[
+        {"type":"file","name":"AN ACADEMIC CUTUP.doc","size":"114K","time":"Jun 19  2003"},
+        {"type":"file","name":"Uncanny Quotes.doc","size":"76K","time":"Sep  2  2003"},
+        {"type":"file","name":"fontanaessay_03.rtf","size":"11K","time":"Nov 24  2003"},
+        {"type":"file","name":"newuncannyintro.rtf","size":"21K","time":"Jan 27  2004"}
+      ]}
+    ]}
+  ]}
+,
+  {"type":"report","directories":4,"files":16}
+]

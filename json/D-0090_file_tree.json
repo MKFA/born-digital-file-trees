@@ -1,0 +1,12 @@
+[
+  {"type":"directory","name":"D-0090/extracted_files","size":"16K","time":"May 23  2023","contents":[
+    {"type":"directory","name":"D_0090","size":"16K","time":"Jun  1  2023","contents":[
+      {"type":"file","name":"database11_24.xls","size":"548K","time":"Nov 24  2004"},
+      {"type":"file","name":"labels2.doc","size":"27K","time":"Nov 24  2004"},
+      {"type":"file","name":"labels3.doc","size":"24K","time":"Nov 24  2004"},
+      {"type":"file","name":"transparencylabel rooseum.doc","size":"45K","time":"Nov 24  2004"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":4}
+]

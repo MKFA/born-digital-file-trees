@@ -1,0 +1,1052 @@
+[
+  {"type":"directory","name":"D-0230/original_files","size":"16K","time":"Jan 29 15:19","contents":[
+    {"type":"directory","name":"Users","size":"16K","time":"Jan 29 15:19","contents":[
+      {"type":"directory","name":"mikekelley","size":"16K","time":"Jan 29 15:20","contents":[
+        {"type":"directory","name":"Desktop","size":"16K","time":"Jan 29 15:24","contents":[
+          {"type":"directory","name":"HAREMS GRIDS","size":"16K","time":"Jan 29 15:24","contents":[
+            {"type":"file","name":"ASHTRAY GRID.jpg","size":"3.5M","time":"Jan 29 15:24"},
+            {"type":"directory","name":"ORDERED SG","size":"16K","time":"Jan 29 15:24","contents":[
+              {"type":"file","name":"SG#01.tif","size":"29M","time":"Jan 29 15:21"},
+              {"type":"file","name":"SG#02.tif","size":"29M","time":"Jan 29 15:21"},
+              {"type":"file","name":"SG#03.tif","size":"29M","time":"Jan 29 15:21"},
+              {"type":"file","name":"SG#04.tif","size":"29M","time":"Jan 29 15:21"},
+              {"type":"file","name":"SG#05.tif","size":"29M","time":"Jan 29 15:21"},
+              {"type":"file","name":"SG#06.tif","size":"29M","time":"Jan 29 15:21"},
+              {"type":"file","name":"SG#07.tif","size":"29M","time":"Jan 29 15:21"},
+              {"type":"file","name":"SG#08.tif","size":"29M","time":"Jan 29 15:21"},
+              {"type":"file","name":"SG#09.tif","size":"29M","time":"Jan 29 15:24"},
+              {"type":"file","name":"SG#10.tif","size":"29M","time":"Jan 29 15:25"},
+              {"type":"file","name":"SG#11.tif","size":"29M","time":"Jan 29 15:24"},
+              {"type":"file","name":"SG#12.tif","size":"29M","time":"Jan 29 15:21"},
+              {"type":"file","name":"SG#13.tif","size":"14M","time":"Jan 29 15:21"},
+              {"type":"file","name":"SG#14.tif","size":"29M","time":"Jan 29 15:21"},
+              {"type":"file","name":"SG#15.tif","size":"29M","time":"Jan 29 15:21"},
+              {"type":"file","name":"SG#16.tif","size":"29M","time":"Jan 29 15:21"},
+              {"type":"file","name":"SG#17.tif","size":"29M","time":"Jan 29 15:21"},
+              {"type":"file","name":"SG#18.tif","size":"29M","time":"Jan 29 15:22"},
+              {"type":"file","name":"SG#19.tif","size":"29M","time":"Jan 29 15:22"},
+              {"type":"file","name":"SG#20.tif","size":"29M","time":"Jan 29 15:22"},
+              {"type":"file","name":"SG#21.tif","size":"29M","time":"Jan 29 15:24"},
+              {"type":"file","name":"SG#22.tif","size":"29M","time":"Jan 29 15:22"},
+              {"type":"file","name":"SG#23.tif","size":"29M","time":"Jan 29 15:22"},
+              {"type":"file","name":"SG#24.tif","size":"29M","time":"Jan 29 15:22"},
+              {"type":"file","name":"SG#25.tif","size":"29M","time":"Jan 29 15:22"},
+              {"type":"file","name":"SG#26.tif","size":"29M","time":"Jan 29 15:22"},
+              {"type":"file","name":"SG#27.tif","size":"29M","time":"Jan 29 15:22"},
+              {"type":"file","name":"SG#28.tif","size":"29M","time":"Jan 29 15:22"},
+              {"type":"file","name":"SG#29.tif","size":"29M","time":"Jan 29 15:22"},
+              {"type":"file","name":"SG#30.tif","size":"29M","time":"Jan 29 15:22"},
+              {"type":"file","name":"SG#31.tif","size":"29M","time":"Jan 29 15:22"},
+              {"type":"file","name":"SG#32.tif","size":"29M","time":"Jan 29 15:23"},
+              {"type":"file","name":"SG#33.tif","size":"29M","time":"Jan 29 15:23"},
+              {"type":"file","name":"SG#34.tif","size":"29M","time":"Jan 29 15:23"},
+              {"type":"file","name":"SG#35.tif","size":"29M","time":"Jan 29 15:23"},
+              {"type":"file","name":"SG#36.tif","size":"29M","time":"Jan 29 15:23"},
+              {"type":"file","name":"SG#37.tif","size":"29M","time":"Jan 29 15:23"},
+              {"type":"file","name":"SG#38.tif","size":"29M","time":"Jan 29 15:23"},
+              {"type":"file","name":"SG#39.tif","size":"29M","time":"Jan 29 15:23"},
+              {"type":"file","name":"SG#40.tif","size":"29M","time":"Jan 29 15:23"},
+              {"type":"file","name":"SG#41.tif","size":"29M","time":"Jan 29 15:23"},
+              {"type":"file","name":"SG#42.tif","size":"29M","time":"Jan 29 15:23"},
+              {"type":"file","name":"SG#43.tif","size":"29M","time":"Jan 29 15:23"},
+              {"type":"file","name":"SG#44.tif","size":"29M","time":"Jan 29 15:23"},
+              {"type":"file","name":"SG#45.tif","size":"29M","time":"Jan 29 15:24"},
+              {"type":"file","name":"SG#46.tif","size":"29M","time":"Jan 29 15:24"},
+              {"type":"file","name":"SG#47.tif","size":"29M","time":"Jan 29 15:24"},
+              {"type":"file","name":"SG#48_RT8.TIF","size":"14M","time":"Jan 29 15:23"},
+              {"type":"file","name":"SG#49.tif","size":"29M","time":"Jan 29 15:24"},
+              {"type":"file","name":"SG#50.tif","size":"29M","time":"Jan 29 15:24"},
+              {"type":"file","name":"SG#51.tif","size":"29M","time":"Jan 29 15:24"}
+            ]},
+            {"type":"directory","name":"SHOT GLASS GRIDS","size":"16K","time":"Jan 29 15:24","contents":[
+              {"type":"file","name":"SHOT GLASS GRID 1.jpg","size":"689K","time":"Jan 29 15:25"},
+              {"type":"file","name":"SHOT GLASS GRID 2.jpg","size":"640K","time":"Jan 29 15:23"},
+              {"type":"file","name":"SHOT GLASS GRID 3.jpg","size":"160K","time":"Jan 29 15:23"},
+              {"type":"file","name":"SHOT-GLASS-GRID-1web.jpg","size":"428K","time":"Jan 29 15:24"},
+              {"type":"file","name":"SHOT-GLASS-GRID-2web.jpg","size":"395K","time":"Jan 29 15:24"},
+              {"type":"file","name":"SHOT-GLASS-GRID-3web.jpg","size":"101K","time":"Jan 29 15:24"}
+            ]},
+            {"type":"directory","name":"SQUEEZE TOY GRIDS","size":"16K","time":"Jan 29 15:24","contents":[
+              {"type":"file","name":"SQUEEZE TOY GRID 1.jpg","size":"2.6M","time":"Jan 29 15:24"},
+              {"type":"file","name":"SQUEEZE TOY GRID 2.jpg","size":"2.2M","time":"Jan 29 15:24"},
+              {"type":"file","name":"SQUEEZE TOY GRID 3.jpg","size":"2.2M","time":"Jan 29 15:24"}
+            ]},
+            {"type":"file","name":"shot50_RT16.TIF","size":"29M","time":"Jan 29 15:24"},
+            {"type":"file","name":"shot51_RT16.TIF","size":"29M","time":"Jan 29 15:24"},
+            {"type":"file","name":"shots32_RT16.TIF","size":"29M","time":"Jan 29 15:25"}
+          ]},
+          {"type":"directory","name":"Internet Explorer.app","size":"16K","time":"Jan 29 15:19","contents":[
+            {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:25","contents":[
+              {"type":"directory","name":"Frameworks","size":"16K","time":"Jan 29 15:25","contents":[
+                {"type":"directory","name":"MS Internet Library.cfm","size":"16K","time":"Jan 29 15:25","contents":[
+                  {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:25","contents":[
+                    {"type":"directory","name":"MacOS","size":"16K","time":"Jan 29 15:25","contents":[
+                      {"type":"file","name":"MS Internet Library","size":"1.6M","time":"Jan 29 15:25"}
+                    ]}
+                  ]}
+                ]},
+                {"type":"directory","name":"MS XML Library.cfm","size":"16K","time":"Jan 29 15:25","contents":[
+                  {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:25","contents":[
+                    {"type":"directory","name":"MacOS","size":"16K","time":"Jan 29 15:25","contents":[
+                      {"type":"file","name":"MS XML Library","size":"1022K","time":"Jan 29 15:25"}
+                    ]}
+                  ]}
+                ]}
+              ]},
+              {"type":"directory","name":"MacOS","size":"16K","time":"Jan 29 15:25","contents":[
+                {"type":"file","name":"Internet Explorer","size":"3.5M","time":"Jan 29 15:24"},
+                {"type":"directory","name":"PDE","size":"16K","time":"Jan 29 15:23","contents":[
+                  {"type":"directory","name":"PrintLayout.plugin","size":"16K","time":"Jan 29 15:23","contents":[
+                    {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:23","contents":[
+                      {"type":"directory","name":"MacOS","size":"16K","time":"Jan 29 15:23","contents":[
+                        {"type":"file","name":"PrintLayout","size":"656K","time":"Jan 29 15:24"}
+                      ]}
+                    ]}
+                  ]}
+                ]},
+                {"type":"directory","name":"Plug-ins","size":"16K","time":"Jan 29 15:25","contents":[
+                  {"type":"directory","name":"Default Plugin Carbon.cfm","size":"16K","time":"Jan 29 15:25","contents":[
+                    {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:25","contents":[
+                      {"type":"directory","name":"MacOS","size":"16K","time":"Jan 29 15:25","contents":[
+                        {"type":"file","name":"Default Plugin Carbon","size":"7.1K","time":"Jan 29 15:25"}
+                      ]}
+                    ]}
+                  ]}
+                ]},
+                {"type":"directory","name":"Preference Panels","size":"16K","time":"Jan 29 15:25","contents":[
+                  {"type":"directory","name":"Advanced Networking.cfm","size":"16K","time":"Jan 29 15:25","contents":[
+                    {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:25","contents":[
+                      {"type":"directory","name":"MacOS","size":"16K","time":"Jan 29 15:25","contents":[
+                        {"type":"file","name":"Advanced Networking","size":"20K","time":"Jan 29 15:25"}
+                      ]}
+                    ]}
+                  ]},
+                  {"type":"directory","name":"Advanced UI.cfm","size":"16K","time":"Jan 29 15:25","contents":[
+                    {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:25","contents":[
+                      {"type":"directory","name":"MacOS","size":"16K","time":"Jan 29 15:25","contents":[
+                        {"type":"file","name":"Advanced UI","size":"13K","time":"Jan 29 15:25"}
+                      ]}
+                    ]}
+                  ]},
+                  {"type":"directory","name":"AutoFill Profile.cfm","size":"16K","time":"Jan 29 15:24","contents":[
+                    {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:24","contents":[
+                      {"type":"directory","name":"MacOS","size":"16K","time":"Jan 29 15:24","contents":[
+                        {"type":"file","name":"AutoFill Profile","size":"30K","time":"Jun  3  2003"}
+                      ]}
+                    ]}
+                  ]},
+                  {"type":"directory","name":"Cookies.cfm","size":"16K","time":"Jan 29 15:25","contents":[
+                    {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:25","contents":[
+                      {"type":"directory","name":"MacOS","size":"16K","time":"Jan 29 15:25","contents":[
+                        {"type":"file","name":"Cookies","size":"56K","time":"Jan 29 15:25"}
+                      ]}
+                    ]}
+                  ]},
+                  {"type":"directory","name":"Downloads.cfm","size":"16K","time":"Jan 29 15:25","contents":[
+                    {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:25","contents":[
+                      {"type":"directory","name":"MacOS","size":"16K","time":"Jan 29 15:25","contents":[
+                        {"type":"file","name":"Downloads","size":"16K","time":"Jan 29 15:25"}
+                      ]}
+                    ]}
+                  ]},
+                  {"type":"directory","name":"File Helpers.cfm","size":"16K","time":"Jan 29 15:25","contents":[
+                    {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:25","contents":[
+                      {"type":"directory","name":"MacOS","size":"16K","time":"Jan 29 15:25","contents":[
+                        {"type":"file","name":"File Helpers","size":"80K","time":"Jan 29 15:25"}
+                      ]}
+                    ]}
+                  ]},
+                  {"type":"directory","name":"Forms AutoComplete.cfm","size":"16K","time":"Jan 29 15:25","contents":[
+                    {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:25","contents":[
+                      {"type":"directory","name":"MacOS","size":"16K","time":"Jan 29 15:25","contents":[
+                        {"type":"file","name":"Forms AutoComplete","size":"92K","time":"Jan 29 15:25"}
+                      ]}
+                    ]}
+                  ]},
+                  {"type":"directory","name":"General E-mail.cfm","size":"16K","time":"Jan 29 15:25","contents":[
+                    {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:25","contents":[
+                      {"type":"directory","name":"MacOS","size":"16K","time":"Jan 29 15:25","contents":[
+                        {"type":"file","name":"General E-mail","size":"10K","time":"Jan 29 15:25"}
+                      ]}
+                    ]}
+                  ]},
+                  {"type":"directory","name":"Java.cfm","size":"16K","time":"Jan 29 15:25","contents":[
+                    {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:25","contents":[
+                      {"type":"directory","name":"MacOS","size":"16K","time":"Jan 29 15:25","contents":[
+                        {"type":"file","name":"Java","size":"50K","time":"Jan 29 15:25"}
+                      ]}
+                    ]}
+                  ]},
+                  {"type":"directory","name":"Language and Fonts.cfm","size":"16K","time":"Jan 29 15:25","contents":[
+                    {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:25","contents":[
+                      {"type":"directory","name":"MacOS","size":"16K","time":"Jan 29 15:25","contents":[
+                        {"type":"file","name":"Language and Fonts","size":"122K","time":"Jan 29 15:25"}
+                      ]}
+                    ]}
+                  ]},
+                  {"type":"directory","name":"Password Dialogs.cfm","size":"16K","time":"Jan 29 15:23","contents":[
+                    {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:23","contents":[
+                      {"type":"directory","name":"MacOS","size":"16K","time":"Jan 29 15:23","contents":[
+                        {"type":"file","name":"Password Dialogs","size":"7.8K","time":"Jan 29 15:24"}
+                      ]}
+                    ]}
+                  ]},
+                  {"type":"directory","name":"Protocol Helpers.cfm","size":"16K","time":"Jan 29 15:25","contents":[
+                    {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:25","contents":[
+                      {"type":"directory","name":"MacOS","size":"16K","time":"Jan 29 15:25","contents":[
+                        {"type":"file","name":"Protocol Helpers","size":"60K","time":"Jan 29 15:25"}
+                      ]}
+                    ]}
+                  ]},
+                  {"type":"directory","name":"Proxies.cfm","size":"16K","time":"Jan 29 15:23","contents":[
+                    {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:23","contents":[
+                      {"type":"directory","name":"MacOS","size":"16K","time":"Jan 29 15:23","contents":[
+                        {"type":"file","name":"Proxies","size":"22K","time":"Jan 29 15:24"}
+                      ]}
+                    ]}
+                  ]},
+                  {"type":"directory","name":"Ratings.cfm","size":"16K","time":"Jan 29 15:25","contents":[
+                    {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:25","contents":[
+                      {"type":"directory","name":"MacOS","size":"16K","time":"Jan 29 15:25","contents":[
+                        {"type":"file","name":"Ratings","size":"75K","time":"Jan 29 15:25"}
+                      ]}
+                    ]}
+                  ]},
+                  {"type":"directory","name":"Security Zones.cfm","size":"16K","time":"Jan 29 15:25","contents":[
+                    {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:25","contents":[
+                      {"type":"directory","name":"MacOS","size":"16K","time":"Jan 29 15:25","contents":[
+                        {"type":"file","name":"Security Zones","size":"96K","time":"Jan 29 15:25"}
+                      ]}
+                    ]}
+                  ]},
+                  {"type":"directory","name":"Security.cfm","size":"16K","time":"Jan 29 15:25","contents":[
+                    {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:25","contents":[
+                      {"type":"directory","name":"MacOS","size":"16K","time":"Jan 29 15:25","contents":[
+                        {"type":"file","name":"Security","size":"72K","time":"Jan 29 15:25"}
+                      ]}
+                    ]}
+                  ]},
+                  {"type":"directory","name":"Subscriptions.cfm","size":"16K","time":"Jan 29 15:24","contents":[
+                    {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:24","contents":[
+                      {"type":"directory","name":"MacOS","size":"16K","time":"Jan 29 15:24","contents":[
+                        {"type":"file","name":"Subscriptions","size":"15K","time":"Jan 29 15:25"}
+                      ]}
+                    ]}
+                  ]},
+                  {"type":"directory","name":"User Passwords.cfm","size":"16K","time":"Jan 29 15:25","contents":[
+                    {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:25","contents":[
+                      {"type":"directory","name":"MacOS","size":"16K","time":"Jan 29 15:25","contents":[
+                        {"type":"file","name":"User Passwords","size":"53K","time":"Jan 29 15:25"}
+                      ]}
+                    ]}
+                  ]},
+                  {"type":"directory","name":"Utility Dialogs.cfm","size":"16K","time":"Jan 29 15:23","contents":[
+                    {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:23","contents":[
+                      {"type":"directory","name":"MacOS","size":"16K","time":"Jan 29 15:23","contents":[
+                        {"type":"file","name":"Utility Dialogs","size":"9.9K","time":"Jan 29 15:24"}
+                      ]}
+                    ]}
+                  ]},
+                  {"type":"directory","name":"Web Browser UI.cfm","size":"16K","time":"Jan 29 15:25","contents":[
+                    {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:25","contents":[
+                      {"type":"directory","name":"MacOS","size":"16K","time":"Jan 29 15:25","contents":[
+                        {"type":"file","name":"Web Browser UI","size":"16K","time":"Jan 29 15:25"}
+                      ]}
+                    ]}
+                  ]},
+                  {"type":"directory","name":"Web Content.cfm","size":"16K","time":"Jan 29 15:23","contents":[
+                    {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:23","contents":[
+                      {"type":"directory","name":"MacOS","size":"16K","time":"Jan 29 15:23","contents":[
+                        {"type":"file","name":"Web Content","size":"20K","time":"Jan 29 15:24"}
+                      ]}
+                    ]}
+                  ]}
+                ]}
+              ]},
+              {"type":"directory","name":"Resources","size":"16K","time":"Jan 29 15:25","contents":[
+                {"type":"file","name":"AVI.icns","size":"39K","time":"Jan 29 15:26"},
+                {"type":"directory","name":"English.lproj","size":"16K","time":"Jan 29 15:23","contents":[
+                  {"type":"file","name":"Customize Toolbars Page","size":"65K","time":"Jan 29 15:24"},
+                  {"type":"directory","name":"Help","size":"16K","time":"Jan 29 15:23","contents":[
+                    {"type":"directory","name":"Images","size":"16K","time":"Jan 29 15:25","contents":[
+                      {"type":"file","name":"Chevron.gif","size":"403","time":"Jan 29 15:25"},
+                      {"type":"file","name":"Command.gif","size":"58","time":"Jan 29 15:24"},
+                      {"type":"file","name":"Icon_auction.gif","size":"172","time":"Jan 29 15:24"},
+                      {"type":"file","name":"Icon_auction_closed.gif","size":"183","time":"Jan 29 15:24"},
+                      {"type":"file","name":"Icon_check.gif","size":"85","time":"Jan 29 15:24"},
+                      {"type":"file","name":"Icon_diamond.gif","size":"104","time":"Jan 29 15:24"},
+                      {"type":"file","name":"Icon_file.gif","size":"95","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_folder.gif","size":"104","time":"Jan 29 15:24"},
+                      {"type":"file","name":"Icon_ftp.gif","size":"187","time":"Jan 29 15:24"},
+                      {"type":"file","name":"Icon_help.gif","size":"751","time":"Jan 29 15:24"},
+                      {"type":"file","name":"Icon_lock.gif","size":"211","time":"Jan 29 15:24"},
+                      {"type":"file","name":"Icon_pageholder.gif","size":"203","time":"Jan 29 15:24"},
+                      {"type":"file","name":"Icon_scrapbook.gif","size":"189","time":"Jan 29 15:24"},
+                      {"type":"file","name":"Icon_subscription.gif","size":"194","time":"Jan 29 15:24"},
+                      {"type":"file","name":"Icon_warning.gif","size":"110","time":"Jan 29 15:25"},
+                      {"type":"file","name":"Icon_webpage.gif","size":"115","time":"Jan 29 15:24"},
+                      {"type":"file","name":"Note.gif","size":"590","time":"Jan 29 15:24"},
+                      {"type":"file","name":"Pointinghand.gif","size":"141","time":"Jan 29 15:24"},
+                      {"type":"file","name":"Spacer_1.gif","size":"43","time":"Jan 29 15:25"},
+                      {"type":"file","name":"Tip.gif","size":"576","time":"Jan 29 15:25"},
+                      {"type":"file","name":"down.gif","size":"857","time":"Jan 29 15:25"},
+                      {"type":"file","name":"mactop.gif","size":"93","time":"Jan 29 15:24"},
+                      {"type":"file","name":"triangle.gif","size":"861","time":"Jan 29 15:24"}
+                    ]}
+                  ]}
+                ]},
+                {"type":"directory","name":"French.lproj","size":"16K","time":"Jan 29 15:19","contents":[
+                  {"type":"directory","name":"Aide","size":"16K","time":"Jan 29 15:19","contents":[
+                    {"type":"directory","name":"Images","size":"16K","time":"Jan 29 15:25","contents":[
+                      {"type":"file","name":"Chevron.gif","size":"403","time":"Jan 29 15:25"},
+                      {"type":"file","name":"Command.gif","size":"58","time":"Jan 29 15:26"},
+                      {"type":"file","name":"Icon_auction.gif","size":"172","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_auction_closed.gif","size":"183","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_check.gif","size":"85","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_diamond.gif","size":"104","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_file.gif","size":"95","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_folder.gif","size":"104","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_ftp.gif","size":"187","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_help.gif","size":"751","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_lock.gif","size":"211","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_pageholder.gif","size":"203","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_scrapbook.gif","size":"189","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_subscription.gif","size":"194","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_warning.gif","size":"110","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_webpage.gif","size":"115","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Note.gif","size":"590","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Pointinghand.gif","size":"141","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Spacer_1.gif","size":"43","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Tip.gif","size":"576","time":"Jan 29 15:26"},
+                      {"type":"file","name":"down.gif","size":"857","time":"Jan 29 15:26"},
+                      {"type":"file","name":"mactop.gif","size":"102","time":"Jan 29 15:20"},
+                      {"type":"file","name":"ph_toolbar.gif","size":"1.5K","time":"Jan 29 15:20"},
+                      {"type":"file","name":"triangle.gif","size":"861","time":"Jan 29 15:20"}
+                    ]}
+                  ]},
+                  {"type":"file","name":"Customize Toolbars Page","size":"49K","time":"Jan 29 15:20"}
+                ]},
+                {"type":"file","name":"GIF.icns","size":"40K","time":"Jan 29 15:20"},
+                {"type":"directory","name":"German.lproj","size":"16K","time":"Jan 29 15:19","contents":[
+                  {"type":"file","name":"Customize Toolbars Page","size":"52K","time":"Jan 29 15:20"},
+                  {"type":"directory","name":"Hilfe","size":"16K","time":"Jan 29 15:19","contents":[
+                    {"type":"directory","name":"Images","size":"16K","time":"Jan 29 15:25","contents":[
+                      {"type":"file","name":"Chevron.gif","size":"403","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Command.gif","size":"58","time":"Jan 29 15:26"},
+                      {"type":"file","name":"Icon_auction.gif","size":"172","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_auction_closed.gif","size":"183","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_check.gif","size":"85","time":"Jan 29 15:24"},
+                      {"type":"file","name":"Icon_diamond.gif","size":"104","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_file.gif","size":"95","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_folder.gif","size":"104","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_ftp.gif","size":"187","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_help.gif","size":"751","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_lock.gif","size":"211","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_pageholder.gif","size":"203","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_scrapbook.gif","size":"189","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_subscription.gif","size":"194","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_warning.gif","size":"110","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_webpage.gif","size":"115","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Note.gif","size":"590","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Pointinghand.gif","size":"141","time":"Apr 27  2001"},
+                      {"type":"file","name":"Spacer_1.gif","size":"43","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Tip.gif","size":"576","time":"Jan 29 15:20"},
+                      {"type":"file","name":"down.gif","size":"857","time":"Jan 29 15:26"},
+                      {"type":"file","name":"mactop.gif","size":"119","time":"Jan 29 15:20"},
+                      {"type":"file","name":"ph_toolbar.gif","size":"1.5K","time":"Jan 29 15:20"},
+                      {"type":"file","name":"triangle.gif","size":"861","time":"Jan 29 15:20"}
+                    ]}
+                  ]}
+                ]},
+                {"type":"directory","name":"Italian.lproj","size":"16K","time":"Jan 29 15:19","contents":[
+                  {"type":"directory","name":"Aiuti","size":"16K","time":"Jan 29 15:19","contents":[
+                    {"type":"directory","name":"Images","size":"16K","time":"Jan 29 15:25","contents":[
+                      {"type":"file","name":"Chevron.gif","size":"403","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Command.gif","size":"58","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_auction.gif","size":"172","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_auction_closed.gif","size":"183","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_check.gif","size":"85","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_diamond.gif","size":"104","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_file.gif","size":"95","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_folder.gif","size":"104","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_ftp.gif","size":"187","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_help.gif","size":"751","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_lock.gif","size":"211","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_pageholder.gif","size":"203","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_scrapbook.gif","size":"189","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_subscription.gif","size":"194","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_warning.gif","size":"110","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_webpage.gif","size":"115","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Note.gif","size":"590","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Pointinghand.gif","size":"141","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Spacer_1.gif","size":"43","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Tip.gif","size":"576","time":"Jan 29 15:20"},
+                      {"type":"file","name":"down.gif","size":"857","time":"Jan 29 15:20"},
+                      {"type":"file","name":"mactop.gif","size":"111","time":"Jan 29 15:20"},
+                      {"type":"file","name":"ph_toolbar.gif","size":"1.5K","time":"Jan 29 15:26"},
+                      {"type":"file","name":"triangle.gif","size":"861","time":"Jan 29 15:20"}
+                    ]}
+                  ]},
+                  {"type":"file","name":"Customize Toolbars Page","size":"51K","time":"Jan 29 15:20"}
+                ]},
+                {"type":"file","name":"JPEG.icns","size":"39K","time":"Apr 27  2001"},
+                {"type":"directory","name":"Japanese.lproj","size":"16K","time":"Jan 29 15:19","contents":[
+                  {"type":"file","name":"Customize Toolbars Page","size":"50K","time":"Jan 29 15:20"},
+                  {"type":"directory","name":"ÉwÉãÉv","size":"16K","time":"Jan 29 15:19","contents":[
+                    {"type":"directory","name":"Images","size":"16K","time":"Jan 29 15:24","contents":[
+                      {"type":"file","name":"Chevron.gif","size":"403","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Command.gif","size":"58","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_Get_Info.gif","size":"97","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_auction.gif","size":"172","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_auction_closed.gif","size":"183","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_btn_trash.gif","size":"893","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_channel.gif","size":"181","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_check.gif","size":"85","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_diamond.gif","size":"104","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_file.gif","size":"95","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_folder.gif","size":"104","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_ftp.gif","size":"187","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_help.gif","size":"185","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_lock.gif","size":"121","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_mail.gif","size":"160","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_news.gif","size":"92","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_pageholder.gif","size":"203","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_scrapbook.gif","size":"189","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_subscription.gif","size":"194","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_warning.gif","size":"110","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_webpage.gif","size":"115","time":"Apr 27  2001"},
+                      {"type":"file","name":"Note.gif","size":"590","time":"Apr 27  2001"},
+                      {"type":"file","name":"PH_clear.gif","size":"163","time":"Apr 27  2001"},
+                      {"type":"file","name":"PH_copypage.gif","size":"234","time":"Apr 27  2001"},
+                      {"type":"file","name":"PH_favorites.gif","size":"249","time":"Apr 27  2001"},
+                      {"type":"file","name":"PH_fullwebpage.gif","size":"174","time":"Apr 27  2001"},
+                      {"type":"file","name":"PH_linksonly.gif","size":"184","time":"Apr 27  2001"},
+                      {"type":"file","name":"PH_toolbar.gif","size":"1.5K","time":"Apr 27  2001"},
+                      {"type":"file","name":"Pointinghand.gif","size":"141","time":"Jan 29 15:24"},
+                      {"type":"file","name":"Spacer_1.gif","size":"43","time":"Apr 27  2001"},
+                      {"type":"file","name":"Tip.gif","size":"576","time":"Apr 27  2001"},
+                      {"type":"file","name":"down.gif","size":"857","time":"Jan 29 15:20"},
+                      {"type":"file","name":"mactop.gif","size":"133","time":"Apr 27  2001"},
+                      {"type":"file","name":"triangle.gif","size":"861","time":"Apr 27  2001"}
+                    ]}
+                  ]}
+                ]},
+                {"type":"file","name":"MIEE.icns","size":"39K","time":"Jan 29 15:26"},
+                {"type":"file","name":"MacIE.icns","size":"47K","time":"Apr 27  2001"},
+                {"type":"directory","name":"Spanish.lproj","size":"16K","time":"Jan 29 15:20","contents":[
+                  {"type":"directory","name":"Ayuda","size":"16K","time":"Jan 29 15:20","contents":[
+                    {"type":"directory","name":"images","size":"16K","time":"Jan 29 15:24","contents":[
+                      {"type":"file","name":"Chevron.gif","size":"403","time":"Jan 29 15:24"},
+                      {"type":"file","name":"Command.gif","size":"58","time":"Jan 29 15:24"},
+                      {"type":"file","name":"Icon_auction.gif","size":"172","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_auction_closed.gif","size":"183","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_check.gif","size":"85","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_diamond.gif","size":"104","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_file.gif","size":"95","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_folder.gif","size":"104","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_ftp.gif","size":"187","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_help.gif","size":"751","time":"Jun 28  2001"},
+                      {"type":"file","name":"Icon_lock.gif","size":"211","time":"Jun 28  2001"},
+                      {"type":"file","name":"Icon_pageholder.gif","size":"203","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_scrapbook.gif","size":"189","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_subscription.gif","size":"194","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_warning.gif","size":"110","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_webpage.gif","size":"115","time":"Apr 27  2001"},
+                      {"type":"file","name":"Note.gif","size":"590","time":"Apr 27  2001"},
+                      {"type":"file","name":"Pointinghand.gif","size":"141","time":"Apr 27  2001"},
+                      {"type":"file","name":"Spacer_1.gif","size":"43","time":"Apr 27  2001"},
+                      {"type":"file","name":"Tip.gif","size":"576","time":"Apr 27  2001"},
+                      {"type":"file","name":"down.gif","size":"857","time":"Jan 29 15:24"},
+                      {"type":"file","name":"mactop.gif","size":"105","time":"Apr 27  2001"},
+                      {"type":"file","name":"ph_toolbar.gif","size":"1.6K","time":"Jul 30  2001"},
+                      {"type":"file","name":"triangle.gif","size":"861","time":"Apr 27  2001"}
+                    ]}
+                  ]},
+                  {"type":"file","name":"Customize Toolbars Page","size":"51K","time":"Apr 27  2001"}
+                ]},
+                {"type":"directory","name":"Swedish.lproj","size":"16K","time":"Jan 29 15:20","contents":[
+                  {"type":"file","name":"Customize Toolbars Page","size":"50K","time":"Apr 27  2001"},
+                  {"type":"directory","name":"Hjälp","size":"16K","time":"Jan 29 15:20","contents":[
+                    {"type":"directory","name":"images","size":"16K","time":"Jan 29 15:25","contents":[
+                      {"type":"file","name":"Chevron.gif","size":"403","time":"Apr 27  2001"},
+                      {"type":"file","name":"Command.gif","size":"58","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_auction.gif","size":"172","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_auction_closed.gif","size":"183","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_check.gif","size":"85","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_diamond.gif","size":"104","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_file.gif","size":"95","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_folder.gif","size":"104","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_ftp.gif","size":"187","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_help.gif","size":"751","time":"Jun 28  2001"},
+                      {"type":"file","name":"Icon_lock.gif","size":"211","time":"Jun 28  2001"},
+                      {"type":"file","name":"Icon_pageholder.gif","size":"203","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_scrapbook.gif","size":"189","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_subscription.gif","size":"194","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_warning.gif","size":"110","time":"Apr 27  2001"},
+                      {"type":"file","name":"Icon_webpage.gif","size":"115","time":"Apr 27  2001"},
+                      {"type":"file","name":"Note.gif","size":"590","time":"Apr 27  2001"},
+                      {"type":"file","name":"Pointinghand.gif","size":"141","time":"Apr 27  2001"},
+                      {"type":"file","name":"Spacer_1.gif","size":"43","time":"Jan 29 15:26"},
+                      {"type":"file","name":"Tip.gif","size":"576","time":"Jan 29 15:26"},
+                      {"type":"file","name":"down.gif","size":"857","time":"Apr 27  2001"},
+                      {"type":"file","name":"mactop.gif","size":"116","time":"Apr 27  2001"},
+                      {"type":"file","name":"ph_toolbar.gif","size":"1.5K","time":"Jul 30  2001"},
+                      {"type":"file","name":"triangle.gif","size":"861","time":"Jan 29 15:25"}
+                    ]}
+                  ]}
+                ]},
+                {"type":"file","name":"WAFF.icns","size":"44K","time":"Jan 29 15:25"},
+                {"type":"file","name":"bzy0.icns","size":"41K","time":"Jan 29 15:24"},
+                {"type":"file","name":"bzy1.icns","size":"41K","time":"Jan 29 15:24"},
+                {"type":"file","name":"bzy2.icns","size":"42K","time":"Jan 29 15:26"},
+                {"type":"file","name":"bzy3.icns","size":"42K","time":"Jan 29 15:24"},
+                {"type":"file","name":"bzy4.icns","size":"43K","time":"Jan 29 15:26"},
+                {"type":"file","name":"bzy5.icns","size":"43K","time":"Apr 27  2001"},
+                {"type":"file","name":"bzy6.icns","size":"44K","time":"Jan 29 15:26"},
+                {"type":"file","name":"bzy7.icns","size":"44K","time":"Apr 27  2001"},
+                {"type":"file","name":"bzy8.icns","size":"45K","time":"Jan 29 15:25"},
+                {"type":"file","name":"bzy9.icns","size":"45K","time":"Jan 29 15:26"},
+                {"type":"file","name":"html.icns","size":"40K","time":"Jan 29 15:20"},
+                {"type":"directory","name":"ko.lproj","size":"16K","time":"Jan 29 15:20","contents":[
+                  {"type":"file","name":"Customize Toolbars Page","size":"65K","time":"Sep 14  2003"},
+                  {"type":"directory","name":"Help","size":"16K","time":"Jan 29 15:20","contents":[
+                    {"type":"directory","name":"Images","size":"16K","time":"Jan 29 15:24","contents":[
+                      {"type":"file","name":"Chevron.gif","size":"403","time":"Sep 14  2003"},
+                      {"type":"file","name":"Command.gif","size":"58","time":"Sep 14  2003"},
+                      {"type":"file","name":"Icon_auction.gif","size":"172","time":"Sep 14  2003"},
+                      {"type":"file","name":"Icon_auction_closed.gif","size":"183","time":"Sep 14  2003"},
+                      {"type":"file","name":"Icon_check.gif","size":"85","time":"Sep 14  2003"},
+                      {"type":"file","name":"Icon_diamond.gif","size":"104","time":"Sep 14  2003"},
+                      {"type":"file","name":"Icon_file.gif","size":"95","time":"Sep 14  2003"},
+                      {"type":"file","name":"Icon_folder.gif","size":"104","time":"Sep 14  2003"},
+                      {"type":"file","name":"Icon_ftp.gif","size":"187","time":"Sep 14  2003"},
+                      {"type":"file","name":"Icon_help.gif","size":"751","time":"Sep 14  2003"},
+                      {"type":"file","name":"Icon_lock.gif","size":"211","time":"Sep 14  2003"},
+                      {"type":"file","name":"Icon_pageholder.gif","size":"203","time":"Sep 14  2003"},
+                      {"type":"file","name":"Icon_scrapbook.gif","size":"189","time":"Sep 14  2003"},
+                      {"type":"file","name":"Icon_subscription.gif","size":"194","time":"Sep 14  2003"},
+                      {"type":"file","name":"Icon_warning.gif","size":"110","time":"Sep 14  2003"},
+                      {"type":"file","name":"Icon_webpage.gif","size":"115","time":"Sep 14  2003"},
+                      {"type":"file","name":"Note.gif","size":"590","time":"Sep 14  2003"},
+                      {"type":"file","name":"Pointinghand.gif","size":"141","time":"Sep 14  2003"},
+                      {"type":"file","name":"Spacer_1.gif","size":"43","time":"Sep 14  2003"},
+                      {"type":"file","name":"Tip.gif","size":"576","time":"Sep 14  2003"},
+                      {"type":"file","name":"down.gif","size":"857","time":"Sep 14  2003"},
+                      {"type":"file","name":"mactop.gif","size":"93","time":"Sep 14  2003"},
+                      {"type":"file","name":"triangle.gif","size":"861","time":"Sep 14  2003"}
+                    ]}
+                  ]}
+                ]},
+                {"type":"file","name":"png.icns","size":"40K","time":"Jan 29 15:26"},
+                {"type":"file","name":"text.icns","size":"39K","time":"Jan 29 15:26"},
+                {"type":"directory","name":"zh_CN.lproj","size":"16K","time":"Jan 29 15:20","contents":[
+                  {"type":"file","name":"Customize Toolbars Page","size":"65K","time":"Sep 14  2003"},
+                  {"type":"directory","name":"Help","size":"16K","time":"Jan 29 15:20","contents":[
+                    {"type":"directory","name":"Images","size":"16K","time":"Jan 29 15:24","contents":[
+                      {"type":"file","name":"Chevron.gif","size":"403","time":"Jan 29 15:24"},
+                      {"type":"file","name":"Command.gif","size":"58","time":"Sep 14  2003"},
+                      {"type":"file","name":"Icon_auction.gif","size":"172","time":"Sep 14  2003"},
+                      {"type":"file","name":"Icon_auction_closed.gif","size":"183","time":"Sep 14  2003"},
+                      {"type":"file","name":"Icon_check.gif","size":"85","time":"Sep 14  2003"},
+                      {"type":"file","name":"Icon_diamond.gif","size":"104","time":"Sep 14  2003"},
+                      {"type":"file","name":"Icon_file.gif","size":"95","time":"Sep 14  2003"},
+                      {"type":"file","name":"Icon_folder.gif","size":"104","time":"Sep 14  2003"},
+                      {"type":"file","name":"Icon_ftp.gif","size":"187","time":"Sep 14  2003"},
+                      {"type":"file","name":"Icon_help.gif","size":"751","time":"Sep 14  2003"},
+                      {"type":"file","name":"Icon_lock.gif","size":"211","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_pageholder.gif","size":"203","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_scrapbook.gif","size":"189","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_subscription.gif","size":"194","time":"Sep 14  2003"},
+                      {"type":"file","name":"Icon_warning.gif","size":"110","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_webpage.gif","size":"115","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Note.gif","size":"590","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Pointinghand.gif","size":"141","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Spacer_1.gif","size":"43","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Tip.gif","size":"576","time":"Jan 29 15:20"},
+                      {"type":"file","name":"down.gif","size":"857","time":"Sep 14  2003"},
+                      {"type":"file","name":"mactop.gif","size":"93","time":"Sep 14  2003"},
+                      {"type":"file","name":"triangle.gif","size":"861","time":"Jan 29 15:20"}
+                    ]}
+                  ]}
+                ]},
+                {"type":"directory","name":"zh_TW.lproj","size":"16K","time":"Jan 29 15:25","contents":[
+                  {"type":"file","name":"Customize Toolbars Page","size":"65K","time":"Jan 29 15:25"},
+                  {"type":"directory","name":"Help","size":"16K","time":"Jan 29 15:20","contents":[
+                    {"type":"directory","name":"Images","size":"16K","time":"Jan 29 15:25","contents":[
+                      {"type":"file","name":"Chevron.gif","size":"403","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Command.gif","size":"58","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_auction.gif","size":"172","time":"Jan 29 15:20"},
+                      {"type":"file","name":"Icon_auction_closed.gif","size":"183","time":"Jan 29 15:24"},
+                      {"type":"file","name":"Icon_check.gif","size":"85","time":"Jan 29 15:21"},
+                      {"type":"file","name":"Icon_diamond.gif","size":"104","time":"Jan 29 15:21"},
+                      {"type":"file","name":"Icon_file.gif","size":"95","time":"Jan 29 15:21"},
+                      {"type":"file","name":"Icon_folder.gif","size":"104","time":"Jan 29 15:21"},
+                      {"type":"file","name":"Icon_ftp.gif","size":"187","time":"Jan 29 15:21"},
+                      {"type":"file","name":"Icon_help.gif","size":"751","time":"Jan 29 15:21"},
+                      {"type":"file","name":"Icon_lock.gif","size":"211","time":"Jan 29 15:21"},
+                      {"type":"file","name":"Icon_pageholder.gif","size":"203","time":"Sep 14  2003"},
+                      {"type":"file","name":"Icon_scrapbook.gif","size":"189","time":"Jan 29 15:21"},
+                      {"type":"file","name":"Icon_subscription.gif","size":"194","time":"Sep 14  2003"},
+                      {"type":"file","name":"Icon_warning.gif","size":"110","time":"Jan 29 15:21"},
+                      {"type":"file","name":"Icon_webpage.gif","size":"115","time":"Jan 29 15:21"},
+                      {"type":"file","name":"Note.gif","size":"590","time":"Jan 29 15:21"},
+                      {"type":"file","name":"Pointinghand.gif","size":"141","time":"Sep 14  2003"},
+                      {"type":"file","name":"Spacer_1.gif","size":"43","time":"Jan 29 15:21"},
+                      {"type":"file","name":"Tip.gif","size":"576","time":"Jan 29 15:21"},
+                      {"type":"file","name":"down.gif","size":"857","time":"Jan 29 15:20"},
+                      {"type":"file","name":"mactop.gif","size":"93","time":"Jan 29 15:26"},
+                      {"type":"file","name":"triangle.gif","size":"861","time":"Jan 29 15:21"}
+                    ]}
+                  ]}
+                ]}
+              ]}
+            ]}
+          ]},
+          {"type":"file","name":"LIVERPOOL FLT.txt","size":"1.8K","time":"Jan 29 15:24"},
+          {"type":"file","name":"Lincoln.jpg","size":"81K","time":"Jan 29 15:24"},
+          {"type":"file","name":"lovehours.jpg","size":"329K","time":"Jan 29 15:24"}
+        ]},
+        {"type":"directory","name":"Documents","size":"16K","time":"Jan 29 15:24","contents":[
+          {"type":"directory","name":"DVD Studio Pro Documents","size":"16K","time":"Jan 29 15:23","contents":[
+            {"type":"directory","name":"MikeKelleyUncannyPostcardsFinal.dspproj","size":"16K","time":"Jan 29 15:23","contents":[
+              {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:23","contents":[
+                {"type":"directory","name":"Resources","size":"16K","time":"Jan 29 15:23","contents":[
+                  {"type":"file","name":"ModuleDataB","size":"3.0K","time":"Jan 29 15:24"},
+                  {"type":"file","name":"ObjectDataB","size":"22K","time":"Jan 29 15:24"}
+                ]}
+              ]}
+            ]},
+            {"type":"directory","name":"POSTCARDS_VER3_1.2.04.dspproj","size":"16K","time":"Jan 29 15:23","contents":[
+              {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:23","contents":[
+                {"type":"directory","name":"Resources","size":"16K","time":"Jan 29 15:24","contents":[
+                  {"type":"file","name":"ModuleDataB","size":"3.0K","time":"Jan 29 15:24"},
+                  {"type":"file","name":"ObjectDataB","size":"22K","time":"Jan 29 15:24"}
+                ]}
+              ]}
+            ]},
+            {"type":"directory","name":"PostcardsAlmost.dspproj","size":"16K","time":"Jan 29 15:19","contents":[
+              {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:19","contents":[
+                {"type":"directory","name":"Resources","size":"16K","time":"Jan 29 15:19","contents":[
+                  {"type":"file","name":"ModuleDataB","size":"3.1K","time":"Jan 29 15:20"},
+                  {"type":"file","name":"ObjectDataB","size":"22K","time":"Jan 29 15:20"}
+                ]}
+              ]}
+            ]}
+          ]},
+          {"type":"file","name":"SQUEEZE TOY GRID 2.psd","size":"20M","time":"Jan 29 15:24"},
+          {"type":"file","name":"SQUEEZE TOY GRID 3.psd","size":"19M","time":"Jan 29 15:20"},
+          {"type":"file","name":"SQUEEZE TOYS GRID 1.psd","size":"21M","time":"Jan 29 15:24"}
+        ]},
+        {"type":"directory","name":"Library","size":"16K","time":"Jan 29 15:24","contents":[
+          {"type":"directory","name":"Mail","size":"16K","time":"Jan 29 15:25","contents":[
+            {"type":"file","name":"DefaultCounts","size":"587","time":"Jan 29 15:25"},
+            {"type":"directory","name":"Mac-kelley_studio","size":"16K","time":"Jan 29 15:24","contents":[
+              {"type":"directory","name":"Deleted Messages.imapmbox","size":"16K","time":"Jan 29 15:24","contents":[
+                {"type":"directory","name":"CachedMessages","size":"16K","time":"Jan 29 15:24","contents":[
+                  {"type":"file","name":"1","size":"2.8M","time":"Jan 29 15:24"}
+                ]}
+              ]},
+              {"type":"directory","name":"INBOX.imapmbox","size":"16K","time":"Jan 29 15:23","contents":[
+                {"type":"directory","name":"CachedMessages","size":"16K","time":"Jan 29 15:24","contents":[
+                  {"type":"file","name":"1","size":"15K","time":"Jan 29 15:24"},
+                  {"type":"file","name":"10","size":"9.0K","time":"Jan 29 15:24"},
+                  {"type":"file","name":"11","size":"13K","time":"Jan 29 15:24"},
+                  {"type":"file","name":"12","size":"5.8K","time":"Jan 29 15:24"},
+                  {"type":"file","name":"2","size":"9.1K","time":"Jan 29 15:24"},
+                  {"type":"file","name":"3","size":"9.1K","time":"Jan 29 15:24"},
+                  {"type":"file","name":"4","size":"9.3K","time":"Jan 29 15:24"},
+                  {"type":"file","name":"5","size":"8.9K","time":"Jan 29 15:24"},
+                  {"type":"file","name":"8","size":"8.8K","time":"Jan 29 15:24"},
+                  {"type":"file","name":"9","size":"8.4K","time":"Jan 29 15:24"}
+                ]}
+              ]}
+            ]},
+            {"type":"file","name":"MessageSorting.plist.backup","size":"3.7K","time":"Jan 29 15:24"},
+            {"type":"directory","name":"POP-kelleystudio@mail.earthlink.net","size":"16K","time":"Jan 29 15:25","contents":[
+              {"type":"directory","name":"Deleted Messages.mbox","size":"16K","time":"Jan 29 15:24","contents":[
+                {"type":"file","name":"mbox","size":"15K","time":"Jan 29 15:25"}
+              ]},
+              {"type":"directory","name":"Drafts.mbox","size":"16K","time":"Jan 29 15:25","contents":[
+                {"type":"file","name":"mbox","size":"888","time":"Jan 29 15:25"}
+              ]},
+              {"type":"directory","name":"INBOX.mbox","size":"16K","time":"Jan 29 15:25","contents":[
+                {"type":"file","name":"Incoming_Mail","size":"49K","time":"Jan 29 15:25"},
+                {"type":"file","name":"mbox","size":"53M","time":"Jan 29 15:25"}
+              ]},
+              {"type":"directory","name":"Junk.mbox","size":"16K","time":"Jan 29 15:24","contents":[
+                {"type":"file","name":"Incoming_Mail","size":"690K","time":"Jan 29 15:24"}
+              ]},
+              {"type":"file","name":"MessageUidsAlreadyDownloaded","size":"11K","time":"Jan 29 15:25"},
+              {"type":"directory","name":"Sent Messages.mbox","size":"16K","time":"Jan 29 15:25","contents":[
+                {"type":"file","name":"Incoming_Mail","size":"454K","time":"Jan 29 15:20"},
+                {"type":"file","name":"mbox","size":"14M","time":"Jan 29 15:25"}
+              ]}
+            ]}
+          ]},
+          {"type":"directory","name":"Preferences","size":"16K","time":"Jan 29 15:19","contents":[
+            {"type":"directory","name":"ImageBrowserUserData","size":"16K","time":"Jan 29 15:19","contents":[
+              {"type":"directory","name":"MyCameraFiles","size":"16K","time":"Jan 29 15:24","contents":[
+                {"type":"directory","name":"OP_WAV","size":"16K","time":"Jan 29 15:27","contents":[
+                  {"type":"file","name":"221_OP01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"321_OP01.WAV","size":"1.8K","time":"Feb  3  2004"},
+                  {"type":"file","name":"ANIMAL022_OP01.WAV","size":"3.2K","time":"Feb  3  2004"},
+                  {"type":"file","name":"ANIMAL023_OP01.WAV","size":"3.0K","time":"Feb  3  2004"},
+                  {"type":"file","name":"BAR21_OP01.WAV","size":"2.6K","time":"Feb  3  2004"},
+                  {"type":"file","name":"BASEBALL21_OP01.WAV","size":"1.4K","time":"Feb  3  2004"},
+                  {"type":"file","name":"CHIMPAN21_OP01.WAV","size":"3.2K","time":"Feb  3  2004"},
+                  {"type":"file","name":"ETHDANCE21_OP01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"ETHTECHN21_OP01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"FUN21_OP01.WAV","size":"3.0K","time":"Feb  3  2004"},
+                  {"type":"file","name":"FUN22_OP01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"FUN23_OP01.WAV","size":"1.8K","time":"Feb  3  2004"},
+                  {"type":"file","name":"FUN24_OP01.WAV","size":"3.2K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GAKKI21_OP01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GAME21_OP01.WAV","size":"2.9K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GAME22_OP01.WAV","size":"2.0K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GAME23_OP01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GOLF21_OP01.WAV","size":"2.6K","time":"Feb  3  2004"},
+                  {"type":"file","name":"HORSERAC21_OP01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"IYASHI21_OP01.WAV","size":"2.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"KABUKIYO21_OP01.WAV","size":"1.6K","time":"Feb  3  2004"},
+                  {"type":"file","name":"KIKORI21_OP01.WAV","size":"2.0K","time":"Feb  3  2004"},
+                  {"type":"file","name":"MATSURI21_OP01.WAV","size":"3.2K","time":"Feb  3  2004"},
+                  {"type":"file","name":"NEWYEAR21_OP01.WAV","size":"1.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"OLDHOUSE21_OP01.WAV","size":"1.9K","time":"Feb  3  2004"},
+                  {"type":"file","name":"PIANTRIO21_OP01.WAV","size":"2.7K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SF021_OP01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SF023_OP01.WAV","size":"1.8K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SF024_OP01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SF025_OP01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SMALLDOG21_OP01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SPACE21_OP01.WAV","size":"2.9K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SYMPHONY21_OP01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"TEL21_OP01.WAV","size":"3.2K","time":"Feb  3  2004"},
+                  {"type":"file","name":"TOY22_OP01.WAV","size":"3.1K","time":"Feb  3  2004"},
+                  {"type":"file","name":"TROPICAL21_OP01.WAV","size":"3.2K","time":"Feb  3  2004"},
+                  {"type":"file","name":"WATER21_OP01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"WEDDING21_OP01.WAV","size":"2.9K","time":"Feb  3  2004"},
+                  {"type":"file","name":"WHALE21_OP01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"XMAS21_OP01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"XMAS22_OP01.WAV","size":"3.2K","time":"Feb  3  2004"}
+                ]},
+                {"type":"directory","name":"RL_WAV","size":"16K","time":"Jan 29 15:25","contents":[
+                  {"type":"file","name":"221_RL01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"321_RL01.WAV","size":"2.2K","time":"Feb  3  2004"},
+                  {"type":"file","name":"ANIMAL022_RL01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"ANIMAL023_RL01.WAV","size":"1.7K","time":"Feb  3  2004"},
+                  {"type":"file","name":"BAR21_RL01.WAV","size":"3.2K","time":"Feb  3  2004"},
+                  {"type":"file","name":"BASEBALL21_RL01.WAV","size":"3.1K","time":"Feb  3  2004"},
+                  {"type":"file","name":"CHIMPAN21_RL01.WAV","size":"2.9K","time":"Feb  3  2004"},
+                  {"type":"file","name":"EOS_1_LIKE_RL01.WAV","size":"2.9K","time":"Feb  3  2004"},
+                  {"type":"file","name":"EOS_5_LIKE_RL01.WAV","size":"3.0K","time":"Feb  3  2004"},
+                  {"type":"file","name":"ETHDANCE21_RL01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"ETHTECHN21_RL01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"F1_LIKE_RL01.WAV","size":"2.4K","time":"Feb  3  2004"},
+                  {"type":"file","name":"FUN21_RL01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"FUN22_RL01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"FUN23_RL01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"FUN24_RL01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GAKKI21_RL01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GAME21_RL01.WAV","size":"2.7K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GAME22_RL01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GAME23_RL01.WAV","size":"3.2K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GOLF21_RL01.WAV","size":"3.0K","time":"Feb  3  2004"},
+                  {"type":"file","name":"HORSERAC21_RL01.WAV","size":"3.3K","time":"Jan 29 15:20"},
+                  {"type":"file","name":"IYASHI21_RL01.WAV","size":"3.1K","time":"Feb  3  2004"},
+                  {"type":"file","name":"KABUKIYO21_RL01.WAV","size":"2.0K","time":"Feb  3  2004"},
+                  {"type":"file","name":"KIKORI21_RL01.WAV","size":"3.0K","time":"Feb  3  2004"},
+                  {"type":"file","name":"MATSURI21_RL01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"NEWYEAR21_RL01.WAV","size":"3.1K","time":"Feb  3  2004"},
+                  {"type":"file","name":"OLDHOUSE21_RL01.WAV","size":"3.2K","time":"Feb  3  2004"},
+                  {"type":"file","name":"PIANTRIO21_RL01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SF021_RL01.WAV","size":"3.3K","time":"Jan 29 15:26"},
+                  {"type":"file","name":"SF023_RL01.WAV","size":"3.0K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SF024_RL01.WAV","size":"3.0K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SF025_RL01.WAV","size":"3.3K","time":"Jan 29 15:24"},
+                  {"type":"file","name":"SMALLDOG21_RL01.WAV","size":"3.1K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SPACE21_RL01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SYMPHONY21_RL01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"TEL21_RL01.WAV","size":"3.2K","time":"Feb  3  2004"},
+                  {"type":"file","name":"TOY22_RL01.WAV","size":"3.2K","time":"Feb  3  2004"},
+                  {"type":"file","name":"TROPICAL21_RL01.WAV","size":"3.2K","time":"Feb  3  2004"},
+                  {"type":"file","name":"WATER21_RL01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"WEDDING21_RL01.WAV","size":"3.3K","time":"Jan 29 15:26"},
+                  {"type":"file","name":"WHALE21_RL01.WAV","size":"3.3K","time":"Jan 29 15:26"},
+                  {"type":"file","name":"XMAS03_RL01.WAV","size":"3.2K","time":"Feb  3  2004"},
+                  {"type":"file","name":"XMAS04_RL01.WAV","size":"3.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"XMAS21_RL01.WAV","size":"3.2K","time":"Feb  3  2004"},
+                  {"type":"file","name":"XMAS22_RL01.WAV","size":"3.3K","time":"Feb  3  2004"}
+                ]},
+                {"type":"directory","name":"SI_JPG","size":"16K","time":"Jan 29 15:26","contents":[
+                  {"type":"file","name":"221_SI01.JPG","size":"5.9K","time":"Jan 29 15:25"},
+                  {"type":"file","name":"321_SI01.JPG","size":"12K","time":"Jan 29 15:25"},
+                  {"type":"file","name":"ANIMAL022_SI01.JPG","size":"12K","time":"Jan 29 15:25"},
+                  {"type":"file","name":"ANIMAL023_SI01.JPG","size":"14K","time":"Jan 29 15:25"},
+                  {"type":"file","name":"BAR21_SI01.JPG","size":"15K","time":"Jan 29 15:25"},
+                  {"type":"file","name":"BASEBALL21_SI01.JPG","size":"6.1K","time":"Jan 29 15:25"},
+                  {"type":"file","name":"CHIMPAN21_SI01.JPG","size":"12K","time":"Jan 29 15:25"},
+                  {"type":"file","name":"ETHDANCE21_SI01.JPG","size":"12K","time":"Jan 29 15:25"},
+                  {"type":"file","name":"ETHTECHN21_SI01.JPG","size":"8.7K","time":"Jan 29 15:25"},
+                  {"type":"file","name":"FUN21_SI01.JPG","size":"13K","time":"Jan 29 15:25"},
+                  {"type":"file","name":"FUN22_SI01.JPG","size":"13K","time":"Jan 29 15:25"},
+                  {"type":"file","name":"FUN23_SI01.JPG","size":"20K","time":"Feb  3  2004"},
+                  {"type":"file","name":"FUN24_SI01.JPG","size":"18K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GAKKI21_SI01.JPG","size":"14K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GAME21_SI01.JPG","size":"13K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GAME22_SI01.JPG","size":"15K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GAME23_SI01.JPG","size":"12K","time":"Jan 29 15:24"},
+                  {"type":"file","name":"GOLF21_SI01.JPG","size":"13K","time":"Feb  3  2004"},
+                  {"type":"file","name":"HORSERAC21_SI01.JPG","size":"13K","time":"Feb  3  2004"},
+                  {"type":"file","name":"IYASHI21_SI01.JPG","size":"9.9K","time":"Feb  3  2004"},
+                  {"type":"file","name":"KABUKIYO21_SI01.JPG","size":"9.9K","time":"Feb  3  2004"},
+                  {"type":"file","name":"KIKORI21_SI01.JPG","size":"17K","time":"Feb  3  2004"},
+                  {"type":"file","name":"MATSURI21_SI01.JPG","size":"19K","time":"Feb  3  2004"},
+                  {"type":"file","name":"NEWYEAR21_SI01.JPG","size":"15K","time":"Feb  3  2004"},
+                  {"type":"file","name":"OLDHOUSE21_SI01.JPG","size":"19K","time":"Feb  3  2004"},
+                  {"type":"file","name":"PIANTRIO21_SI01.JPG","size":"19K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SF021_SI01.JPG","size":"17K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SF023_SI01.JPG","size":"6.2K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SF024_SI01.JPG","size":"18K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SF025_SI01.JPG","size":"9.0K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SMALLDOG21_SI01.JPG","size":"12K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SPACE21_SI01.JPG","size":"11K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SYMPHONY21_SI01.JPG","size":"19K","time":"Feb  3  2004"},
+                  {"type":"file","name":"TEL21_SI01.JPG","size":"17K","time":"Feb  3  2004"},
+                  {"type":"file","name":"TOY22_SI01.JPG","size":"9.1K","time":"Feb  3  2004"},
+                  {"type":"file","name":"TROPICAL21_SI01.JPG","size":"16K","time":"Feb  3  2004"},
+                  {"type":"file","name":"WATER21_SI01.JPG","size":"14K","time":"Feb  3  2004"},
+                  {"type":"file","name":"WEDDING21_SI01.JPG","size":"15K","time":"Feb  3  2004"},
+                  {"type":"file","name":"WHALE21_SI01.JPG","size":"17K","time":"Feb  3  2004"},
+                  {"type":"file","name":"XMAS21_SI01.JPG","size":"9.0K","time":"Feb  3  2004"},
+                  {"type":"file","name":"XMAS22_SI01.JPG","size":"11K","time":"Feb  3  2004"}
+                ]},
+                {"type":"directory","name":"SS_WAV","size":"16K","time":"Jan 29 15:24","contents":[
+                  {"type":"file","name":"221_SS01.WAV","size":"11K","time":"Feb  3  2004"},
+                  {"type":"file","name":"321_SS01.WAV","size":"11K","time":"Feb  3  2004"},
+                  {"type":"file","name":"ANIMAL022_SS01.WAV","size":"11K","time":"Feb  3  2004"},
+                  {"type":"file","name":"ANIMAL023_SS01.WAV","size":"10K","time":"Feb  3  2004"},
+                  {"type":"file","name":"BAR21_SS01.WAV","size":"9.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"BASEBALL21_SS01.WAV","size":"10K","time":"Feb  3  2004"},
+                  {"type":"file","name":"CHIMPAN21_SS01.WAV","size":"10K","time":"Feb  3  2004"},
+                  {"type":"file","name":"ETHDANCE21_SS01.WAV","size":"11K","time":"Feb  3  2004"},
+                  {"type":"file","name":"ETHTECHN21_SS01.WAV","size":"11K","time":"Feb  3  2004"},
+                  {"type":"file","name":"FUN21_SS01.WAV","size":"11K","time":"Feb  3  2004"},
+                  {"type":"file","name":"FUN22_SS01.WAV","size":"6.0K","time":"Feb  3  2004"},
+                  {"type":"file","name":"FUN23_SS01.WAV","size":"10K","time":"Feb  3  2004"},
+                  {"type":"file","name":"FUN24_SS01.WAV","size":"10K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GAKKI21_SS01.WAV","size":"5.8K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GAME21_SS01.WAV","size":"10.0K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GAME22_SS01.WAV","size":"11K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GAME23_SS01.WAV","size":"11K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GOLF21_SS01.WAV","size":"2.6K","time":"Feb  3  2004"},
+                  {"type":"file","name":"HORSERAC21_SS01.WAV","size":"11K","time":"Feb  3  2004"},
+                  {"type":"file","name":"IYASHI21_SS01.WAV","size":"11K","time":"Feb  3  2004"},
+                  {"type":"file","name":"KABUKIYO21_SS01.WAV","size":"8.7K","time":"Feb  3  2004"},
+                  {"type":"file","name":"KIKORI21_SS01.WAV","size":"11K","time":"Feb  3  2004"},
+                  {"type":"file","name":"MATSURI21_SS01.WAV","size":"9.5K","time":"Feb  3  2004"},
+                  {"type":"file","name":"NEWYEAR21_SS01.WAV","size":"7.8K","time":"Feb  3  2004"},
+                  {"type":"file","name":"OLDHOUSE21_SS01.WAV","size":"11K","time":"Feb  3  2004"},
+                  {"type":"file","name":"PIANTRIO21_SS01.WAV","size":"11K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SF021_SS01.WAV","size":"11K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SF023_SS01.WAV","size":"9.7K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SF024_SS01.WAV","size":"11K","time":"Jan 29 15:20"},
+                  {"type":"file","name":"SF025_SS01.WAV","size":"11K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SMALLDOG21_SS01.WAV","size":"8.0K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SPACE21_SS01.WAV","size":"9.3K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SYMPHONY21_SS01.WAV","size":"11K","time":"Feb  3  2004"},
+                  {"type":"file","name":"TEL21_SS01.WAV","size":"11K","time":"Feb  3  2004"},
+                  {"type":"file","name":"TOY22_SS01.WAV","size":"7.1K","time":"Feb  3  2004"},
+                  {"type":"file","name":"TROPICAL21_SS01.WAV","size":"11K","time":"Feb  3  2004"},
+                  {"type":"file","name":"WATER21_SS01.WAV","size":"10K","time":"Feb  3  2004"},
+                  {"type":"file","name":"WEDDING02_SS01.WAV","size":"11K","time":"Feb  3  2004"},
+                  {"type":"file","name":"WEDDING21_SS01.WAV","size":"11K","time":"Feb  3  2004"},
+                  {"type":"file","name":"WHALE21_SS01.WAV","size":"11K","time":"Feb  3  2004"},
+                  {"type":"file","name":"XMAS21_SS01.WAV","size":"10K","time":"Feb  3  2004"},
+                  {"type":"file","name":"XMAS22_SS01.WAV","size":"8.6K","time":"Feb  3  2004"}
+                ]},
+                {"type":"directory","name":"TM_WAV","size":"16K","time":"Jan 29 15:25","contents":[
+                  {"type":"file","name":"221_TM01.WAV","size":"20K","time":"Feb  3  2004"},
+                  {"type":"file","name":"321_TM01.WAV","size":"22K","time":"Feb  3  2004"},
+                  {"type":"file","name":"ANIMAL022_TM01.WAV","size":"21K","time":"Feb  3  2004"},
+                  {"type":"file","name":"ANIMAL023_TM01.WAV","size":"18K","time":"Feb  3  2004"},
+                  {"type":"file","name":"BAR21_TM01.WAV","size":"22K","time":"Feb  3  2004"},
+                  {"type":"file","name":"BASEBALL21_TM01.WAV","size":"22K","time":"Feb  3  2004"},
+                  {"type":"file","name":"CHIMPAN21_TM01.WAV","size":"21K","time":"Feb  3  2004"},
+                  {"type":"file","name":"ETHDANCE21_TM01.WAV","size":"22K","time":"Feb  3  2004"},
+                  {"type":"file","name":"ETHTECHN21_TM01.WAV","size":"22K","time":"Feb  3  2004"},
+                  {"type":"file","name":"FUN21_TM01.WAV","size":"22K","time":"Jan 29 15:20"},
+                  {"type":"file","name":"FUN22_TM01.WAV","size":"21K","time":"Feb  3  2004"},
+                  {"type":"file","name":"FUN23_TM01.WAV","size":"17K","time":"Feb  3  2004"},
+                  {"type":"file","name":"FUN24_TM01.WAV","size":"20K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GAKKI21_TM01.WAV","size":"22K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GAME21_TM01.WAV","size":"22K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GAME22_TM01.WAV","size":"22K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GAME23_TM01.WAV","size":"22K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GOLF21_TM01.WAV","size":"21K","time":"Feb  3  2004"},
+                  {"type":"file","name":"HORSERAC21_TM01.WAV","size":"22K","time":"Feb  3  2004"},
+                  {"type":"file","name":"IYASHI21_TM01.WAV","size":"22K","time":"Feb  3  2004"},
+                  {"type":"file","name":"KABUKIYO21_TM01.WAV","size":"22K","time":"Feb  3  2004"},
+                  {"type":"file","name":"KIKORI21_TM01.WAV","size":"21K","time":"Feb  3  2004"},
+                  {"type":"file","name":"MATSURI21_TM01.WAV","size":"21K","time":"Feb  3  2004"},
+                  {"type":"file","name":"NEWYEAR21_TM01.WAV","size":"21K","time":"Feb  3  2004"},
+                  {"type":"file","name":"OLDHOUSE21_TM01.WAV","size":"21K","time":"Feb  3  2004"},
+                  {"type":"file","name":"PIANTRIO21_TM01.WAV","size":"22K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SF021_TM01.WAV","size":"21K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SF023_TM01.WAV","size":"22K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SF024_TM01.WAV","size":"22K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SF025_TM01.WAV","size":"22K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SMALLDOG21_TM01.WAV","size":"22K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SPACE21_TM01.WAV","size":"22K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SYMPHONY21_TM01.WAV","size":"22K","time":"Jan 29 15:20"},
+                  {"type":"file","name":"TEL21_TM01.WAV","size":"22K","time":"Feb  3  2004"},
+                  {"type":"file","name":"TOY22_TM01.WAV","size":"21K","time":"Feb  3  2004"},
+                  {"type":"file","name":"TROPICAL21_TM01.WAV","size":"22K","time":"Feb  3  2004"},
+                  {"type":"file","name":"WATER21_TM01.WAV","size":"21K","time":"Jan 29 15:26"},
+                  {"type":"file","name":"WEDDING02_TM01.WAV","size":"22K","time":"Feb  3  2004"},
+                  {"type":"file","name":"WEDDING21_TM01.WAV","size":"22K","time":"Feb  3  2004"},
+                  {"type":"file","name":"WHALE21_TM01.WAV","size":"20K","time":"Feb  3  2004"},
+                  {"type":"file","name":"XMAS03_TM01.WAV","size":"22K","time":"Feb  3  2004"},
+                  {"type":"file","name":"XMAS04_TM01.WAV","size":"21K","time":"Feb  3  2004"},
+                  {"type":"file","name":"XMAS06_TM01.WAV","size":"21K","time":"Feb  3  2004"},
+                  {"type":"file","name":"XMAS07_TM01.WAV","size":"22K","time":"Feb  3  2004"},
+                  {"type":"file","name":"XMAS08_TM01.WAV","size":"21K","time":"Feb  3  2004"},
+                  {"type":"file","name":"XMAS21_TM01.WAV","size":"21K","time":"Feb  3  2004"},
+                  {"type":"file","name":"XMAS22_TM01.WAV","size":"22K","time":"Feb  3  2004"}
+                ]},
+                {"type":"directory","name":"VI_JPG","size":"16K","time":"Jan 29 15:25","contents":[
+                  {"type":"file","name":"221_vi01.jpg","size":"5.9K","time":"Jan 29 15:25"},
+                  {"type":"file","name":"321_vi01.jpg","size":"12K","time":"Feb  3  2004"},
+                  {"type":"file","name":"ANIMAL022_VI01.JPG","size":"12K","time":"Feb  3  2004"},
+                  {"type":"file","name":"ANIMAL023_VI01.JPG","size":"14K","time":"Feb  3  2004"},
+                  {"type":"file","name":"BAR21_VI01.JPG","size":"15K","time":"Feb  3  2004"},
+                  {"type":"file","name":"BASEBALL21_VI01.JPG","size":"6.1K","time":"Feb  3  2004"},
+                  {"type":"file","name":"CHIMPAN21_VI01.JPG","size":"12K","time":"Feb  3  2004"},
+                  {"type":"file","name":"ETHDANCE21_VI01.JPG","size":"12K","time":"Feb  3  2004"},
+                  {"type":"file","name":"ETHTECHN21_VI01.JPG","size":"8.7K","time":"Feb  3  2004"},
+                  {"type":"file","name":"FUN21_VI01.JPG","size":"13K","time":"Feb  3  2004"},
+                  {"type":"file","name":"FUN22_VI01.JPG","size":"13K","time":"Feb  3  2004"},
+                  {"type":"file","name":"FUN23_VI01.JPG","size":"20K","time":"Feb  3  2004"},
+                  {"type":"file","name":"FUN24_VI01.JPG","size":"18K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GAKKI21_VI01.JPG","size":"14K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GAME21_VI01.JPG","size":"13K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GAME22_VI01.JPG","size":"15K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GAME23_VI01.JPG","size":"12K","time":"Feb  3  2004"},
+                  {"type":"file","name":"GOLF21_VI01.JPG","size":"13K","time":"Feb  3  2004"},
+                  {"type":"file","name":"HORSERAC21_VI01.JPG","size":"13K","time":"Jan 29 15:24"},
+                  {"type":"file","name":"IYASHI21_VI01.JPG","size":"9.9K","time":"Jan 29 15:24"},
+                  {"type":"file","name":"KABUKIYO21_VI01.JPG","size":"9.9K","time":"Jan 29 15:24"},
+                  {"type":"file","name":"KIKORI21_VI01.JPG","size":"17K","time":"Jan 29 15:24"},
+                  {"type":"file","name":"MATSURI21_VI01.JPG","size":"19K","time":"Jan 29 15:24"},
+                  {"type":"file","name":"NEWYEAR21_VI01.JPG","size":"15K","time":"Jan 29 15:24"},
+                  {"type":"file","name":"OLDHOUSE21_VI01.JPG","size":"19K","time":"Jan 29 15:24"},
+                  {"type":"file","name":"PIANTRIO21_VI01.JPG","size":"19K","time":"Jan 29 15:24"},
+                  {"type":"file","name":"SF021_VI01.JPG","size":"17K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SF023_VI01.JPG","size":"6.2K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SF024_VI01.JPG","size":"18K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SF025_VI01.JPG","size":"9.0K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SMALLDOG21_VI01.JPG","size":"12K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SPACE21_VI01.JPG","size":"11K","time":"Feb  3  2004"},
+                  {"type":"file","name":"SYMPHONY21_VI01.JPG","size":"19K","time":"Feb  3  2004"},
+                  {"type":"file","name":"TEL21_VI01.JPG","size":"17K","time":"Feb  3  2004"},
+                  {"type":"file","name":"TOY22_VI01.JPG","size":"9.1K","time":"Feb  3  2004"},
+                  {"type":"file","name":"TROPICAL21_VI01.JPG","size":"16K","time":"Feb  3  2004"},
+                  {"type":"file","name":"WATER21_VI01.JPG","size":"14K","time":"Feb  3  2004"},
+                  {"type":"file","name":"WEDDING21_VI01.JPG","size":"15K","time":"Feb  3  2004"},
+                  {"type":"file","name":"WHALE21_VI01.JPG","size":"17K","time":"Feb  3  2004"},
+                  {"type":"file","name":"XMAS21_VI01.JPG","size":"9.0K","time":"Feb  3  2004"},
+                  {"type":"file","name":"XMAS22_VI01.JPG","size":"11K","time":"Feb  3  2004"}
+                ]}
+              ]}
+            ]}
+          ]},
+          {"type":"directory","name":"Printers","size":"16K","time":"Jan 29 15:24","contents":[
+            {"type":"directory","name":"Stylus Photo 1280.app","size":"16K","time":"Jan 29 15:24","contents":[
+              {"type":"directory","name":"Contents","size":"16K","time":"Jan 29 15:24","contents":[
+                {"type":"directory","name":"Resources","size":"16K","time":"Jan 29 15:24","contents":[
+                  {"type":"file","name":"Delete.tiff","size":"4.2K","time":"Sep 16  2003"},
+                  {"type":"file","name":"ResumeJob.tiff","size":"4.2K","time":"Jan 29 15:24"},
+                  {"type":"file","name":"StartQueue.tiff","size":"4.2K","time":"Jan 29 15:24"},
+                  {"type":"file","name":"StopJob.tiff","size":"4.2K","time":"Jan 29 15:24"},
+                  {"type":"file","name":"StopQueue.tiff","size":"4.2K","time":"Jan 29 15:24"},
+                  {"type":"file","name":"Utility.tiff","size":"4.2K","time":"Jan 29 15:24"}
+                ]}
+              ]}
+            ]}
+          ]}
+        ]},
+        {"type":"directory","name":"Music","size":"16K","time":"Jan 29 15:24","contents":[
+          {"type":"file","name":"Adobe After Effects 6.0 SN.rtf","size":"581","time":"Jan 29 15:24"},
+          {"type":"file","name":"After Effects 6 SNs.rtf","size":"757","time":"Jan 29 15:20"}
+        ]},
+        {"type":"directory","name":"Pictures","size":"16K","time":"Jan 29 15:19","contents":[
+          {"type":"directory","name":"iPhoto Library","size":"16K","time":"Jan 29 15:20","contents":[
+            {"type":"directory","name":"2003","size":"16K","time":"Jan 29 15:19","contents":[
+              {"type":"directory","name":"08","size":"16K","time":"Jan 29 15:19","contents":[
+                {"type":"directory","name":"21","size":"16K","time":"Jan 29 15:24","contents":[
+                  {"type":"directory","name":"Thumbs","size":"16K","time":"Jan 29 15:25","contents":[
+                    {"type":"file","name":"14.jpg","size":"15K","time":"Jan 29 15:24"}
+                  ]},
+                  {"type":"file","name":"Uncanny09.tif","size":"8.3M","time":"Jan 29 15:20"}
+                ]}
+              ]},
+              {"type":"directory","name":"09","size":"16K","time":"Jan 29 15:19","contents":[
+                {"type":"directory","name":"02","size":"16K","time":"Jan 29 15:23","contents":[
+                  {"type":"directory","name":"Thumbs","size":"16K","time":"Jan 29 15:23","contents":[
+                    {"type":"file","name":"16.jpg","size":"16K","time":"Jan 29 15:20"},
+                    {"type":"file","name":"19.jpg","size":"19K","time":"Jan 29 15:20"},
+                    {"type":"file","name":"27.jpg","size":"20K","time":"Jan 29 15:20"}
+                  ]},
+                  {"type":"file","name":"uncanny14.tif","size":"7.8M","time":"Jan 29 15:20"},
+                  {"type":"file","name":"uncanny25.tif","size":"6.5M","time":"Jan 29 15:20"},
+                  {"type":"file","name":"uncanny52.tif","size":"7.8M","time":"Jan 29 15:20"}
+                ]},
+                {"type":"directory","name":"03","size":"16K","time":"Jan 29 15:23","contents":[
+                  {"type":"directory","name":"Thumbs","size":"16K","time":"Jan 29 15:24","contents":[
+                    {"type":"file","name":"12.jpg","size":"15K","time":"Jan 29 15:24"},
+                    {"type":"file","name":"13.jpg","size":"12K","time":"Jan 29 15:20"},
+                    {"type":"file","name":"15.jpg","size":"9.3K","time":"Jan 29 15:20"},
+                    {"type":"file","name":"17.jpg","size":"16K","time":"Jan  7  2004"},
+                    {"type":"file","name":"18.jpg","size":"7.5K","time":"Jan  7  2004"},
+                    {"type":"file","name":"20.jpg","size":"18K","time":"Jan 29 15:24"},
+                    {"type":"file","name":"21.jpg","size":"8.9K","time":"Jan  7  2004"},
+                    {"type":"file","name":"22.jpg","size":"19K","time":"Jan 29 15:24"},
+                    {"type":"file","name":"23.jpg","size":"17K","time":"Jan 29 15:24"},
+                    {"type":"file","name":"24.jpg","size":"15K","time":"Jan 29 15:24"},
+                    {"type":"file","name":"25.jpg","size":"16K","time":"Jan  7  2004"},
+                    {"type":"file","name":"26.jpg","size":"14K","time":"Jan  7  2004"},
+                    {"type":"file","name":"28.jpg","size":"18K","time":"Jan  7  2004"},
+                    {"type":"file","name":"29.jpg","size":"15K","time":"Jan  7  2004"}
+                  ]},
+                  {"type":"file","name":"Uncanny03.tif","size":"8.6M","time":"Jan  7  2004"},
+                  {"type":"file","name":"Uncanny17.tif","size":"4.9M","time":"Jan  7  2004"},
+                  {"type":"file","name":"Uncanny28.tif","size":"13M","time":"Jan  7  2004"},
+                  {"type":"file","name":"Uncanny44.tif","size":"11M","time":"Jan  7  2004"},
+                  {"type":"file","name":"Uncanny47.tif","size":"10M","time":"Jan  7  2004"},
+                  {"type":"file","name":"uncanny06.tif","size":"12M","time":"Jan  7  2004"},
+                  {"type":"file","name":"uncanny11.tif","size":"4.0M","time":"Jan  7  2004"},
+                  {"type":"file","name":"uncanny22.tif","size":"5.1M","time":"Jan  7  2004"},
+                  {"type":"file","name":"uncanny30.tif","size":"3.8M","time":"Jan  7  2004"},
+                  {"type":"file","name":"uncanny33.tif","size":"10M","time":"Jan  7  2004"},
+                  {"type":"file","name":"uncanny39.tif","size":"7.9M","time":"Jan  7  2004"},
+                  {"type":"file","name":"uncanny41.tif","size":"7.7M","time":"Jan  7  2004"},
+                  {"type":"file","name":"uncanny55.tif","size":"8.0M","time":"Jan  7  2004"},
+                  {"type":"file","name":"uncanny58.tif","size":"3.9M","time":"Jan  7  2004"}
+                ]}
+              ]}
+            ]},
+            {"type":"file","name":"AlbumData.xml","size":"11K","time":"Jan  7  2004"}
+          ]}
+        ]},
+        {"type":"directory","name":"Sites","size":"16K","time":"Jan 29 15:20","contents":[
+          {"type":"directory","name":"images","size":"16K","time":"Jan 29 15:23","contents":[
+            {"type":"file","name":"apache_pb.gif","size":"2.3K","time":"Jan  6  2004"},
+            {"type":"file","name":"macosxlogo.gif","size":"2.8K","time":"Jan  6  2004"},
+            {"type":"file","name":"web_share.gif","size":"3.6K","time":"Jan  6  2004"}
+          ]}
+        ]}
+      ]}
+    ]}
+  ]}
+,
+  {"type":"report","directories":172,"files":704}
+]

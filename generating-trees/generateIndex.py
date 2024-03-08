@@ -3,7 +3,7 @@ import re
 import os
 import sys
 
-html_dir = '/Users/mkf26/Documents/code/file-trees'
+html_dir = '/Users/mkf26/Documents/code/file-trees/html'
 
 with open('/Users/mkf26/Documents/code/file-trees/generating-trees/htmlTemplate.html', 'r') as html_file:
     soup = BeautifulSoup(html_file, 'html.parser')
@@ -20,7 +20,7 @@ with open('/Users/mkf26/Documents/code/file-trees/generating-trees/htmlTemplate.
     for file_tree in html_file_trees:        
         digital_media_id_search = re.findall('D-[\dA-E]{4,5}', file_tree)
         digital_media_id = '_'.join(digital_media_id_search)
-        anchor = soup.new_tag('a', attrs={"href": file_tree, "target": "_blank"})
+        anchor = soup.new_tag('a', attrs={"href": f"html/{file_tree}", "target": "_blank"})
         anchor.string = digital_media_id
         body.append(anchor)
     html_content = soup.prettify()

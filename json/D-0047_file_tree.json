@@ -1,0 +1,14 @@
+[
+  {"type":"directory","name":"D-0047/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0047","size":"16K","time":"Jun  1  2023","contents":[
+      {"type":"file","name":"56k Line","size":"4.5K","time":"May 25  1994"},
+      {"type":"file","name":"Desktop","size":"0","time":"Sep 12  1994"},
+      {"type":"file","name":"Netcom CM","size":"16K","time":"May 25  1994"},
+      {"type":"file","name":"Netcom Confg","size":"197K","time":"May 25  1994"},
+      {"type":"file","name":"X25SAA.DOC","size":"517K","time":"Sep 12  1994"},
+      {"type":"file","name":"smtp gate","size":"186K","time":"Aug 19  1994"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":6}
+]

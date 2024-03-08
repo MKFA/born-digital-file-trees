@@ -1,0 +1,42 @@
+[
+  {"type":"directory","name":"D-0063/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0063","size":"16K","time":"Jun 15  2023","contents":[
+      {"type":"file","name":"8514A.VRS","size":"5.1K","time":"Jan 18  1991"},
+      {"type":"file","name":"ALTRNAT.DRK","size":"919","time":"Jan 18  1991"},
+      {"type":"file","name":"ATI.VRS","size":"29K","time":"Jan 18  1991"},
+      {"type":"file","name":"CGA4.VRS","size":"3.5K","time":"Jan 18  1991"},
+      {"type":"file","name":"COLOR16.WPG","size":"2.8K","time":"Jan 18  1991"},
+      {"type":"file","name":"COLOR256.WPG","size":"8.9K","time":"Jan 18  1991"},
+      {"type":"file","name":"EGADRP.VRS","size":"4.4K","time":"Jan 18  1991"},
+      {"type":"file","name":"EGAFIX.VRS","size":"4.7K","time":"Jan 18  1991"},
+      {"type":"file","name":"GENIUS.VRS","size":"13K","time":"Jan 18  1991"},
+      {"type":"file","name":"GENOA.VRS","size":"12K","time":"Jan 18  1991"},
+      {"type":"file","name":"GRAB.COM","size":"16K","time":"Jan 18  1991"},
+      {"type":"file","name":"GRAPHCNV.EXE","size":"118K","time":"Jan 18  1991"},
+      {"type":"file","name":"INCOLOR.VRS","size":"6.1K","time":"Jan 18  1991"},
+      {"type":"file","name":"INSTALL.EXE","size":"80K","time":"Jan 18  1991"},
+      {"type":"file","name":"KEYS.MRS","size":"4.7K","time":"Jan 18  1991"},
+      {"type":"file","name":"MACROS.DRK","size":"25K","time":"Jan 18  1991"},
+      {"type":"file","name":"MAKEALM.BAT","size":"43","time":"Jan 18  1991"},
+      {"type":"file","name":"NDRSETUP.EXE","size":"27K","time":"Jan 18  1991"},
+      {"type":"file","name":"NEC.VRS","size":"13K","time":"Jan 18  1991"},
+      {"type":"file","name":"ORCHID.VRS","size":"5.0K","time":"Jan 18  1991"},
+      {"type":"file","name":"PARADISE.VRS","size":"15K","time":"Jan 18  1991"},
+      {"type":"file","name":"README.DR","size":"16K","time":"Jan 18  1991"},
+      {"type":"file","name":"README.PIF","size":"1.1K","time":"Jan 18  1991"},
+      {"type":"file","name":"README.VRS","size":"6.7K","time":"Jan 18  1991"},
+      {"type":"file","name":"SHOW.EXE","size":"91K","time":"Jan 18  1991"},
+      {"type":"file","name":"SMALLDRS.EXE","size":"69K","time":"Jan 18  1991"},
+      {"type":"file","name":"STANDARD.IRS","size":"4.3K","time":"Jan 18  1991"},
+      {"type":"file","name":"STANDARD.VRS","size":"30K","time":"Jan 18  1991"},
+      {"type":"file","name":"TEXT2WPG.EXE","size":"16K","time":"Jan 18  1991"},
+      {"type":"file","name":"TIGA.DOC","size":"2.0K","time":"Jan 18  1991"},
+      {"type":"file","name":"TIGA.VRS","size":"27K","time":"Jan 18  1991"},
+      {"type":"file","name":"VIDEO7.VRS","size":"7.1K","time":"Jan 18  1991"},
+      {"type":"file","name":"WIN30-DR.PIF","size":"545","time":"Jan 18  1991"},
+      {"type":"file","name":"XGA.VRS","size":"5.5K","time":"Jan 18  1991"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":34}
+]

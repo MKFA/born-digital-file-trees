@@ -1,0 +1,9 @@
+[
+  {"type":"directory","name":"D-0010/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0010","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"BIOMASTER.rtf","size":"228K","time":"Jun  6  2001"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":1}
+]

@@ -1,0 +1,42 @@
+[
+  {"type":"directory","name":"D-0106/extracted_files","size":"16K","time":"May 23  2023","contents":[
+    {"type":"directory","name":"D_0106","size":"16K","time":"May 23  2023","contents":[
+      {"type":"directory","name":"MCS-WK","size":"16K","time":"May 22  2023","contents":[
+        {"type":"file","name":"AppleShare PDS","size":"9.0K","time":"Mar 31  1997"},
+        {"type":"file","name":"Desktop","size":"0","time":"Dec 31  1979"},
+        {"type":"file","name":"Desktop DB","size":"30K","time":"Nov 24  2003"},
+        {"type":"file","name":"Desktop DF","size":"229K","time":"Sep  1  2003"},
+        {"type":"file","name":"DesktopPrinters DB","size":"0","time":"Aug 13  2003"},
+        {"type":"directory","name":"ORIG STUFF","size":"16K","time":"May 22  2023","contents":[
+          {"type":"file","name":"HAREMS_FP1.jpg","size":"1.1M","time":"Jun 18  2004"},
+          {"type":"file","name":"HAREMS_panels.jpg","size":"917K","time":"Jun 18  2004"},
+          {"type":"file","name":"HAREMS_side.jpg","size":"738K","time":"Jun 18  2004"},
+          {"type":"file","name":"panel_1.jpg","size":"995K","time":"Jun 18  2004"}
+        ]},
+        {"type":"directory","name":"TO MUMOK","size":"16K","time":"Jun 22  2004","contents":[
+          {"type":"file","name":"HR_overview.jpg","size":"269K","time":"Jun 21  2004"},
+          {"type":"file","name":"HR_wall.jpg","size":"330K","time":"Jun 21  2004"},
+          {"type":"file","name":"HRpanel_pix2.jpg","size":"374K","time":"Jun 21  2004"},
+          {"type":"file","name":"HRpanelpix_1.jpg","size":"386K","time":"Jun 21  2004"},
+          {"type":"file","name":"HRprofile.jpg","size":"249K","time":"Jun 21  2004"},
+          {"type":"file","name":"harems room.doc","size":"42K","time":"Jun 21  2004"}
+        ]},
+        {"type":"directory","name":"TheVolumeSettingsFolder","size":"16K","time":"Aug 13  2003","contents":[
+          {"type":"file","name":"DesktopPrinters DB","size":"0","time":"Aug 13  2003"}
+        ]},
+        {"type":"directory","name":"Trash","size":"16K","time":"Dec  4  2003","contents":[
+          {"type":"directory","name":"Dreamweaver","size":"16K","time":"Nov 24  2003","contents":[
+            {"type":"directory","name":"Headspace Beatnik","size":"16K","time":"Nov 24  2003","contents":[
+              {"type":"file","name":"beatnik.gif","size":"2.2K","time":"Nov 24  1997"}
+            ]}
+          ]},
+          {"type":"file","name":"HY_FemBag4.psd","size":"44M","time":"Nov 23  2003"},
+          {"type":"file","name":"HY_FemBag5.psd","size":"42M","time":"Nov 23  2003"}
+        ]},
+        {"type":"file","name":"Virex SpeedScan","size":"88","time":"Oct  8  1998"}
+      ]}
+    ]}
+  ]}
+,
+  {"type":"report","directories":9,"files":20}
+]

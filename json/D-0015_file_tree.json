@@ -1,0 +1,23 @@
+[
+  {"type":"directory","name":"D-0015/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0015","size":"16K","time":"May 31  2023","contents":[
+      {"type":"file","name":"ARCH","size":"15K","time":"Feb 26  1996"},
+      {"type":"file","name":"BEE","size":"5.7K","time":"Mar  6  1996"},
+      {"type":"file","name":"BEE.doc","size":"24K","time":"Apr  7  1998"},
+      {"type":"file","name":"CHILD","size":"30K","time":"Oct 13  1995"},
+      {"type":"file","name":"CHILD.doc","size":"54K","time":"Apr  7  1998"},
+      {"type":"file","name":"GANG","size":"15K","time":"Mar  6  1996"},
+      {"type":"file","name":"GANG.doc","size":"38K","time":"Apr  7  1998"},
+      {"type":"file","name":"GREASE","size":"4.4K","time":"Sep 13  1995"},
+      {"type":"file","name":"GREASE.doc","size":"27K","time":"Apr  7  1998"},
+      {"type":"file","name":"JAB2","size":"15K","time":"Jan  8  1995"},
+      {"type":"file","name":"JAB2.doc","size":"35K","time":"Apr  7  1998"},
+      {"type":"file","name":"PEYE","size":"25K","time":"Mar  6  1996"},
+      {"type":"file","name":"PEYE.doc","size":"36K","time":"Apr  7  1998"},
+      {"type":"file","name":"UOFM","size":"14K","time":"Mar 21  1995"},
+      {"type":"file","name":"UOFM.doc","size":"36K","time":"Apr  7  1998"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":15}
+]

@@ -1,0 +1,37 @@
+[
+  {"type":"directory","name":"D-0011/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0011","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"BARCELON.doc","size":"9.5K","time":"Sep 20  1997"},
+      {"type":"file","name":"COMICS.doc","size":"32K","time":"Apr  7  1998"},
+      {"type":"file","name":"CRATES.doc","size":"22K","time":"Apr  7  1998"},
+      {"type":"file","name":"FLOWCHAR.doc","size":"10K","time":"Sep 20  1997"},
+      {"type":"file","name":"GEHRY.doc","size":"12K","time":"Sep 20  1997"},
+      {"type":"file","name":"GOBBLER.doc","size":"8.5K","time":"Sep 20  1997"},
+      {"type":"file","name":"HAREMS.doc","size":"24K","time":"Apr  7  1998"},
+      {"type":"file","name":"PLATO'S.doc","size":"9.3K","time":"Sep 20  1997"},
+      {"type":"file","name":"SPHINX.doc","size":"9.8K","time":"Sep 20  1997"},
+      {"type":"file","name":"WATARIUM EQuIPMENT LIST new.doc","size":"43K","time":"Oct 20  1997"},
+      {"type":"file","name":"WHITNEY.doc","size":"18K","time":"Sep 20  1997"},
+      {"type":"file","name":"WISHLIST.doc","size":"33K","time":"Apr  7  1998"},
+      {"type":"file","name":"jab, confusion.doc","size":"24K","time":"Mar 16  1998"},
+      {"type":"file","name":"out of actions dimensions etc.doc","size":"51K","time":"Mar 20  1998"},
+      {"type":"file","name":"p.a.s. assembly instr..doc","size":"10K","time":"Sep 20  1997"},
+      {"type":"file","name":"p.a.s. dissa. instr..doc","size":"9.8K","time":"Sep 20  1997"},
+      {"type":"file","name":"~$CRATES.doc","size":"54","time":"Jul 31  2000"},
+      {"type":"file","name":"~$GEHRY.doc","size":"54","time":"Jul 31  2000"},
+      {"type":"file","name":"~$HAREMS.doc","size":"54","time":"Jul 31  2000"},
+      {"type":"file","name":"~$HITNEY.doc","size":"54","time":"Jul 31  2000"},
+      {"type":"file","name":"~$LATO'S.doc","size":"54","time":"Jul 31  2000"},
+      {"type":"file","name":"~$OBBLER.doc","size":"54","time":"Jul 31  2000"},
+      {"type":"file","name":"~$OWCHAR.doc","size":"54","time":"Jul 31  2000"},
+      {"type":"file","name":"~$SPHINX.doc","size":"54","time":"Jul 31  2000"},
+      {"type":"file","name":"~$TARIUM EQuIPMENT LIST new.doc","size":"54","time":"Jul 31  2000"},
+      {"type":"file","name":"~$b, confusion.doc","size":"54","time":"Jul 31  2000"},
+      {"type":"file","name":"~$p.a.s. assembly instr..doc","size":"54","time":"Jul 31  2000"},
+      {"type":"file","name":"~$p.a.s. dissa. instr..doc","size":"54","time":"Jul 31  2000"},
+      {"type":"file","name":"~$t of actions dimensions etc.doc","size":"54","time":"Jul 31  2000"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":29}
+]

@@ -1,0 +1,23 @@
+[
+  {"type":"directory","name":"D-0074/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0074","size":"16K","time":"May 23  2023","contents":[
+      {"type":"directory","name":"2MB Mac Format","size":"16K","time":"May 22  2023","contents":[
+        {"type":"file","name":"Backup of Rosamund Felsen Acoun","size":"4.0K","time":"Nov 21  1998"},
+        {"type":"file","name":"Desktop","size":"0","time":"Nov 22  1998"},
+        {"type":"file","name":"Letter to Neil Chenery2","size":"6.0K","time":"Nov 21  1998"},
+        {"type":"file","name":"Locations of Collages Marnie","size":"5.0K","time":"Oct 22  1998"},
+        {"type":"file","name":"Marnie Available works","size":"5.5K","time":"Oct 22  1998"},
+        {"type":"file","name":"Marnies Collectors","size":"4.5K","time":"Oct 22  1998"},
+        {"type":"file","name":"Page Two Locations Collages","size":"5.0K","time":"Oct 22  1998"},
+        {"type":"file","name":"Rosamund Felsen Accounts Marni2","size":"3.5K","time":"Nov 21  1998"},
+        {"type":"file","name":"Rosamund Felsen Accounts Marni3","size":"3.5K","time":"Jan  9  1999"},
+        {"type":"file","name":"Rosamund Felsen Acounts Jim2","size":"4.0K","time":"Dec  8  1998"},
+        {"type":"file","name":"Rosamund Felsen Acounts Jim3","size":"3.5K","time":"Jan  9  1999"},
+        {"type":"file","name":"intern","size":"3.0K","time":"Dec  8  1998"},
+        {"type":"file","name":"test","size":"2.0K","time":"Nov 21  1998"}
+      ]}
+    ]}
+  ]}
+,
+  {"type":"report","directories":3,"files":13}
+]

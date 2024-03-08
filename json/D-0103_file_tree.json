@@ -1,0 +1,76 @@
+[
+  {"type":"directory","name":"D-0103/extracted_files","size":"16K","time":"May 23  2023","contents":[
+    {"type":"directory","name":"D_0103","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"directory","name":"COMP O.S.O","size":"16K","time":"Jul 24  2003","contents":[
+        {"type":"directory","name":"COMP O.S.O CD4P","size":"16K","time":"Jul 24  2003","contents":[
+          {"type":"file","name":"COMPO.S.O.CD4PGfront.EPS","size":"7.2M","time":"Jul 24  2003"},
+          {"type":"file","name":"COMPO.S.O.CD4PGinside.EPS","size":"1.9M","time":"Jul 24  2003"},
+          {"type":"file","name":"FINDER.DAT","size":"552","time":"Jul 24  2003"},
+          {"type":"directory","name":"RESOURCE.FRK","size":"16K","time":"Jul 24  2003","contents":[
+            {"type":"file","name":"COMPOS~1.EPS","size":"2.1K","time":"Jul 24  2003"},
+            {"type":"file","name":"COMPOS~2.EPS","size":"2.1K","time":"Jul 24  2003"},
+            {"type":"file","name":"SODFRO~1.PSD","size":"71K","time":"Jul 24  2003"},
+            {"type":"file","name":"SODINS~1.PSD","size":"58K","time":"Jul 24  2003"},
+            {"type":"file","name":"SODINS~2.PSD","size":"36K","time":"Jul 24  2003"},
+            {"type":"file","name":"SODINS~3.PSD","size":"46K","time":"Jul 24  2003"}
+          ]},
+          {"type":"file","name":"SodFRONTCOVER#5.psd","size":"2.2M","time":"Jul 22  2003"},
+          {"type":"file","name":"SodINSIDE2.psd","size":"3.8M","time":"Jul 22  2003"},
+          {"type":"file","name":"SodinsidebookLEFT#3.psd","size":"284K","time":"Jul 22  2003"},
+          {"type":"file","name":"SodinsidebookRIGHT#3.psd","size":"454K","time":"Jul 23  2003"}
+        ]},
+        {"type":"file","name":"FINDER.DAT","size":"276","time":"Jul 24  2003"},
+        {"type":"directory","name":"LABLE","size":"16K","time":"Jul 24  2003","contents":[
+          {"type":"file","name":"COMPO.S.O.CDLBL.EPS","size":"1.4M","time":"Jul 23  2003"},
+          {"type":"file","name":"FINDER.DAT","size":"368","time":"Jul 24  2003"},
+          {"type":"file","name":"Icon_","size":"0","time":"Jul 24  2003"},
+          {"type":"directory","name":"RESOURCE.FRK","size":"16K","time":"Jul 24  2003","contents":[
+            {"type":"file","name":"COMPOS~1.EPS","size":"2.1K","time":"Jul 24  2003"},
+            {"type":"file","name":"ICON_","size":"486","time":"Jul 24  2003"},
+            {"type":"file","name":"SODCDL~1.PSD","size":"28K","time":"Jul 24  2003"}
+          ]},
+          {"type":"file","name":"SODCDlable4.psd","size":"1013K","time":"Jul 22  2003"}
+        ]},
+        {"type":"directory","name":"tray","size":"16K","time":"Jul 24  2003","contents":[
+          {"type":"file","name":"COMPO.S.O.CDTRAY.EPS","size":"4.5M","time":"Jul 24  2003"},
+          {"type":"file","name":"FINDER.DAT","size":"184","time":"Jul 24  2003"},
+          {"type":"directory","name":"RESOURCE.FRK","size":"16K","time":"Jul 24  2003","contents":[
+            {"type":"file","name":"COMPOS~1.EPS","size":"2.1K","time":"Jul 24  2003"},
+            {"type":"file","name":"SODBAC~1.PSD","size":"50K","time":"Jul 24  2003"}
+          ]},
+          {"type":"file","name":"SodBackCover#3.psd","size":"2.1M","time":"Jul 24  2003"}
+        ]}
+      ]},
+      {"type":"file","name":"Desktop DB","size":"26K","time":"Jul 24  2003"},
+      {"type":"file","name":"Desktop DF","size":"253K","time":"Jul 24  2003"},
+      {"type":"directory","name":"Desktop Folder","size":"16K","time":"Aug  6  2003","contents":[
+        {"type":"file","name":"FINDER.DAT","size":"92","time":"Aug  6  2003"},
+        {"type":"directory","name":"RESOURCE.FRK","size":"16K","time":"Aug  6  2003","contents":[
+          {"type":"file","name":"COMPOU~1.DOC","size":"326","time":"Aug  6  2003"}
+        ]},
+        {"type":"file","name":"compound annex.doc","size":"19K","time":"Aug  6  2003"}
+      ]},
+      {"type":"file","name":"FILEID.DAT","size":"128","time":"Aug  6  2003"},
+      {"type":"file","name":"FINDER.DAT","size":"1.1K","time":"Aug  7  2003"},
+      {"type":"directory","name":"RESOURCE.FRK","size":"16K","time":"Aug  7  2003","contents":[
+        {"type":"file","name":"WIREAD1","size":"10K","time":"Aug  7  2003"}
+      ]},
+      {"type":"file","name":"SOD AND SODIE 1998.doc","size":"50K","time":"Jul 21  2003"},
+      {"type":"directory","name":"TheFindByContentFolder","size":"16K","time":"Jul 21  2003"},
+      {"type":"directory","name":"TheVolumeSettingsFolder","size":"16K","time":"Jul 21  2003","contents":[
+        {"type":"file","name":"DesktopPrinters DB","size":"0","time":"Jul 21  2003"},
+        {"type":"file","name":"FINDER.DAT","size":"276","time":"Aug  7  2003"},
+        {"type":"file","name":"OpenFolderListDF_","size":"0","time":"Jul 21  2003"},
+        {"type":"directory","name":"RESOURCE.FRK","size":"16K","time":"Jul 21  2003","contents":[
+          {"type":"file","name":"DESKTO~1","size":"286","time":"Jul 21  2003"},
+          {"type":"file","name":"OPENFO~1","size":"286","time":"Aug  7  2003"}
+        ]}
+      ]},
+      {"type":"file","name":"compound anne1.doc","size":"22K","time":"Aug  6  2003"},
+      {"type":"file","name":"music photos.doc","size":"30K","time":"Aug  6  2003"},
+      {"type":"file","name":"wiread1","size":"36M","time":"Aug  7  2003"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":15,"files":43}
+]

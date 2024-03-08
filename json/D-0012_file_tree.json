@@ -1,0 +1,10 @@
+[
+  {"type":"directory","name":"D-0012/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0012","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"BIO MASTER.rtf","size":"171K","time":"Feb  3  1999"},
+      {"type":"file","name":"Phaidon Image List.doc","size":"212K","time":"Feb 11  1999"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":2}
+]

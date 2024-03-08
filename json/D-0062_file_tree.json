@@ -1,0 +1,21 @@
+[
+  {"type":"directory","name":"D-0062/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0062","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"DESKTOP","size":"0","time":"Apr 29  1993"},
+      {"type":"file","name":"DICK&.TIF","size":"98K","time":"Apr 29  1993"},
+      {"type":"file","name":"FILEID.DAT","size":"128","time":"Apr 29  1993"},
+      {"type":"file","name":"FINDER.DAT","size":"460","time":"Apr 29  1993"},
+      {"type":"directory","name":"RESOURCE.FRK","size":"16K","time":"Apr 29  1993","contents":[
+        {"type":"file","name":"DESKTOP","size":"345","time":"Apr 29  1993"}
+      ]},
+      {"type":"directory","name":"TRASH","size":"16K","time":"Feb 26  2032","contents":[
+        {"type":"directory","name":"DESKTOP&","size":"16K","time":"Feb 26  2032"},
+        {"type":"file","name":"DICK.TIF","size":"98K","time":"Apr 29  1993"},
+        {"type":"file","name":"FINDER.DAT","size":"276","time":"Apr 29  1993"},
+        {"type":"file","name":"GUN.TIF","size":"158K","time":"Apr 29  1993"}
+      ]}
+    ]}
+  ]}
+,
+  {"type":"report","directories":5,"files":8}
+]

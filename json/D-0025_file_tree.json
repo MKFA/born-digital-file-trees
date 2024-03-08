@@ -1,0 +1,11 @@
+[
+  {"type":"directory","name":"D-0025/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0025","size":"16K","time":"Jun  1  2023","contents":[
+      {"type":"file","name":"JAPAN1.DOC","size":"44K","time":"Dec 29  1997"},
+      {"type":"file","name":"JAPAN2.DOC","size":"2.3K","time":"Dec 29  1997"},
+      {"type":"file","name":"JAPAN3.DOC","size":"103K","time":"Dec 29  1997"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":3}
+]

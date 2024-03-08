@@ -1,0 +1,54 @@
+[
+  {"type":"directory","name":"D-0061/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0061","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"!ARTICLE.SAN","size":"35K","time":"Sep 27  1998"},
+      {"type":"file","name":"!ARTISTS.WRI","size":"5.8K","time":"Sep 27  1998"},
+      {"type":"file","name":"!BIOANDE.XHS","size":"39K","time":"Sep 28  1998"},
+      {"type":"file","name":"!EXHSBYM.K(R","size":"2.2K","time":"Sep 28  1998"},
+      {"type":"file","name":"!GPEXHCA.TS(","size":"18K","time":"Sep 28  1998"},
+      {"type":"file","name":"!ONE-ART.IST","size":"4.8K","time":"Sep 27  1998"},
+      {"type":"file","name":"!PERFORM.ANC","size":"11K","time":"Sep 28  1998"},
+      {"type":"file","name":"!VIREXSP.EED","size":"412","time":"Sep 28  1998"},
+      {"type":"file","name":"DESKTOP","size":"0","time":"Sep 14  1998"},
+      {"type":"file","name":"FILEID.DAT","size":"1.4K","time":"Sep 28  1998"},
+      {"type":"file","name":"FINDER.DAT","size":"2.3K","time":"Sep 14  1998"},
+      {"type":"directory","name":"RESOURCE.FRK","size":"16K","time":"Sep 10  1998","contents":[
+        {"type":"file","name":"!VIREXSP.EED","size":"456","time":"Sep 28  1998"},
+        {"type":"file","name":"DESKTOP","size":"25K","time":"Sep 14  1998"}
+      ]},
+      {"type":"directory","name":"TRASH","size":"16K","time":"Sep 28  1998","contents":[
+        {"type":"file","name":"!ARTICLE.S","size":"27K","time":"Sep 20  1998"},
+        {"type":"file","name":"!ARTICLE.S(R","size":"126K","time":"Sep 14  1998"},
+        {"type":"file","name":"!ARTISTS.'W0","size":"9.6K","time":"Sep 14  1998"},
+        {"type":"file","name":"!ARTISTS.'WR","size":"5.5K","time":"Sep 20  1998"},
+        {"type":"file","name":"!BIOANDE.XHS","size":"36K","time":"Sep 26  1998"},
+        {"type":"file","name":"!EXHSBYM.K","size":"380","time":"Sep 10  1998"},
+        {"type":"file","name":"!EXHSCUR.ATE","size":"2.5K","time":"Sep 14  1998"},
+        {"type":"file","name":"!GPCATS","size":"12K","time":"Sep 14  1998"},
+        {"type":"file","name":"!GPCATSC.OPY","size":"12K","time":"Sep 26  1998"},
+        {"type":"file","name":"!GPEXHCA.TS","size":"15K","time":"Sep 26  1998"},
+        {"type":"file","name":"!ONE-ACA.TS","size":"2.4K","time":"Sep 14  1998"},
+        {"type":"file","name":"!ONE-AEX.HC0","size":"4.5K","time":"Sep 14  1998"},
+        {"type":"file","name":"!ONE-AEX.HCA","size":"4.5K","time":"Sep 14  1998"},
+        {"type":"file","name":"!PERFORM.AN0","size":"10K","time":"Sep 28  1998"},
+        {"type":"file","name":"!PERFORM.ANC","size":"7.8K","time":"Aug 27  1998"},
+        {"type":"file","name":"!WORDTEM.P-5","size":"38K","time":"Sep 26  1998"},
+        {"type":"file","name":"!WORDTEM.P-6","size":"9.0K","time":"Sep 20  1998"},
+        {"type":"file","name":"BIBLIO~1.TXT","size":"34K","time":"Sep 10  1998"},
+        {"type":"file","name":"BIOS","size":"34K","time":"Sep 10  1998"},
+        {"type":"file","name":"ESSAYS~1.TXT","size":"6.4K","time":"Sep 10  1998"},
+        {"type":"file","name":"FINDER.DAT","size":"2.2K","time":"Sep 28  1998"},
+        {"type":"file","name":"GROUPC~1.TXT","size":"12K","time":"Sep 14  1998"},
+        {"type":"directory","name":"RESOURCE.FRK","size":"16K","time":"Sep 14  1998","contents":[
+          {"type":"file","name":"!ARTICLE.S","size":"286","time":"Sep 20  1998"},
+          {"type":"file","name":"!EXHSCUR.ATE","size":"286","time":"Sep 20  1998"},
+          {"type":"file","name":"BIBLIO~1.TXT","size":"286","time":"Sep 14  1998"},
+          {"type":"file","name":"BIOS","size":"286","time":"Sep 14  1998"}
+        ]},
+        {"type":"file","name":"RESUME~1.TXT","size":"31K","time":"Sep 14  1998"}
+      ]}
+    ]}
+  ]}
+,
+  {"type":"report","directories":5,"files":40}
+]

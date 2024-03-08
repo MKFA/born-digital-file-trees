@@ -1,0 +1,41 @@
+[
+  {"type":"directory","name":"D-0039/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0039","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"ADDRESSE","size":"34K","time":"Jun 19  1996"},
+      {"type":"file","name":"ARCH","size":"15K","time":"Feb 26  1996"},
+      {"type":"file","name":"BARC","size":"8.5K","time":"Oct 23  1996"},
+      {"type":"file","name":"BEE","size":"5.7K","time":"Mar  6  1996"},
+      {"type":"file","name":"BILL","size":"5.5K","time":"Dec 25  1996"},
+      {"type":"file","name":"CYNTHIA","size":"7.3K","time":"Dec 30  1996"},
+      {"type":"file","name":"DOCA.BK!","size":"2.9K","time":"Dec 30  1996"},
+      {"type":"file","name":"DOCA.LIS","size":"2.9K","time":"Dec 30  1996"},
+      {"type":"file","name":"DOCU","size":"10K","time":"Dec 28  1996"},
+      {"type":"file","name":"FILE.LAB","size":"36K","time":"Mar 14  1996"},
+      {"type":"file","name":"FILE5","size":"7.9K","time":"Mar 13  1996"},
+      {"type":"file","name":"GANG","size":"15K","time":"Mar  6  1996"},
+      {"type":"file","name":"HAMBURGE","size":"5.2K","time":"Sep  3  1996"},
+      {"type":"file","name":"HUEBLER","size":"31K","time":"Aug 30  1996"},
+      {"type":"file","name":"KELLEY","size":"97K","time":"Nov 27  1996"},
+      {"type":"file","name":"LABOR","size":"7.1K","time":"Dec  4  1996"},
+      {"type":"file","name":"LAND-O-L","size":"16K","time":"Oct  1  1996"},
+      {"type":"file","name":"LIST","size":"5.0K","time":"Sep 28  1996"},
+      {"type":"file","name":"MATERIAL","size":"11K","time":"Dec  4  1996"},
+      {"type":"file","name":"MEMBERS","size":"1.4K","time":"Nov 26  1996"},
+      {"type":"file","name":"MILLER","size":"8.0K","time":"Dec 18  1996"},
+      {"type":"file","name":"PACE","size":"4.8K","time":"Sep 28  1996"},
+      {"type":"file","name":"PAINTERE","size":"6.9K","time":"Jun 13  1996"},
+      {"type":"file","name":"PEYE","size":"25K","time":"Mar  6  1996"},
+      {"type":"file","name":"PLATO","size":"13K","time":"Dec 19  1996"},
+      {"type":"file","name":"PLATO'S","size":"5.9K","time":"Dec 18  1996"},
+      {"type":"file","name":"POET2","size":"28K","time":"Nov 25  1996"},
+      {"type":"file","name":"SLIDELIS","size":"9.8K","time":"Nov  6  1996"},
+      {"type":"file","name":"TAXES95","size":"7.9K","time":"Mar 13  1996"},
+      {"type":"file","name":"TONY","size":"12K","time":"Dec 29  1996"},
+      {"type":"file","name":"UNCANNY","size":"71K","time":"Jul 22  1996"},
+      {"type":"file","name":"WILDER","size":"6.7K","time":"Dec 18  1996"},
+      {"type":"file","name":"ZOOTV","size":"13K","time":"Mar 29  1996"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":33}
+]

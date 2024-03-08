@@ -1,0 +1,14 @@
+[
+  {"type":"directory","name":"D-0044/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0044","size":"16K","time":"May 23  2023","contents":[
+      {"type":"file","name":"Updated Video Inventory 4.10.05.xls","size":"36K","time":"Apr 12  2005"},
+      {"type":"directory","name":"VIDEO DATA","size":"16K","time":"Apr  6  2005","contents":[
+        {"type":"file","name":"Kelley Video PPI_List 6.8.04","size":"22K","time":"Jun  9  2004"},
+        {"type":"file","name":"VIDEO INVENTORY MK.xls","size":"35K","time":"Sep 29  2004"}
+      ]},
+      {"type":"file","name":"Videography4.10.05.doc","size":"24K","time":"Apr  6  2005"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":3,"files":4}
+]

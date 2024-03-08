@@ -1,0 +1,20 @@
+[
+  {"type":"directory","name":"D-0067/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0067","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"APCHOR","size":"13K","time":"Nov 12  1995"},
+      {"type":"file","name":"APRESUME","size":"8.4K","time":"Feb 27  1997"},
+      {"type":"file","name":"APRESUME.BK!","size":"8.4K","time":"Aug 21  1996"},
+      {"type":"file","name":"BASEL","size":"4.6K","time":"Aug 21  1996"},
+      {"type":"file","name":"DESKTOP","size":"0","time":"Apr 29  1993"},
+      {"type":"file","name":"FINDER.DAT","size":"972","time":"Apr 29  1993"},
+      {"type":"file","name":"NEA","size":"2.2K","time":"Nov 26  1994"},
+      {"type":"file","name":"PINK","size":"5.0K","time":"Sep 10  1992"},
+      {"type":"file","name":"RENAIS","size":"2.6K","time":"Nov 19  1995"},
+      {"type":"directory","name":"RESOURCE.FRK","size":"16K","time":"Apr 29  1993","contents":[
+        {"type":"file","name":"DESKTOP","size":"321","time":"Apr 29  1993"}
+      ]}
+    ]}
+  ]}
+,
+  {"type":"report","directories":3,"files":10}
+]

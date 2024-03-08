@@ -1,0 +1,22 @@
+[
+  {"type":"directory","name":"D-0014/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0014","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"BABY","size":"10K","time":"Aug  8  1995"},
+      {"type":"file","name":"CAL","size":"14K","time":"Aug  8  1995"},
+      {"type":"file","name":"CHILD","size":"30K","time":"Oct 13  1995"},
+      {"type":"file","name":"GREASE","size":"4.4K","time":"Sep 13  1995"},
+      {"type":"file","name":"GREEN","size":"5.3K","time":"May 29  1995"},
+      {"type":"file","name":"INTERVIE","size":"15K","time":"May 29  1995"},
+      {"type":"file","name":"JAB2","size":"15K","time":"Jan  8  1995"},
+      {"type":"file","name":"JAB95","size":"8.5K","time":"Dec 26  1995"},
+      {"type":"file","name":"LINER","size":"17K","time":"May 29  1995"},
+      {"type":"file","name":"LYRICS","size":"13K","time":"Jul 17  1995"},
+      {"type":"file","name":"O","size":"41K","time":"Oct 15  1995"},
+      {"type":"file","name":"RENAIS","size":"2.6K","time":"Nov 19  1995"},
+      {"type":"file","name":"SKIP","size":"3.6K","time":"Jul  5  1995"},
+      {"type":"file","name":"UOFM","size":"14K","time":"Mar 21  1995"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":14}
+]

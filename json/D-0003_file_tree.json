@@ -1,0 +1,55 @@
+[
+  {"type":"directory","name":"D-0003/extracted_files","size":"16K","time":"Mar  7 14:56","contents":[
+    {"type":"directory","name":"D_0003","size":"16K","time":"Mar  7 14:55","contents":[
+      {"type":"directory","name":"CREATIVE WRITING","size":"16K","time":"Jun  9  2023","contents":[
+        {"type":"file","name":"A Haute Voix.rtf","size":"29K","time":"Jan 26  2000"},
+        {"type":"file","name":"ACCONCI.doc","size":"28K","time":"Apr  7  1998"},
+        {"type":"file","name":"AMBIGUIT.doc","size":"30K","time":"Apr  7  1998"},
+        {"type":"file","name":"BEE.doc","size":"24K","time":"Apr  7  1998"},
+        {"type":"file","name":"BONHAM.doc","size":"30K","time":"Apr  7  1998"},
+        {"type":"file","name":"CHILD.doc","size":"68K","time":"Jul 26  1999"},
+        {"type":"file","name":"CUE CARDS.doc","size":"42K","time":"Jan 31  2000"},
+        {"type":"directory","name":"DIALOGUES","size":"16K","time":"Jun  8  2001","contents":[
+          {"type":"file","name":"AMBIGUIT.doc","size":"30K","time":"Apr  7  1998"},
+          {"type":"file","name":"GREEN.doc","size":"34K","time":"Apr  7  1998"},
+          {"type":"file","name":"PINK.doc","size":"30K","time":"Apr  7  1998"},
+          {"type":"file","name":"THEORY.doc","size":"34K","time":"Apr  7  1998"},
+          {"type":"file","name":"WRITTEN.doc","size":"24K","time":"Apr  7  1998"}
+        ]},
+        {"type":"file","name":"FRESH ACCONCI.doc","size":"20K","time":"Jun 17  1999"},
+        {"type":"file","name":"GANG.doc","size":"38K","time":"Dec  3  1998"},
+        {"type":"file","name":"GREASE.doc","size":"42K","time":"Apr  7  1998"},
+        {"type":"file","name":"GREEN.doc","size":"38K","time":"Apr  7  1998"},
+        {"type":"directory","name":"HEIDI","size":"16K","time":"Jun  8  2001","contents":[
+          {"type":"file","name":"Grandfather teaches Heide to read.rtf","size":"13K","time":"Feb  3  2000"},
+          {"type":"file","name":"HEIDI.doc","size":"36K","time":"Jan 31  2000"},
+          {"type":"file","name":"Heidi grows up to be president.1.rtf","size":"11K","time":"Feb  2  2000"},
+          {"type":"file","name":"There is the great sphere.rtf","size":"2.8K","time":"Feb  2  2000"},
+          {"type":"file","name":"a nature play.rtf","size":"5.2K","time":"Feb  2  2000"},
+          {"type":"file","name":"the impulse.rtf","size":"3.0K","time":"Jul 26  2000"}
+        ]},
+        {"type":"file","name":"LYRICS.doc","size":"19K","time":"Sep 20  1997"},
+        {"type":"file","name":"MITCHELL.doc","size":"30K","time":"Apr  7  1998"},
+        {"type":"file","name":"MOON.doc","size":"27K","time":"Apr  7  1998"},
+        {"type":"directory","name":"PAINTER POSTER","size":"16K","time":"Jun  8  2001","contents":[
+          {"type":"file","name":"CLINTON.rtf.rtf","size":"7.6K","time":"Dec  7  1998"},
+          {"type":"file","name":"PAPARAZZI LAW.doc","size":"36K","time":"Dec  2  1998"},
+          {"type":"file","name":"SPIELBERG.rtf","size":"29K","time":"Dec  7  1998"}
+        ]},
+        {"type":"file","name":"PEYE.doc","size":"47K","time":"Apr  7  1998"},
+        {"type":"file","name":"PIG.doc","size":"27K","time":"Apr  7  1998"},
+        {"type":"file","name":"PIGdoc.doc","size":"27K","time":"Apr  7  1998"},
+        {"type":"file","name":"PINK.doc","size":"34K","time":"Apr  7  1998"},
+        {"type":"file","name":"SUICIDE PACT.doc","size":"46K","time":"Jan 24  2000"},
+        {"type":"file","name":"SUICIDE SCREENPLAY.rtf","size":"46K","time":"Jul 21  2000"},
+        {"type":"file","name":"THEORY.doc","size":"56K","time":"Jul 26  2000"},
+        {"type":"file","name":"VOG.doc","size":"86K","time":"Sep  6  1998"},
+        {"type":"file","name":"WHALEY.doc","size":"28K","time":"Apr  7  1998"},
+        {"type":"file","name":"WHITE MOUNTAIN.doc","size":"20K","time":"Mar 27  1998"},
+        {"type":"file","name":"WRITTEN.doc","size":"24K","time":"Apr  7  1998"}
+      ]}
+    ]}
+  ]}
+,
+  {"type":"report","directories":6,"files":39}
+]

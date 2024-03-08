@@ -1,0 +1,14 @@
+[
+  {"type":"directory","name":"D-0029/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0029","size":"16K","time":"Oct  5  1997","contents":[
+      {"type":"file","name":"Desktop","size":"0","time":"Mar 23  1996"},
+      {"type":"file","name":"R97~1.MCW updated","size":"138K","time":"Oct  1  1997"},
+      {"type":"file","name":"SAM QuickScan File","size":"402","time":"Jul 25  1996"},
+      {"type":"file","name":"Virex SpeedFile","size":"208","time":"Oct  5  1997"},
+      {"type":"file","name":"catalogues from mian","size":"52K","time":"Oct  1  1997"},
+      {"type":"file","name":"mini review","size":"9.5K","time":"Mar 24  1996"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":6}
+]

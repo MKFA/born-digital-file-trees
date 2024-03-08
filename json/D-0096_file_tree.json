@@ -1,0 +1,68 @@
+[
+  {"type":"directory","name":"D-0096/extracted_files","size":"16K","time":"May 23  2023","contents":[
+    {"type":"directory","name":"D_0096","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"ADDRESSES TO PRINT.doc","size":"399K","time":"Mar  1  2004"},
+      {"type":"directory","name":"CD ORDERS","size":"16K","time":"Sep 18  2003","contents":[
+        {"type":"directory","name":"CD INVOICES","size":"16K","time":"Sep 18  2003","contents":[
+          {"type":"file","name":"CDrcpt11.03.doc","size":"33K","time":"Nov 10  2003"},
+          {"type":"file","name":"CDrcpt9.03.doc","size":"32K","time":"Sep 11  2003"},
+          {"type":"file","name":"CDs_Barbican6.16.rtf","size":"14K","time":"Jun 16  2003"},
+          {"type":"file","name":"CDs_Barbican_addshipping.doc.rtf","size":"14K","time":"Jun  4  2003"},
+          {"type":"file","name":"CDs_Barbican_customscharge.doc.rtf","size":"14K","time":"Jun 11  2003"},
+          {"type":"file","name":"CDs_Bimbo11.03.rtf","size":"16K","time":"Nov 19  2003"},
+          {"type":"file","name":"CDs_DJspooky10.03.rtf","size":"13K","time":"Oct 22  2003"},
+          {"type":"directory","name":"COMPS","size":"16K","time":"Apr 14  2004","contents":[
+            {"type":"file","name":"CDcomp_DougHarvey.rtf","size":"14K","time":"Dec 22  2003"},
+            {"type":"file","name":"CDs_FRadioKassel03.rtf","size":"14K","time":"Nov 10  2003"},
+            {"type":"file","name":"CDs_NickMoss03.rtf","size":"13K","time":"Nov 10  2003"},
+            {"type":"file","name":"Hultberg_swedenradio04.doc","size":"20K","time":"Mar 23  2004"}
+          ]},
+          {"type":"file","name":"seaUrchin3.22.04.doc","size":"57K","time":"Mar 25  2004"}
+        ]},
+        {"type":"directory","name":"CD Receipts","size":"16K","time":"Apr 14  2004","contents":[
+          {"type":"file","name":"CDrcpt9.03.doc","size":"20K","time":"Sep 11  2003"},
+          {"type":"file","name":"CDrcpt9.doc","size":"20K","time":"Sep 11  2003"},
+          {"type":"file","name":"CDrcpt_Barbican9.03.doc","size":"32K","time":"Sep 15  2003"},
+          {"type":"file","name":"CDrcpt_Dobbelsteen11.03.doc","size":"24K","time":"Dec 31  2003"},
+          {"type":"file","name":"Cdrcpt1.15.04.rtf","size":"13K","time":"Jan 15  2004"},
+          {"type":"file","name":"Cdrcpt12.18.03.rtf","size":"13K","time":"Dec 18  2003"},
+          {"type":"file","name":"Cdrcpt12.18.03a.rtf","size":"13K","time":"Jan 15  2004"},
+          {"type":"file","name":"Harvey_note.doc","size":"19K","time":"Dec 22  2003"},
+          {"type":"file","name":"letter John herron.doc","size":"34K","time":"Dec 18  2003"}
+        ]},
+        {"type":"file","name":"CDdist_FE.7.16.03.doc","size":"33K","time":"Jul 16  2003"},
+        {"type":"file","name":"CDdist_Hunt7.17.03.doc","size":"21K","time":"Jul 16  2003"},
+        {"type":"file","name":"CDdist_Koretzky7.17.03.doc","size":"21K","time":"Jul 16  2003"},
+        {"type":"file","name":"CDdistribution.doc","size":"34K","time":"Jul 15  2003"},
+        {"type":"file","name":"CDrcpt3.14.03.rtf","size":"12K","time":"Mar 14  2003"},
+        {"type":"file","name":"CDrcpt9.03.doc","size":"20K","time":"Sep 11  2003"},
+        {"type":"file","name":"CDrcpt9.doc","size":"20K","time":"Sep 11  2003"},
+        {"type":"file","name":"CDrcpt_Barbican9.03.doc","size":"32K","time":"Sep 15  2003"},
+        {"type":"file","name":"CDs_Barbican.rtf","size":"14K","time":"Apr 30  2003"},
+        {"type":"directory","name":"DISTRIBUTION","size":"16K","time":"Apr 14  2004","contents":[
+          {"type":"file","name":"CDdist_FE.7.16.03.doc","size":"33K","time":"Jul 16  2003"},
+          {"type":"file","name":"CDdist_Hunt7.17.03.doc","size":"21K","time":"Jul 16  2003"},
+          {"type":"file","name":"CDdist_Koretzky7.17.03.doc","size":"21K","time":"Jul 16  2003"},
+          {"type":"file","name":"CDdistribution.doc","size":"34K","time":"Jul 15  2003"}
+        ]},
+        {"type":"directory","name":"Printed Matter","size":"16K","time":"Sep 18  2003","contents":[
+          {"type":"file","name":"CDs_printedmatter.rtf","size":"14K","time":"Apr  2  2003"},
+          {"type":"file","name":"CDs_printedmatterinvoice2.rtf","size":"14K","time":"May  7  2003"},
+          {"type":"file","name":"CDship_printedmatter.rtf","size":"12K","time":"Apr 15  2003"},
+          {"type":"file","name":"CDship_printedmatter5.7.03.rtf","size":"12K","time":"May  7  2003"}
+        ]},
+        {"type":"file","name":"Recordingsavailablef_web text.doc","size":"26K","time":"Jul  9  2003"},
+        {"type":"file","name":"RecordingsavailablefromCOMPOU 2.doc","size":"26K","time":"Jul  9  2003"},
+        {"type":"file","name":"SAM_TYL5.13.rtf","size":"12K","time":"May 13  2003"},
+        {"type":"file","name":"annex_cdlist.doc","size":"22K","time":"Jul 25  2003"},
+        {"type":"file","name":"annex_returnlabel.doc","size":"38K","time":"Jul 10  2003"},
+        {"type":"file","name":"compound annexletterhead.doc.dot","size":"19K","time":"Jun 23  2003"}
+      ]},
+      {"type":"directory","name":"LETTERS 04","size":"16K","time":"Apr 14  2004","contents":[
+        {"type":"file","name":"PhilaMus_3.04.doc","size":"24K","time":"Mar 24  2004"}
+      ]}
+    ]}
+  ]}
+,
+  {"type":"report","directories":9,"files":46}
+]

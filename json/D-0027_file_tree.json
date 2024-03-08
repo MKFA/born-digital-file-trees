@@ -1,0 +1,14 @@
+[
+  {"type":"directory","name":"D-0027/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0027","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"BIBLIOGRAPHY .doc","size":"377K","time":"Feb 13  1998"},
+      {"type":"file","name":"ESSAYS , INTERVIEWS BY THE ARTIST.doc","size":"56K","time":"Feb 13  1998"},
+      {"type":"file","name":"GROUP CAT. Reference.doc","size":"170K","time":"Feb 13  1998"},
+      {"type":"file","name":"PERFORMANCES AND VIDEO.doc","size":"78K","time":"Feb 13  1998"},
+      {"type":"file","name":"RESUME MAIN BODY.rtf","size":"82K","time":"Feb 13  1998"},
+      {"type":"file","name":"SOLO CATALOGUES . MONOGRAPHS.doc","size":"64K","time":"Oct 27  1997"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":6}
+]

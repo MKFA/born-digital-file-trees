@@ -1,0 +1,41 @@
+[
+  {"type":"directory","name":"D-0093/extracted_files","size":"16K","time":"May 23  2023","contents":[
+    {"type":"directory","name":"D_0093","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"directory","name":"MK WRITING","size":"16K","time":"Sep 18  2003","contents":[
+        {"type":"directory","name":"ABOUT MIKE BY OTHERS","size":"16K","time":"Apr 14  2004","contents":[
+          {"type":"file","name":"emiessay.doc","size":"86K","time":"Jan 25  2004"},
+          {"type":"file","name":"rugoff_modulatortxt.doc","size":"26K","time":"Jun 18  2003"}
+        ]},
+        {"type":"directory","name":"CRITICAL WRITING","size":"16K","time":"Apr 14  2004","contents":[
+          {"type":"file","name":"ACADEMIC CUTUP.rtf","size":"70K","time":"Jun 19  2003"},
+          {"type":"file","name":"ASKEVOLD.doc","size":"57K","time":"Apr 30  2002"},
+          {"type":"file","name":"BABY.doc","size":"32K","time":"Apr 30  2002"},
+          {"type":"file","name":"CAL.doc","size":"36K","time":"Apr 30  2002"},
+          {"type":"file","name":"CAL.rtf","size":"19K","time":"Apr 30  2002"},
+          {"type":"file","name":"CAL.txt","size":"14K","time":"Apr 30  2002"},
+          {"type":"file","name":"CLARK.doc","size":"88K","time":"Apr 30  2002"},
+          {"type":"file","name":"CRAFT.doc","size":"26K","time":"Apr 30  2002"},
+          {"type":"file","name":"CRAFT2.doc","size":"28K","time":"Apr 30  2002"},
+          {"type":"file","name":"FOUL PERFECTION.doc","size":"54K","time":"Apr 30  2002"},
+          {"type":"file","name":"GO WEST.rtf","size":"27K","time":"Apr 30  2002"},
+          {"type":"file","name":"HUEBLER.doc","size":"56K","time":"Apr 30  2002"},
+          {"type":"file","name":"IVAR.doc","size":"30K","time":"Apr 30  2002"},
+          {"type":"file","name":"JAB2.doc","size":"42K","time":"Apr 30  2002"},
+          {"type":"file","name":"MARCEL.doc","size":"24K","time":"Apr 30  2002"},
+          {"type":"file","name":"MCEVILLEY.doc","size":"36K","time":"Apr 30  2002"},
+          {"type":"file","name":"MYTH SCIENCE.doc","size":"72K","time":"Apr 30  2002"},
+          {"type":"file","name":"Miller intro.rtf","size":"16K","time":"Apr 30  2002"},
+          {"type":"file","name":"SRL TEXT.doc","size":"48K","time":"Apr 30  2002"},
+          {"type":"file","name":"THEK.doc","size":"42K","time":"Apr 30  2002"},
+          {"type":"file","name":"UNCANNY-PRESS RELEASE.doc","size":"29K","time":"Apr 30  2002"},
+          {"type":"file","name":"UNCANNY.doc","size":"93K","time":"Apr 30  2002"},
+          {"type":"file","name":"URBAN GOTHIC.doc","size":"195K","time":"Apr 30  2002"},
+          {"type":"file","name":"cody choi.doc","size":"24K","time":"Apr 30  2002"},
+          {"type":"file","name":"uncannyheadtext.doc","size":"48K","time":"Nov  4  2003"}
+        ]}
+      ]}
+    ]}
+  ]}
+,
+  {"type":"report","directories":5,"files":27}
+]

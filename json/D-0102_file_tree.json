@@ -1,0 +1,25 @@
+[
+  {"type":"directory","name":"D-0102/extracted_files","size":"16K","time":"May 23  2023","contents":[
+    {"type":"directory","name":"D_0102","size":"16K","time":"May 23  2023","contents":[
+      {"type":"directory","name":"Kelley images 1","size":"16K","time":"May 22  2023","contents":[
+        {"type":"file","name":"AppleShare PDS","size":"9.0K","time":"Jun 14  2002"},
+        {"type":"file","name":"Desktop","size":"0","time":"Dec 31  1979"},
+        {"type":"file","name":"Desktop DB","size":"18K","time":"Nov 28  2001"},
+        {"type":"file","name":"Desktop DF","size":"145K","time":"Nov 19  2001"},
+        {"type":"file","name":"DesktopPrinters DB","size":"0","time":"Aug  8  2001"},
+        {"type":"file","name":"NAVMac800QSFile","size":"4.2K","time":"Sep  5  2007"},
+        {"type":"directory","name":"TheVolumeSettingsFolder","size":"16K","time":"Aug  7  2001","contents":[
+          {"type":"file","name":"DesktopPrinters DB","size":"0","time":"Aug  7  2001"}
+        ]},
+        {"type":"file","name":"Virex SpeedScan","size":"168","time":"Jun 14  2002"},
+        {"type":"file","name":"fig. 10 [old 5.2] The","size":"1.1M","time":"Nov 16  2001"},
+        {"type":"file","name":"fig. 14 [old 8.3]","size":"13M","time":"Sep 17  2001"},
+        {"type":"file","name":"fig. 17 [old 8.6]","size":"15M","time":"Aug  7  2001"},
+        {"type":"file","name":"fig. 6 [old 3.4]","size":"49M","time":"Jul 20  2001"},
+        {"type":"file","name":"fig. 9 [old 5.1]","size":"1.2M","time":"Nov 16  2001"}
+      ]}
+    ]}
+  ]}
+,
+  {"type":"report","directories":4,"files":13}
+]

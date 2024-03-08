@@ -1,0 +1,21 @@
+[
+  {"type":"directory","name":"D-0071/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0071","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"Beyond the Pink.98(changes) copy.doc","size":"90K","time":"Nov 16  2001"},
+      {"type":"file","name":"Desktop","size":"0","time":"Nov 19  2001"},
+      {"type":"file","name":"DesktopPrinters DB","size":"0","time":"Nov 19  2001"},
+      {"type":"file","name":"FILEID.DAT","size":"128","time":"Nov 19  2001"},
+      {"type":"file","name":"FINDER.DAT","size":"696","time":"Nov 19  2001"},
+      {"type":"file","name":"OpenFolderListDF_","size":"0","time":"Nov 19  2001"},
+      {"type":"directory","name":"RESOURCE.FRK","size":"16K","time":"Nov 19  2001","contents":[
+        {"type":"file","name":"BEYOND~1.DOC","size":"286","time":"Nov 19  2001"},
+        {"type":"file","name":"DESKTOP","size":"286","time":"Nov 19  2001"},
+        {"type":"file","name":"DESKTO~1","size":"286","time":"Nov 19  2001"},
+        {"type":"file","name":"OPENFO~1","size":"286","time":"Nov 19  2001"}
+      ]},
+      {"type":"file","name":"an academic cut-up copy.rtf","size":"66K","time":"Nov 16  2001"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":3,"files":11}
+]

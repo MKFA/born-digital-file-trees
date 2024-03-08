@@ -1,0 +1,9 @@
+[
+  {"type":"directory","name":"D-0033/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0033","size":"16K","time":"Dec 31  1979","contents":[
+      {"type":"file","name":"k1297.qbb","size":"250K","time":"Jan 28  1998"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":1}
+]

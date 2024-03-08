@@ -1,0 +1,18 @@
+[
+  {"type":"directory","name":"D-0013/extracted_files","size":"16K","time":"May 22  2023","contents":[
+    {"type":"directory","name":"D_0013","size":"16K","time":"May 31  2023","contents":[
+      {"type":"file","name":"AMBIGUIT","size":"4.6K","time":"Sep 10  1992"},
+      {"type":"file","name":"AMBIGUIT.doc","size":"30K","time":"Apr  7  1998"},
+      {"type":"file","name":"GREEN","size":"5.3K","time":"May 29  1995"},
+      {"type":"file","name":"GREEN.doc","size":"34K","time":"Apr  7  1998"},
+      {"type":"file","name":"PINK","size":"5.0K","time":"Sep 10  1992"},
+      {"type":"file","name":"PINK.doc","size":"30K","time":"Apr  7  1998"},
+      {"type":"file","name":"THEORY","size":"15K","time":"Sep 17  1994"},
+      {"type":"file","name":"THEORY.doc","size":"34K","time":"Apr  7  1998"},
+      {"type":"file","name":"WRITTEN","size":"1.3K","time":"Sep 10  1992"},
+      {"type":"file","name":"WRITTEN.doc","size":"24K","time":"Apr  7  1998"}
+    ]}
+  ]}
+,
+  {"type":"report","directories":2,"files":10}
+]

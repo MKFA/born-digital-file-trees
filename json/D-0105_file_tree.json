@@ -1,0 +1,24 @@
+[
+  {"type":"directory","name":"D-0105/extracted_files","size":"16K","time":"May 23  2023","contents":[
+    {"type":"directory","name":"D_0105","size":"16K","time":"May 23  2023","contents":[
+      {"type":"directory","name":"Kelley images 2","size":"16K","time":"May 22  2023","contents":[
+        {"type":"file","name":"AppleShare PDS","size":"9.0K","time":"Jun 14  2002"},
+        {"type":"file","name":"Desktop","size":"0","time":"Dec 31  1979"},
+        {"type":"file","name":"Desktop DB","size":"162K","time":"Apr 23  2001"},
+        {"type":"file","name":"Desktop DF","size":"1.5M","time":"Apr 23  2001"},
+        {"type":"file","name":"DesktopPrinters DB","size":"0","time":"Jul 16  1998"},
+        {"type":"file","name":"NAV QuickScan 5.0","size":"2.5K","time":"Dec  6  1998"},
+        {"type":"file","name":"Norton FS Data","size":"21K","time":"Feb 27  2001"},
+        {"type":"file","name":"Norton FS Index","size":"96","time":"Apr 27  1999"},
+        {"type":"directory","name":"TheVolumeSettingsFolder","size":"16K","time":"Jan 17  2001","contents":[
+          {"type":"file","name":"DesktopPrinters DB","size":"0","time":"Jan 17  2001"}
+        ]},
+        {"type":"file","name":"Virex SpeedScan","size":"178","time":"Jun 14  2002"},
+        {"type":"file","name":"fig. 24 [old 13.1]","size":"35M","time":"Nov 29  2000"},
+        {"type":"file","name":"fig. 26 [old 13.3]","size":"28M","time":"Apr  9  2001"}
+      ]}
+    ]}
+  ]}
+,
+  {"type":"report","directories":4,"files":12}
+]

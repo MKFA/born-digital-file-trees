@@ -1,0 +1,17 @@
+[
+  {"type":"directory","name":"/Volumes/MKFA/ARCHIVES STORAGE/Born_digital_processing/AIPs/optical_media/D-0260/original_files","size":"16K","time":"Mar 12 12:24","contents":[
+    {"type":"directory","name":"KNDOR_CON_2000","size":"16K","time":"Mar 12 12:24","contents":[
+      {"type":"directory","name":"AUDIO_TS","size":"16K","time":"Apr 12  2017"},
+      {"type":"directory","name":"VIDEO_TS","size":"16K","time":"Mar 12 12:24","contents":[
+        {"type":"file","name":"VIDEO_TS.BUP","size":"14K","time":"Apr 12  2017"},
+        {"type":"file","name":"VIDEO_TS.IFO","size":"14K","time":"Apr 12  2017"},
+        {"type":"file","name":"VIDEO_TS.VOB","size":"106K","time":"Apr 12  2017"},
+        {"type":"file","name":"VTS_01_0.BUP","size":"14K","time":"Apr 12  2017"},
+        {"type":"file","name":"VTS_01_0.IFO","size":"14K","time":"Apr 12  2017"},
+        {"type":"file","name":"VTS_01_1.VOB","size":"70M","time":"Apr 12  2017"}
+      ]}
+    ]}
+  ]}
+,
+  {"type":"report","directories":4,"files":6}
+]

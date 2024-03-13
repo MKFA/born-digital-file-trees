@@ -33,7 +33,7 @@ python3 full/path/to/generating-trees/generateJSONtree.py full/path/to/directory
 ```
 Example (creating access file):
 ```
-python3 /Users/mkf26/Documents/code/file-trees/generating-trees/generateJSONTree.py /Volumes/MKFA/ARCHIVES STORAGE/Born_digital_processing/AIPs/hard_drives/D-0199/original_files access
+python3 /Users/mkf26/Documents/code/file-trees/generating-trees/generateJSONTree.py /Volumes/MKFA/ARCHIVES\ STORAGE/Born_digital_processing/AIPs/hard_drives/D-0199/original_files access
 ```
 
 To create JSON files for all directories (AIPs or DIPs):
@@ -44,7 +44,7 @@ done;
 ```
 Example (with '_access' appended to each json filename):
 ```
-for d in /Volumes/MKFA/ARCHIVES STORAGE/Born_digital_processing/AIPs/hard_drives;
+for d in /Volumes/MKFA/ARCHIVES\ STORAGE/Born_digital_processing/AIPs/hard_drives;
 do python3 /Users/mkf26/Documents/code/file-trees/generating-trees/generateJSONTree.py ${d}/original_files access;
 done;
 ```

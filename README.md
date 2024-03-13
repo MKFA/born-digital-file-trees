@@ -31,7 +31,7 @@ To create a new JSON file for one directory (the basic command):
 ```
 python3 full/path/to/generating-trees/generateJSONtree.py full/path/to/directory [optional string to append to new file]
 ```
-Example (creating access file):
+Example (with '_access' appended to the json filename):
 ```
 python3 /Users/mkf26/Documents/code/file-trees/generating-trees/generateJSONTree.py /Volumes/MKFA/ARCHIVES\ STORAGE/Born_digital_processing/AIPs/hard_drives/D-0199/original_files access
 ```

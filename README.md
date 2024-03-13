@@ -38,13 +38,15 @@ python3 /Users/mkf26/Documents/code/file-trees/generating-trees/generateJSONTree
 
 To create JSON files for all directories (AIPs or DIPs):
 ```
-for d in path/to/directories/*;
+cd full/path/to/directories
+for d in *;
 do python3 full/path/to/generating-trees/generateJSONtree.py ${d}/original_files [optional string to append to new files];
 done;
 ```
 Example (with '_access' appended to each json filename):
 ```
-for d in /Volumes/MKFA/ARCHIVES\ STORAGE/Born_digital_processing/AIPs/hard_drives;
+cd /Volumes/MKFA/ARCHIVES\ STORAGE/Born_digital_processing/AIPs/hard_drives
+for d in *;
 do python3 /Users/mkf26/Documents/code/file-trees/generating-trees/generateJSONTree.py ${d}/original_files access;
 done;
 ```
@@ -57,7 +59,8 @@ python3 full/path/to/generating-trees/generateHTMLfromJSON.py full/path/to/file.
 ```
 To create JSON files for all directories (AIPs or DIPs):
 ```
-for f in path/to/repo/json/*;
+cd path/to/repo/json
+for f in *;
 do python3 full/path/to/generating-trees/generateHTMLfromJSON.py $f [optional string to append to new files];
 done;
 ```

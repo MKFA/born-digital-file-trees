@@ -1,6 +1,6 @@
 # Generating file trees for born-digital files
 HTML file trees for appraisal and description at MKFA
-Video documentation [available here]([url](https://drive.google.com/drive/folders/1ep2jIHv5nC-zeJhnaPgAvBZX_JJblzla)).
+Video documentation [available here]([https://drive.google.com/drive/folders/1ep2jIHv5nC-zeJhnaPgAvBZX_JJblzla]).
 
 ## Dependencies to install
 

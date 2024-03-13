@@ -31,12 +31,24 @@ To create a new JSON file for one directory (the basic command):
 ```
 python3 full/path/to/generating-trees/generateJSONtree.py full/path/to/directory [optional string to append to new file]
 ```
+Example (creating access file):
+```
+python3 /Users/mkf26/Documents/code/file-trees/generating-trees/generateJSONTree.py /Volumes/MKFA/ARCHIVES STORAGE/Born_digital_processing/AIPs/hard_drives/D-0199/original_files access
+```
+
 To create JSON files for all directories (AIPs or DIPs):
 ```
 for d in path/to/directories/*;
 do python3 full/path/to/generating-trees/generateJSONtree.py ${d}/original_files [optional string to append to new files];
 done;
 ```
+Example (with '_access' appended to each json filename):
+```
+for d in /Volumes/MKFA/ARCHIVES STORAGE/Born_digital_processing/AIPs/hard_drives;
+do python3 /Users/mkf26/Documents/code/file-trees/generating-trees/generateJSONTree.py ${d}/original_files access;
+done;
+```
+
 
 ### Create HTML files from JSON
 To create a new HTML file from one JSON (the basic command):

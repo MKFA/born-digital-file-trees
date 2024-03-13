@@ -16,6 +16,8 @@ pip install beautifulsoup4
 ## Clone this repository to local machine
 https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository 
 
+Once you have the repository cloned, pull from main branch in origin prior to creating new branches.
+
 ## In order to create new file trees
 
 ### Create JSON files for trees
@@ -42,4 +44,12 @@ for f in path/to/repo/json/*;
 do python3 full/path/to/generating-trees/generateHTMLfromJSON.py $f [optional string to append to new files];
 done;
 ```
+### Create new index
 
+
+## Commit and push the JSON, HTML and new index to GitHub
+Commit is a local change. Push to origin (GitHub) will synch the selected local commits to the cloud.
+You can batch run json and html files for multiple AIPs and then select them all to apply in a single commit/push process.
+
+### Review and merge pull requests in GitHub
+Delete the branch in GitHub and locally once completed.

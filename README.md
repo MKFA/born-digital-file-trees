@@ -12,6 +12,11 @@ This library handles html modifcation and is used to generrate the HTML files fr
 ```
 pip install beautifulsoup4
 ```
+### Bash tree
+Install tree using homebrew:
+```
+brew install tree
+```
 
 ## Clone this repository to local machine
 https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository 
@@ -45,7 +50,10 @@ do python3 full/path/to/generating-trees/generateHTMLfromJSON.py $f [optional st
 done;
 ```
 ### Create new index
-
+To regenerate file-tree index page:
+```
+python3 full/path/to/generating-trees/generateIndex.py
+```
 
 ## Commit and push the JSON, HTML and new index to GitHub
 Commit is a local change. Push to origin (GitHub) will synch the selected local commits to the cloud.
